@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Search
+permalink: /search/
 ---
 
 <!-- Html Elements for Search -->
