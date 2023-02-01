@@ -30,9 +30,7 @@ At the end of the page, something is making things a little bit more exiting.
 
 Okay, there is a portable binary for this, nice.
 
-```
-This CLI will output a vscode.dev URL tied to this remote machine, such as https://vscode.dev/tunnel/<machine_name>/<folder_name>. You can open this URL on a client of your choosing.
-```
+```This CLI will output a vscode.dev URL tied to this remote machine, such as https://vscode.dev/tunnel/<machine_name>/<folder_name>. You can open this URL on a client of your choosing.```
 
 Okay, there is MS domain, hosting the C2 channel, things are getting better. The VSCode binary is also proxyaware and portable.
 
@@ -139,9 +137,7 @@ The code binary is spawning a nodejs application and some powershell scripts, wh
 The communication is going through `global.rel.tunnels.api.visualstudio.com` as Microsoft stated and via WebSockets, so this can be blocked.
 [https://code.visualstudio.com/docs/remote/tunnels](https://code.visualstudio.com/docs/remote/tunnels)
 
-```
-If you're part of an organization who wants to control access to Remote Tunnels, you can do so by allowing or denying access to the domain global.rel.tunnels.api.visualstudio.com.
-```
+```If you're part of an organization who wants to control access to Remote Tunnels, you can do so by allowing or denying access to the domain global.rel.tunnels.api.visualstudio.com.```
 
 Starting VSCode in the tunnel mode, will drop some JSON files on the disk. The location of the files is handed over via the `--cli-data-dir` paramter but defaults to:
 `%UserProfile%\.vscode-cli`
