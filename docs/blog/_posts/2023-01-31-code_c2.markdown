@@ -68,7 +68,7 @@ To grant access to the server, please log into https://github.com/login/device a
 
 - We follow the instrctions and open the provided url on our attacker system.
 We will see a device code authentication, like known from Azure.
-![Github Device Code Authentication](/docs/assets/media/Code_C2/Code_Tunnel_Step1.png){:width="100%"}
+![Github Device Code Authentication](/docs/assets/media/Code_C2/Code_Tunnel_Step1.png){:width="75%"}
 *Github Device Code Authentication*
 
 - After that, the code tunnel will be established.
