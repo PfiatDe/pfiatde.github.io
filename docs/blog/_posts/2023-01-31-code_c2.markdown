@@ -4,8 +4,7 @@ title:  "Let's Go (VS) Code - Red Team style"
 date:   2023-01-31 21:44:17 +0000
 ---
 
-# Let's Go (VS) Code - Red Team style\
-or the Microsoft signed and hosted Reverse Shell
+# Let's Go (VS) Code - Red Team style\ or the Microsoft signed and hosted Reverse Shell
 
 ## TL;DR;
 
