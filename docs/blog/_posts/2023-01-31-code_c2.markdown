@@ -201,13 +201,17 @@ $link.Save()
 
 ## PoC Video for the attack Chain
 
-mov
-![](/docs/assets/media/Code_C2/PoC.mov){:width="100%"}
-<video autoplay="autoplay" loop="loop"a width="100%" height="">
-  <source src="/docs/assets/media/Code_C2/PoC.mov" type="video/mp4">
+1
+<video src="https://user-images.githubusercontent.com/47333109/216149551-de681b36-4dab-412b-8310-99b16d1ffad8.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-![](https://user-images.githubusercontent.com/47333109/216149551-de681b36-4dab-412b-8310-99b16d1ffad8.mp4)
+2
+<video src="/docs/assets/media/Code_C2/PoC.mov" controls="controls" style="max-width: 730px;">
+</video>
+
+3
+<video src="/docs/assets/media/Code_C2/PoC.webm" controls="controls" style="max-width: 730px;">
+</video>
 
 
 
