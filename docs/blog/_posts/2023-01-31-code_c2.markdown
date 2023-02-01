@@ -21,7 +21,7 @@ https://code.visualstudio.com/docs/remote/tunnels
 
 https://code.visualstudio.com/blogs/2022/12/07/remote-even-better
 
-![VSCode tunnels Documentation](/assets/media/Code_C2/MS_Doku_1.png)
+![VSCode tunnels Documentation](/docs/assets/media/Code_C2/MS_Doku_1.png){:width="100%"}*VSCode tunnels Documentation*
 
 So what do we have here? VSCode is capable of establishing a connection to a remote system. 
 - Okay fine, as remote debuggers are not new, not so exiting, but things will get better.
