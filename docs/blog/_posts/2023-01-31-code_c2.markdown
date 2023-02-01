@@ -200,13 +200,9 @@ $link.Save()
 ```
 
 ## PoC Video for the attack Chain
+The video is showing an example attack chain via a shortcut and gathering the device code via interact.sh service.
 
-1
-<video src="https://user-images.githubusercontent.com/47333109/216149551-de681b36-4dab-412b-8310-99b16d1ffad8.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-2
-<video src="https://raw.githubusercontent.com/PfiatDe/pfiatde.github.io/main/docs/assets/media/Code_C2/PoC.mp4" controls="controls" style=";">
+<video src="docs/assets/media/Code_C2/PoC.mp4" controls="controls" style=";">
 </video>
 
 
