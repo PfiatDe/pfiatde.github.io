@@ -204,6 +204,11 @@ $link.Save()
 <video autoplay="autoplay" loop="loop"a width="100%" height="">
   <source src="/docs/assets/media/Code_C2/PoC.webm" type="video/webm">
 </video>
+mov
+![](/docs/assets/media/Code_C2/PoC.mov){:width="100%"}
+<video autoplay="autoplay" loop="loop"a width="100%" height="">
+  <source src="/docs/assets/media/Code_C2/PoC.mov" type="video/mp4">
+</video>
 
 If we add some wellknown Applocker bypass paths like C:\Windows\Temp and specify a working directory with `--cli-data-dir` we can also beat a basic Applocker configuration, even with Powershell in Constrained Language Mode (CLM) running by a user without admin privileges.
 
