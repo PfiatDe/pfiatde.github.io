@@ -206,7 +206,7 @@ $link.Save()
 </video>
 
 2
-<video src="/docs/assets/media/Code_C2/PoC.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://raw.githubusercontent.com/PfiatDe/pfiatde.github.io/main/docs/assets/media/Code_C2/PoC.mp4" controls="controls" style=";">
 </video>
 
 
