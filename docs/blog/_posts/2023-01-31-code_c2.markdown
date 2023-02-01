@@ -50,7 +50,7 @@ Lets dive in the steps.
 As the binary is signed from Microsoft, we do not need to take care of Mark-of-the-Web, as it will get ignorred and also we will Bypass Smartscreen. If combined with some tricks seen later, we will also bypass Applocker and Powershell Constrained Language Mode if in default configuration.
 
 The certificate of the binary is as following:
-![Code.exe signed by MS](assets/media/Code_C2/Code_Cert.png)
+![Code.exe signed by MS](/docs/assets/media/Code_C2/Code_Cert.png){:width="100%"}*Code.exe signed by MS*
 
 - Start the binary on the client.
 
@@ -70,7 +70,7 @@ To grant access to the server, please log into https://github.com/login/device a
 
 - We follow the instrctions and open the provided url on our attacker system.
 We will see a device code authentication, like known from Azure.
-![](assets/media/Code_C2/Code_Tunnel_Step1.png)
+![Github Device Code Authentication](/docs/assets/media/Code_C2/Code_Tunnel_Step1.png){:width="100%"}*Github Device Code Authentication*
 
 - After that, the code tunnel will be established.
 
@@ -95,13 +95,13 @@ We get a nice Working Project on the victims machine.
 Over the URL, we can control the path, meaning if we just use C: we get access to all files on the system, in the limits of the user permissions.
 So open https://vscode.dev/tunnel/itsmeC2/C: and add the C: to the workspace.
 
-![File Browser](assets/media/Code_C2/Code_C2_1.png)
+![File Browser](/docs/assets/media/Code_C2/Code_C2_1.png){:width="100%"}
 Nice, we can browse, read and edit all the files remotly.
 
 
 Filebrowsing is nice, but what about Command Execution?
 We just say: Menue -> Terminal -> New Terminal
-![Remote Powershell](assets/media/Code_C2/Code_C2_2.png) 
+![Remote Powershell](/docs/assets/media/Code_C2/Code_C2_2.png) {:width="100%"}
 
 and we get a nice Powershell remote session on the client.
 
@@ -121,7 +121,7 @@ A nice feature is the installation of extensions on the remote host.
 
 For example, we now can run some python scripts if the Python was installed on the main machine.
 One caveat here is, that we need to save the file to disk, but there might be some ways around it.
-![](assets/media/Code_C2/Code_C2_5.png)
+![](/docs/assets/media/Code_C2/Code_C2_5.png){:width="100%"}
 
 
 Connectiing via VSCode Desktop is straight forward, you just need the extension as stated in the official MS Blogpost.
@@ -140,7 +140,7 @@ If you're part of an organization who wants to control access to Remote Tunnels,
 
 Starting VSCode in the tunnel mode, will drop some JSON files on the disk. The location of the files is handed over via the `--cli-data-dir` paramter but defaults to:
 `%UserProfile%\.vscode-cli`
-![](assets/media/Code_C2/Code_C2_7.png)
+![](/docs/assets/media/Code_C2/Code_C2_7.png){:width="100%"}
 
 So monitoring for the `code_tunnel.json` might be possible.
 
@@ -194,4 +194,4 @@ $link.Save()
 
 If we add some wellknown Applocker bypass paths like C:\Windows\Temp and specify a working directory with `--cli-data-dir` we can also beat a basic Applocker configuration, even with Powershell in Constrained Language Mode (CLM) running by a user without admin privileges.
 
-![](assets/media/Code_C2/Code_C2_8.png)
+![](/docs/assets/media/Code_C2/Code_C2_8.png){:width="100%"}
