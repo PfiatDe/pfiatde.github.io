@@ -207,6 +207,10 @@ mov
   <source src="/docs/assets/media/Code_C2/PoC.mov" type="video/mp4">
 </video>
 
+![](https://user-images.githubusercontent.com/47333109/216149551-de681b36-4dab-412b-8310-99b16d1ffad8.mp4)
+
+
+
 If we add some wellknown Applocker bypass paths like C:\Windows\Temp and specify a working directory with `--cli-data-dir` we can also beat a basic Applocker configuration, even with Powershell in Constrained Language Mode (CLM) running by a user without admin privileges.
 
 ![](/docs/assets/media/Code_C2/Code_C2_8.png){:width="100%"}
