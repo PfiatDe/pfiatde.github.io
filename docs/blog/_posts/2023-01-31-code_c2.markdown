@@ -200,10 +200,7 @@ $link.Save()
 ```
 
 ## PoC Video for the attack Chain
-![](/docs/assets/media/Code_C2/PoC.webm){:width="100%"}
-<video autoplay="autoplay" loop="loop"a width="100%" height="">
-  <source src="/docs/assets/media/Code_C2/PoC.webm" type="video/webm">
-</video>
+
 mov
 ![](/docs/assets/media/Code_C2/PoC.mov){:width="100%"}
 <video autoplay="autoplay" loop="loop"a width="100%" height="">
