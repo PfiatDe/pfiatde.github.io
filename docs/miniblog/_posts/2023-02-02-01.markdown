@@ -1,0 +1,12 @@
+---
+layout: post
+title:  ""
+date:   2023-02-02 19:55 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Ouch! Oracle Java licensing switches to employee count metric
+[https://itassetmanagement.net/2023/01/24/ouch-oracle-java-licensing-switches-to-employee-count/](https://itassetmanagement.net/2023/01/24/ouch-oracle-java-licensing-switches-to-employee-count/)
+Oracle changes the way Java must be licensed. It's not anymore by server, it's now be accounts in the tenant / AD.
+<!--more-->

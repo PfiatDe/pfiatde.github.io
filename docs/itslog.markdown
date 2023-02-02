@@ -8,8 +8,8 @@ permalink: /itslog/
   {% for post in site.posts %}
     {% if post.categories contains "miniblog" %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
         {{ post.excerpt }}
+        Full Post:<a href="{{ post.url }}">{{ post.url }}</a>
       </li>
     {% endif %}
   {% endfor %}
