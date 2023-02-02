@@ -8,7 +8,8 @@ permalink: /blogs/
   {% for post in site.posts %}
     {% if post.categories contains "blog" %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <h1>{{ post.title }}</h1>
+        <a href="{{ post.url }}">{{ post.url }}</a>
         {{ post.excerpt }}
       </li>
     {% endif %}
