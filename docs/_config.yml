@@ -28,8 +28,7 @@ twitter_username: pfiatde
 github_username:  PfiatDe
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
