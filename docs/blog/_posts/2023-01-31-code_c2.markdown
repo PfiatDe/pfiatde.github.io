@@ -3,6 +3,7 @@ layout: post
 title:  "Let's Go (VS) Code - Red Team style"
 date:   2023-01-31 21:44:17 +0000
 author: PfiatDe
+excerpt_separator: <!--more-->
 ---
 
 # Let's Go (VS) Code - Red Team style <br> or the Microsoft signed and hosted Reverse Shell
@@ -10,7 +11,7 @@ author: PfiatDe
 ## TL;DR;
 
 MS is offering a signed binary (code.exe), which will establish a Command&Control channel via an official Microsoft domain https://vscode.dev. The C2 communication itself is going to https://global.rel.tunnels.api.visualstudio.com over WebSockets. An attacker only needs an Github account.
-
+<!--more-->
 
 
 ## Preamble
