@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ""
-date:   2023-02-02 19:55 +0000
+date:   2023-02-02 19:55:00 +0000
 author: PfiatDe
 excerpt_separator: <!--more-->
 ---
