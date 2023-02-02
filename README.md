@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # badoption.eu
 
 ## Why badoption.eu?
