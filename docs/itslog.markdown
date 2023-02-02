@@ -11,8 +11,7 @@ permalink: /itslog/
         {{ post.excerpt }}
         Full Post here: <a href="{{ post.url }}">{{ post.url }}</a>
       </li>
-    <hr>
+      <hr>
     {% endif %}
   {% endfor %}
 </ul>
-
