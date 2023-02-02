@@ -2,6 +2,7 @@
 layout: post
 title:  "Let's Go (VS) Code - Red Team style"
 date:   2023-01-31 21:44:17 +0000
+author: PfiatDe
 ---
 
 # Let's Go (VS) Code - Red Team style <br> or the Microsoft signed and hosted Reverse Shell
@@ -129,26 +130,6 @@ One caveat here is, that we need to save the file to disk, but there might be so
 
 Connectiing via VSCode Desktop is straight forward, you just need the extension as stated in the official MS Blogpost.
 
-
-## IOCs & Mitigation
-
-The code binary is spawning a nodejs application and some powershell scripts, which could be detected.
-
-The communication is going through `global.rel.tunnels.api.visualstudio.com` as Microsoft stated and via WebSockets, so this can be blocked.
-[https://code.visualstudio.com/docs/remote/tunnels](https://code.visualstudio.com/docs/remote/tunnels)
-
-```If you're part of an organization who wants to control access to Remote Tunnels, you can do so by allowing or denying access to the domain global.rel.tunnels.api.visualstudio.com.```
-
-Starting VSCode in the tunnel mode, will drop some JSON files on the disk. The location of the files is handed over via the `--cli-data-dir` paramter but defaults to:
-`%UserProfile%\.vscode-cli`
-![](/docs/assets/media/Code_C2/Code_C2_7.png){:width="100%"}
-*JSON Files dropped to disk*
-
-So monitoring for the `code_tunnel.json` might be possible.
-
-
-
-
 ## Build an attack chain
 
 Lets try to build a complete attack chain.
@@ -207,3 +188,21 @@ If we add some wellknown Applocker bypass paths like C:\Windows\Temp and specify
 
 ![](/docs/assets/media/Code_C2/Code_C2_8.png){:width="100%"}
 *Applocker and CLM Bypass*
+
+## IOCs & Mitigation
+
+The code binary is spawning a nodejs application and some powershell scripts, which could be detected.
+![](/docs/assets/media/Code_C2/Code_C2_Processes.png){:width="100%"}
+*Process tree*
+
+The communication is going through `global.rel.tunnels.api.visualstudio.com` as Microsoft stated and via WebSockets, so this can be blocked.
+[https://code.visualstudio.com/docs/remote/tunnels](https://code.visualstudio.com/docs/remote/tunnels)
+
+```If you're part of an organization who wants to control access to Remote Tunnels, you can do so by allowing or denying access to the domain global.rel.tunnels.api.visualstudio.com.```
+
+Starting VSCode in the tunnel mode, will drop some JSON files on the disk. The location of the files is handed over via the `--cli-data-dir` paramter but defaults to:
+`%UserProfile%\.vscode-cli`
+![](/docs/assets/media/Code_C2/Code_C2_7.png){:width="100%"}
+*JSON Files dropped to disk*
+
+So monitoring for the `code_tunnel.json` might be possible.
