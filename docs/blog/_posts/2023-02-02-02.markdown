@@ -7,6 +7,8 @@ excerpt_separator: <!--more-->
 ---
 
 # CactusCon 2023: BloodHound Unleashed
+
 [https://www.n00py.io/2023/02/cactuscon-2023-bloodhound-unleashed/](https://www.n00py.io/2023/02/cactuscon-2023-bloodhound-unleashed/)
+
 Nice presentation about Bloodhound, Cypherqueries and attack paths.
 <!--more-->
