@@ -7,7 +7,7 @@ permalink: /blogs/
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains "blog" %}
-      <li>
+      <li style="list-style-type: none;">
         {{ post.excerpt }}
         Full Post here: <a href="{{ post.url }}">{{ post.url }}</a>
       </li>
