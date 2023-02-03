@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Precious Gemstones: The New Generation of Kerberos Attacks
+
 [https://unit42.paloaltonetworks.com/next-gen-kerberos-attacks/](https://unit42.paloaltonetworks.com/next-gen-kerberos-attacks/)
 
 ...

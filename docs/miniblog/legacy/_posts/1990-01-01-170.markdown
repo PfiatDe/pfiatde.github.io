@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Mind the Gap
+
 [https://googleprojectzero.blogspot.com/2022/11/mind-the-gap.html](https://googleprojectzero.blogspot.com/2022/11/mind-the-gap.html)
 
 ...

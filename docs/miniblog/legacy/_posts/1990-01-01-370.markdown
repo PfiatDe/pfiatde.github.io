@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Passwordspraying gegen Azure - aad-sso-enum-brute-spray
+
 [https://github.com/treebuilder/aad-sso-enum-brute-spray](https://github.com/treebuilder/aad-sso-enum-brute-spray)
+
 [https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/](https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/)
 
 ...

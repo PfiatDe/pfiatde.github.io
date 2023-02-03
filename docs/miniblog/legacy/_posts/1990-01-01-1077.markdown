@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # You're M̶u̶t̶e̶d̶ Rooted - Zoom LPE unter macOS
+
 [https://speakerdeck.com/patrickwardle/youre-muted-rooted](https://speakerdeck.com/patrickwardle/youre-muted-rooted)
 
 ...

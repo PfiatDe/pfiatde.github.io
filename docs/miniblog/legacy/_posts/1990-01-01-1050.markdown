@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # PART 3: How I Met Your Beacon – Brute Ratel
+
 [https://www.mdsec.co.uk/2022/08/part-3-how-i-met-your-beacon-brute-ratel/](https://www.mdsec.co.uk/2022/08/part-3-how-i-met-your-beacon-brute-ratel/)
+
 [https://twitter.com/domchell](https://twitter.com/domchell)
 
 ...

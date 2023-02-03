@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Microsoft verbessert Schutz gegen Makros ab April
+
 [https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-kill-malware-delivery-via-office-macros/](https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-kill-malware-delivery-via-office-macros/)
 
 ...

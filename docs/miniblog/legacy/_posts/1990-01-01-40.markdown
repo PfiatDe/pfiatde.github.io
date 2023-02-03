@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Pwn2Own Miami 2022: OPC UA .NET Standard Trusted Application Check Bypass
+
 [https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/](https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/)
 
 ...

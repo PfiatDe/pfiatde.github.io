@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Cool vulns don't live long - Netgear and Pwn2Own
+
 [https://www.synacktiv.com/en/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html](https://www.synacktiv.com/en/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html)
 
 ...

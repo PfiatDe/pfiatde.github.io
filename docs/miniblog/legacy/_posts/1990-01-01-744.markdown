@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Multiple Vulnerabilities in Proxmox VE & Proxmox Mail Gateway
+
 [https://starlabs.sg/blog/2022/12-multiple-vulnerabilites-in-proxmox-ve--proxmox-mail-gateway/](https://starlabs.sg/blog/2022/12-multiple-vulnerabilites-in-proxmox-ve--proxmox-mail-gateway/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Heap tricks never get old - Insomni'hack teaser 2022
+
 [https://www.synacktiv.com/en/publications/heap-tricks-never-get-old-insomnihack-teaser-2022.html](https://www.synacktiv.com/en/publications/heap-tricks-never-get-old-insomnihack-teaser-2022.html)
 
 ...

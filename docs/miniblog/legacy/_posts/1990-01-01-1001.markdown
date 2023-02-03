@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-2992 - Gitlab Remote Command Execution via Github import
+
 [https://hackerone.com/reports/1679624](https://hackerone.com/reports/1679624)
+
 [https://about.gitlab.com/releases/2022/08/30/critical-security-release-gitlab-15-3-2-released/#remote-command-execution-via-github-import](https://about.gitlab.com/releases/2022/08/30/critical-security-release-gitlab-15-3-2-released/#remote-command-execution-via-github-import)
 
 ...

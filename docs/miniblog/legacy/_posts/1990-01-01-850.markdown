@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # It’s Not You! Windows Security Logs Don’t Make Sense
+
 [https://medium.com/@tareq.alkhatib/its-not-you-windows-security-logs-don-t-make-sense-4e421a0bbd0](https://medium.com/@tareq.alkhatib/its-not-you-windows-security-logs-don-t-make-sense-4e421a0bbd0)
 
 ...

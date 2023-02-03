@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer (Part 1)
+
 [https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1](https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
+
 [https://www.zerodayinitiative.com/blog/2022/8/23/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-2](https://www.zerodayinitiative.com/blog/2022/8/23/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-2)
+
 [https://www.youtube.com/watch?v=S7E1bP1WJDU&feature=emb_title](https://www.youtube.com/watch?v=S7E1bP1WJDU&feature=emb_title)
+
 [https://github.com/mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)
 
 ...

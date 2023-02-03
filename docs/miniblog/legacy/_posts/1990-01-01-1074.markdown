@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # WordPress Core - Unauthenticated Blind SSRF
+
 [https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/](https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/)
 
 ...

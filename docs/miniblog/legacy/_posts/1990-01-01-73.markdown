@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Twitter pranksters derail GPT-3 bot with newly discovered “prompt injection” hack
+
 [https://arstechnica.com/information-technology/2022/09/twitter-pranksters-derail-gpt-3-bot-with-newly-discovered-prompt-injection-hack/](https://arstechnica.com/information-technology/2022/09/twitter-pranksters-derail-gpt-3-bot-with-newly-discovered-prompt-injection-hack/)
+
 [https://arxiv.org/pdf/2209.02128.pdf](https://arxiv.org/pdf/2209.02128.pdf)
+
 [https://twitter.com/goodside/status/1569128808308957185](https://twitter.com/goodside/status/1569128808308957185)
+
 [https://simonwillison.net/2022/Sep/12/prompt-injection/](https://simonwillison.net/2022/Sep/12/prompt-injection/)
 
 ...

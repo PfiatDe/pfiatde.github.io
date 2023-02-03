@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Exploit for CVE-2021-40449 (Win32k - LPE)
+
 [https://github.com/ly4k/CallbackHell](https://github.com/ly4k/CallbackHell)
+
 [https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/](https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/)
+
 [https://github.com/S3cur3Th1sSh1t/Creds/blob/master/PowershellScripts/CVE-2021-40449.ps1](https://github.com/S3cur3Th1sSh1t/Creds/blob/master/PowershellScripts/CVE-2021-40449.ps1)
+
 [https://github.com/S3cur3Th1sSh1t/Creds/blob/master/obfuscatedps/CVE-2021-40449.ps1](https://github.com/S3cur3Th1sSh1t/Creds/blob/master/obfuscatedps/CVE-2021-40449.ps1)
 
 ...

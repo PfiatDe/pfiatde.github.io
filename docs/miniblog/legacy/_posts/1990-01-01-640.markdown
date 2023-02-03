@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # ASR schützt LSASS Prozess gegen auslesen
+
 [https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-will-soon-block-windows-password-theft/](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-will-soon-block-windows-password-theft/)
 
 ...

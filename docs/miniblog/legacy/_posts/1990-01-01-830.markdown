@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Tech-support-scams für infosec
+
 [https://www.bleepingcomputer.com/news/security/hackers-impersonate-cybersecurity-firms-in-callback-phishing-attacks/](https://www.bleepingcomputer.com/news/security/hackers-impersonate-cybersecurity-firms-in-callback-phishing-attacks/)
 
 ...

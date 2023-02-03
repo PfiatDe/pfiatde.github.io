@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Fakesign Binaries to bypass AVs/EDR
+
 [https://twitter.com/mariuszbit/status/1547320418821980160](https://twitter.com/mariuszbit/status/1547320418821980160)
+
 [https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming/Self-Signed%20Threat](https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming/Self-Signed%20Threat)
 
 ...

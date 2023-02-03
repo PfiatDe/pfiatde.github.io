@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # AnyDesk Escalation of Privilege (CVE-2021-40854)
+
 [https://labs.redyops.com/index.php/2021/10/18/anydesk-escalation-of-privilege-cve-2021-40854/](https://labs.redyops.com/index.php/2021/10/18/anydesk-escalation-of-privilege-cve-2021-40854/)
+
 [https://www.youtube.com/watch?v=DdRTbUkP860](https://www.youtube.com/watch?v=DdRTbUkP860)
 
 ...

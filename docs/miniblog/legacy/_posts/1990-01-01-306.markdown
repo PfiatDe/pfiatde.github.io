@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Weaponizing and Abusing Hidden FunctionalitiesContained in Office Document Properties
+
 [https://www.offensive-security.com/offsec/macro-weaponization/](https://www.offensive-security.com/offsec/macro-weaponization/)
 
 ...

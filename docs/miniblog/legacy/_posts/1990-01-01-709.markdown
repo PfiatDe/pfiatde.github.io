@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Turning bad SSRF to good SSRF: Websphere Portal
+
 [https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/](https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/)
+
 [https://blog.assetnote.io/2021/12/25/advisory-websphere-portal/](https://blog.assetnote.io/2021/12/25/advisory-websphere-portal/)
 
 ...

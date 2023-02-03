@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances
+
 [https://unit42.paloaltonetworks.com/azure-container-instances/](https://unit42.paloaltonetworks.com/azure-container-instances/)
 
 ...

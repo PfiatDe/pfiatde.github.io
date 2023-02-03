@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Game Of Active Directory v2 - GOAD v2 is out !
+
 [https://mayfly277.github.io/posts/GOADv2/](https://mayfly277.github.io/posts/GOADv2/)
+
 [https://github.com/Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 
 ...

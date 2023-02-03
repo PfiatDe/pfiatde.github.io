@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Building A Virtual Machine inside ChatGPT
+
 [https://www.engraved.blog/building-a-virtual-machine-inside/](https://www.engraved.blog/building-a-virtual-machine-inside/)
 
 ...

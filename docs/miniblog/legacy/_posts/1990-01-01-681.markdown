@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: Armageddon
+
 [https://0xdf.gitlab.io/2021/07/24/htb-armageddon.html](https://0xdf.gitlab.io/2021/07/24/htb-armageddon.html)
 
 ...

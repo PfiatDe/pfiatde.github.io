@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Issue 2346: Windows: HTTP.SYS Kerberos PAC Verification Bypass EoP - CVE-2022-41057
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2346](https://bugs.chromium.org/p/project-zero/issues/detail?id=2346)
 
 ...

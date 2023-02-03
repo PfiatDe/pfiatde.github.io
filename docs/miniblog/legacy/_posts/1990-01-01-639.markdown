@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows 11 enthält kein WMIC mehr
+
 [https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-killing-off-wmic-in-windows-will-thwart-attacks/](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-killing-off-wmic-in-windows-will-thwart-attacks/)
 
 ...

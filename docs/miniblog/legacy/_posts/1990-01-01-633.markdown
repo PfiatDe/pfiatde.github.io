@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # A pinch of XLL and a splash of rust has the potential to be a sharp combination
+
 [https://redteamer.tips/a-pinch-of-xll-and-a-splash-of-rust-has-the-potential-to-be-a-sharp-combination/](https://redteamer.tips/a-pinch-of-xll-and-a-splash-of-rust-has-the-potential-to-be-a-sharp-combination/)
 
 ...

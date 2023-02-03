@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # The enemy from within: Unauthenticated Buffer Overflows in Zyxel routers still haunting users 
+
 [https://sec-consult.com/blog/detail/enemy-within-unauthenticated-buffer-overflows-zyxel-routers/](https://sec-consult.com/blog/detail/enemy-within-unauthenticated-buffer-overflows-zyxel-routers/)
+
 [https://github.com/rapid7/metasploit-framework/pull/17388](https://github.com/rapid7/metasploit-framework/pull/17388)
 
 ...

@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Security issues related to the npm registry
+
 [https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/)
+
 [https://bounty.github.com/](https://bounty.github.com/)
+
 [https://blog.fefe.de/?ts=9f6d176a](https://blog.fefe.de/?ts=9f6d176a)
 
 ...

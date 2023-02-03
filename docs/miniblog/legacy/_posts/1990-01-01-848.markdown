@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Group3r - AD GPO Enumeration Tool
+
 [https://github.com/Group3r/Group3r](https://github.com/Group3r/Group3r)
+
 [https://github.com/SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler)
 
 ...

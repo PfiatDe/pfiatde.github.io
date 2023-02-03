@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Pwning Microsoft Azure Defender for IoT | Multiple Flaws Allow Remote Code Execution for All
+
 [https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/](https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/)
 
 ...

@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Can it run Doom? -Can Doom run it? - Game Injection
+
 [https://www.doomworld.com/forum/topic/123342-doom2-asteroids-code-exec/?tab=comments#comment-2352444](https://www.doomworld.com/forum/topic/123342-doom2-asteroids-code-exec/?tab=comments#comment-2352444)
+
 [https://twitter.com/_kgsws_/status/1416833897837510656](https://twitter.com/_kgsws_/status/1416833897837510656)
+
 [https://youtu.be/6aKNJQfPWD8](https://youtu.be/6aKNJQfPWD8)
 
 ...

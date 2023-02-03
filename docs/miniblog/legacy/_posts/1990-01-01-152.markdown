@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2020-8625: A Fifteen-Year-Old RCE Bug Returns in ISC BIND Server
+
 [https://www.zerodayinitiative.com/blog/2021/2/24/cve-2020-8625-a-fifteen-year-old-rce-bug-returns-in-isc-bind-server](https://www.zerodayinitiative.com/blog/2021/2/24/cve-2020-8625-a-fifteen-year-old-rce-bug-returns-in-isc-bind-server)
 
 ...

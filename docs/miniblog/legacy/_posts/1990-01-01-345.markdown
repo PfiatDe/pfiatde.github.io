@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-28219: Unauthenticated XXE to RCE and Domain Compromise in ManageEngine ADAudit Plus
+
 [https://www.horizon3.ai/red-team-blog-cve-2022-28219/](https://www.horizon3.ai/red-team-blog-cve-2022-28219/)
+
 [https://github.com/horizon3ai/CVE-2022-28219](https://github.com/horizon3ai/CVE-2022-28219)
 
 ...

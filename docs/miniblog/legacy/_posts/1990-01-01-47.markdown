@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Pwning 3CX Phone Management Backends from the Internet
+
 [https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88](https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88)
 
 ...

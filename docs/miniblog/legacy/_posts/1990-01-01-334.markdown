@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # URL Shorteners
+
 [https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md](https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md)
+
 [https://bit.ly](https://bit.ly)
+
 [https://bitly.com/3qEgtMT+](https://bitly.com/3qEgtMT+)
 
 ...

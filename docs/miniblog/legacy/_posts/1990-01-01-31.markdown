@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE: CVE-2022-26911 - Skype4Business authenticated arbitrary Fileread
+
 [https://lab.viettelcybersecurity.com/advisories/VCSA-97](https://lab.viettelcybersecurity.com/advisories/VCSA-97)
+
 [https://twitter.com/ptswarm/status/1549744638193541122](https://twitter.com/ptswarm/status/1549744638193541122)
 
 ...

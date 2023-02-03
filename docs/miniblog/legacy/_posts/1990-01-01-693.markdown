@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # The JNDI Strikes Back – Unauthenticated RCE in H2 Database Console
+
 [https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/](https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/)
 
 ...

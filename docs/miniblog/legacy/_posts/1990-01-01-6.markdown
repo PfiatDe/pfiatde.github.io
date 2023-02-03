@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # NAT Slipstreaming v2.0
+
 [https://www.armis.com/resources/iot-security-blog/nat-slipstreaming-v2-0-new-attack-variant-can-expose-all-internal-network-devices-to-the-internet/](https://www.armis.com/resources/iot-security-blog/nat-slipstreaming-v2-0-new-attack-variant-can-expose-all-internal-network-devices-to-the-internet/)
 
 ...

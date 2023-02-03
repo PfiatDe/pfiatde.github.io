@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Pwn2Own Tokyo 2020: Defeating the TP-Link AC1750 - CVE-2021-27246.
+
 [https://www.zerodayinitiative.com/advisories/ZDI-21-215/](https://www.zerodayinitiative.com/advisories/ZDI-21-215/)
+
 [https://www.synacktiv.com//en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html](https://www.synacktiv.com//en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html)
 
 ...

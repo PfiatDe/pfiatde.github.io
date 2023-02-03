@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Certified Pre-OwnedAbusing Active Directory Certificate Services
+
 [http://www.harmj0y.net/blog/activedirectory/certified-pre-owned/](http://www.harmj0y.net/blog/activedirectory/certified-pre-owned/)
+
 [https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf](https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf)
 
 ...

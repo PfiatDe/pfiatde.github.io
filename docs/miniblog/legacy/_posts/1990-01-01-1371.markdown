@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Chromium based Browser SSL/TLS Error Bypass
+
 [https://twitter.com/cyb3rops/status/1561995926666985472](https://twitter.com/cyb3rops/status/1561995926666985472)
+
 [https://cybercafe.dev/thisisunsafe-bypassing-chrome-security-warnings/](https://cybercafe.dev/thisisunsafe-bypassing-chrome-security-warnings/)
 
 ...

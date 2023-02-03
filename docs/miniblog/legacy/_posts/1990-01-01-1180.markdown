@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Ich habe deutsche Kommunen auf Schwachstellen überprüft
+
 [https://renerehme.dev/blog/informationssicherheit-in-den-kommunen?s=09](https://renerehme.dev/blog/informationssicherheit-in-den-kommunen?s=09)
 
 ...

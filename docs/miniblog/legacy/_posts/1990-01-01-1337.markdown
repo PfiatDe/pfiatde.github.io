@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2021-26415 - Windows Installer Elevation of Privilege Vulnerability
+
 [https://www.cloaked.pl/2021/04/cve-2021-26415/](https://www.cloaked.pl/2021/04/cve-2021-26415/)
 
 ...

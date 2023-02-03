@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Attacking and Remediating Excessive Network Share Permissions in Active Directory Environments
+
 [https://www.netspi.com/blog/technical/network-penetration-testing/network-share-permissions-powerhuntshares/](https://www.netspi.com/blog/technical/network-penetration-testing/network-share-permissions-powerhuntshares/)
+
 [https://github.com/NetSPI/Powerhuntshares](https://github.com/NetSPI/Powerhuntshares)
 
 ...

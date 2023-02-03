@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Rawsec's CyberSecurity Inventory
+
 [https://inventory.raw.pm/index.html](https://inventory.raw.pm/index.html)
+
 [https://inventory.raw.pm/tools.html](https://inventory.raw.pm/tools.html)
 
 ...

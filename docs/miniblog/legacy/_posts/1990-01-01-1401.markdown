@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Issue 2310: Windows: Kerberos RC4 MD4 Encryption Downgrade EoP
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2310](https://bugs.chromium.org/p/project-zero/issues/detail?id=2310)
 
 ...

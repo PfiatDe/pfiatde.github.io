@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Graphical Lures In The Age of Cybercrime.
+
 [https://inquest.net/blog/2021/11/23/graphical-lures-age-cybercrime](https://inquest.net/blog/2021/11/23/graphical-lures-age-cybercrime)
 
 ...

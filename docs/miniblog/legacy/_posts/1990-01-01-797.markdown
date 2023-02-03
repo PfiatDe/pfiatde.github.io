@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Microsoft’s December 2021 Patch Tuesday Addresses 67 CVEs (CVE-2021-43890)
+
 [https://de.tenable.com/blog/microsofts-december-2021-patch-tuesday-addresses-67-cves-cve-2021-43890](https://de.tenable.com/blog/microsofts-december-2021-patch-tuesday-addresses-67-cves-cve-2021-43890)
 
 ...

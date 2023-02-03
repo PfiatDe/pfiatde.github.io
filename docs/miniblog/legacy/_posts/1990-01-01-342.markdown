@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # ‘Demon’s Cries’ authentication bypass patched in Netgear switches
+
 [https://therecord.media/demons-cries-authentication-bypass-patched-in-netgear-switches/](https://therecord.media/demons-cries-authentication-bypass-patched-in-netgear-switches/)
+
 [https://gynvael.coldwind.pl/?id=740](https://gynvael.coldwind.pl/?id=740)
+
 [https://gynvael.coldwind.pl/?id=741](https://gynvael.coldwind.pl/?id=741)
 
 ...

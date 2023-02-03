@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Suborner: A Windows Bribery for Invisible Persistence
+
 [https://github.com/r4wd3r/Suborner](https://github.com/r4wd3r/Suborner)
+
 [https://r4wsec.com/notes/the_suborner_attack/index.html](https://r4wsec.com/notes/the_suborner_attack/index.html)
 
 ...

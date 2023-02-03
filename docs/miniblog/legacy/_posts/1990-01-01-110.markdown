@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # OMIGOD: Critical Vulnerabilities in OMI Affecting Countless Azure Customers
+
 [https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure](https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure)
 
 ...

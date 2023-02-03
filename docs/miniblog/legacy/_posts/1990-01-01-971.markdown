@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Kritische Sicherheitslücke: Gitlab-Update außer der Reihe
+
 [https://www.heise.de/news/Kritische-Sicherheitsluecke-Gitlab-Update-ausser-der-Reihe-6660080.html](https://www.heise.de/news/Kritische-Sicherheitsluecke-Gitlab-Update-ausser-der-Reihe-6660080.html)
+
 [https://about.gitlab.com/releases/2022/03/31/critical-security-release-gitlab-14-9-2-released/](https://about.gitlab.com/releases/2022/03/31/critical-security-release-gitlab-14-9-2-released/)
 
 ...

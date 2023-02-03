@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Sequoia: A deep root in Linux's filesystem layer (CVE-2021-33909)
+
 [https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-local-privilege-escalation-linux.txt](https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-local-privilege-escalation-linux.txt)
+
 [https://www.qualys.com/2021/07/20/cve-2021-33910/denial-of-service-systemd.txt](https://www.qualys.com/2021/07/20/cve-2021-33910/denial-of-service-systemd.txt)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows Privilege Escalation: Server Operator Group
+
 [https://www.hackingarticles.in/windows-privilege-escalation-server-operator-group/](https://www.hackingarticles.in/windows-privilege-escalation-server-operator-group/)
+
 [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-groups#server-operators](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-groups#server-operators)
 
 ...

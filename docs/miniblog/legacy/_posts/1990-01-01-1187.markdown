@@ -7,13 +7,21 @@ excerpt_separator: <!--more-->
 ---
 
 # Unit 42 Finds Three Vulnerabilities in OpenLiteSpeed Web Server
+
 [https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/](https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/)
+
 [https://www.cve.org/CVERecord?id=CVE-2022-0073](https://www.cve.org/CVERecord?id=CVE-2022-0073)
+
 [https://www.cve.org/CVERecord?id=CVE-2022-0074](https://www.cve.org/CVERecord?id=CVE-2022-0074)
+
 [https://www.cve.org/CVERecord?id=CVE-2022-0072](https://www.cve.org/CVERecord?id=CVE-2022-0072)
+
 [https://www.paloaltonetworks.com/cortex/cortex-xpanse](https://www.paloaltonetworks.com/cortex/cortex-xpanse)
+
 [https://www.shodan.io/](https://www.shodan.io/)
+
 [https://github.com/litespeedtech/openlitespeed/tree/v1.7.16.1](https://github.com/litespeedtech/openlitespeed/tree/v1.7.16.1)
+
 [https://store.litespeedtech.com/store/index.php?rp=/announcements/451](https://store.litespeedtech.com/store/index.php?rp=/announcements/451)
 
 ...

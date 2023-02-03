@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Networking VMs for HTB
+
 [https://0xdf.gitlab.io/2021/05/04/networking-vms-for-htb.html](https://0xdf.gitlab.io/2021/05/04/networking-vms-for-htb.html)
 
 ...

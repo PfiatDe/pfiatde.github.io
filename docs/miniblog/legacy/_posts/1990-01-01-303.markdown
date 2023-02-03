@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # The InfoSecurity Challenge 2021 Full Writeup: Battle Royale for $30k
+
 [https://spaceraccoon.dev/the-infosecurity-challenge-2021-full-writeup-battle-royale-for-30k?pk_campaign=rss-feed](https://spaceraccoon.dev/the-infosecurity-challenge-2021-full-writeup-battle-royale-for-30k?pk_campaign=rss-feed)
 
 ...

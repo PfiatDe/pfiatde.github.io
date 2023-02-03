@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # How the Kaseya VSA Zero Day Exploit Worked
+
 [https://blog.truesec.com/2021/07/06/kaseya-vsa-zero-day-exploit/](https://blog.truesec.com/2021/07/06/kaseya-vsa-zero-day-exploit/)
+
 [https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/diving-deeper-into-the-kaseya-vsa-attack-revil-returns-and-other-hackers-are-riding-their-coattails/](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/diving-deeper-into-the-kaseya-vsa-attack-revil-returns-and-other-hackers-are-riding-their-coattails/)
 
 ...

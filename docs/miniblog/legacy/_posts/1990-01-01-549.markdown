@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Bypassing Image Load Kernel Callbacks
+
 [https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/](https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/)
+
 [https://github.com/bats3c/DarkLoadLibrary](https://github.com/bats3c/DarkLoadLibrary)
 
 ...

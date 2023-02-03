@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # I Am Whoever I Say I Am: Infiltrating Identity Providers Using a 0Click Exploit
+
 [https://www.blackhat.com/us-22/briefings/schedule/#i-am-whoever-i-say-i-am-infiltrating-identity-providers-using-a-click-exploit-26946](https://www.blackhat.com/us-22/briefings/schedule/#i-am-whoever-i-say-i-am-infiltrating-identity-providers-using-a-click-exploit-26946)
+
 [http://i.blackhat.com/USA-22/Wednesday/US-22-Seeley-IAM-who-I-say-IAM.pdf](http://i.blackhat.com/USA-22/Wednesday/US-22-Seeley-IAM-who-I-say-IAM.pdf)
+
 [https://www.youtube.com/watch?v=2y3jgJSgnEo](https://www.youtube.com/watch?v=2y3jgJSgnEo)
 
 ...

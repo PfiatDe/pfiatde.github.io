@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Issue 2228: Windows: EFSRPC Arbitrary File Upload EoP
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2228](https://bugs.chromium.org/p/project-zero/issues/detail?id=2228)
+
 [https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-43893](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-43893)
 
 ...

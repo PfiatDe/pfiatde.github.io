@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # NIST Retires SHA-1 Cryptographic Algorithm
+
 [https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
+
 [https://www.usenix.org/conference/usenixsecurity20/presentation/leurent](https://www.usenix.org/conference/usenixsecurity20/presentation/leurent)
 
 ...

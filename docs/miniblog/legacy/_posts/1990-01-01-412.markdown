@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Escalating XSS to Sainthood with Nagios - Nagios <
+
 [https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html](https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html)
+
 [https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.11.02-nagios](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.11.02-nagios)
 
 ...

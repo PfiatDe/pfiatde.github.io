@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Virtual Disks (VHD(x), ISO) erhalten MOTW
+
 [https://twitter.com/BillDemirkapi/status/1590062146486140928](https://twitter.com/BillDemirkapi/status/1590062146486140928)
+
 [https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-zero-day-bug-exploited-to-push-malware/](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-zero-day-bug-exploited-to-push-malware/)
 
 ...

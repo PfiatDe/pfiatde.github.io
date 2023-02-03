@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Taking Kerberos to the next Level - Blackhat USA 2022 - James Forshaw - Nick Landers
+
 [https://github.com/tyranid/blackhat-usa-2022-demos/blob/main/slides.pdf](https://github.com/tyranid/blackhat-usa-2022-demos/blob/main/slides.pdf)
+
 [https://github.com/tyranid/blackhat-usa-2022-demos](https://github.com/tyranid/blackhat-usa-2022-demos)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB Business CTF Write-ups
+
 [https://www.synacktiv.com/publications/htb-business-ctf-write-ups.html](https://www.synacktiv.com/publications/htb-business-ctf-write-ups.html)
+
 [https://github.com/synacktiv/CTF-Write-ups/tree/main/HTB-Business-CTF-2021](https://github.com/synacktiv/CTF-Write-ups/tree/main/HTB-Business-CTF-2021)
 
 ...

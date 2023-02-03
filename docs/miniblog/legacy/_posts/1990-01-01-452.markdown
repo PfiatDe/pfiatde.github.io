@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Popular 'coa' NPM library hijacked to steal user passwords
+
 [https://www.bleepingcomputer.com/news/security/popular-coa-npm-library-hijacked-to-steal-user-passwords/](https://www.bleepingcomputer.com/news/security/popular-coa-npm-library-hijacked-to-steal-user-passwords/)
+
 [https://twitter.com/BleepinComputer/status/1456323106465882114](https://twitter.com/BleepinComputer/status/1456323106465882114)
 
 ...

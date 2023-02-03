@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Masterpiece Video about DRAM. Low level!
+
 [https://www.youtube.com/watch?v=7J7X7aZvMXQ&t=572s](https://www.youtube.com/watch?v=7J7X7aZvMXQ&t=572s)
 
 ...

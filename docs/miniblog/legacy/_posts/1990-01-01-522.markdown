@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Drupal insecure default leads to password reset poisoning
+
 [https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/](https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/)
+
 [https://portswigger.net/web-security/host-header/exploiting/password-reset-poisoning](https://portswigger.net/web-security/host-header/exploiting/password-reset-poisoning)
 
 ...

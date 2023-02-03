@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # dotnetfile Open Source Python Library: Parsing .NET PE Files Has Never Been Easier
+
 [https://unit42.paloaltonetworks.com/dotnetfile/](https://unit42.paloaltonetworks.com/dotnetfile/)
+
 [https://github.com/pan-unit42/dotnetfile](https://github.com/pan-unit42/dotnetfile)
+
 [https://pan-unit42.github.io/dotnetfile/get_started/usage/](https://pan-unit42.github.io/dotnetfile/get_started/usage/)
 
 ...

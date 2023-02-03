@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: Schooled
+
 [https://0xdf.gitlab.io/2021/09/11/htb-schooled.html](https://0xdf.gitlab.io/2021/09/11/htb-schooled.html)
 
 ...

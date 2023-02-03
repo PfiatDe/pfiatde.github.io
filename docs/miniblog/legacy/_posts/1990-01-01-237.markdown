@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Using Kerberos for Authentication Relay Attacks
+
 [https://github.com/antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
+
 [https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html](https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html)
+
 [https://googleprojectzero.blogspot.com/2021/10/windows-exploitation-tricks-relaying.html](https://googleprojectzero.blogspot.com/2021/10/windows-exploitation-tricks-relaying.html)
+
 [https://twitter.com/tiraniddo/status/1451216794950242309](https://twitter.com/tiraniddo/status/1451216794950242309)
 
 ...

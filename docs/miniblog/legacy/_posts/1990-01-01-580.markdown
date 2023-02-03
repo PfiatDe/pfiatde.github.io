@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Bypassing Windows 10 UAC with mock folders and DLL hijacking
+
 [https://www.bleepingcomputer.com/news/security/bypassing-windows-10-uac-with-mock-folders-and-dll-hijacking/](https://www.bleepingcomputer.com/news/security/bypassing-windows-10-uac-with-mock-folders-and-dll-hijacking/)
+
 [https://daniels-it-blog.blogspot.com/2020/07/uac-bypass-via-dll-hijacking-and-mock.html](https://daniels-it-blog.blogspot.com/2020/07/uac-bypass-via-dll-hijacking-and-mock.html)
 
 ...

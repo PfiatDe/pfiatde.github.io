@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Branch History Injection - SpectreV2-BHI
+
 [https://www.vusec.net/projects/bhi-spectre-bhb/](https://www.vusec.net/projects/bhi-spectre-bhb/)
+
 [https://github.com/vusec/bhi-spectre-bhb](https://github.com/vusec/bhi-spectre-bhb)
 
 ...

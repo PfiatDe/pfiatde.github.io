@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Zero-Day Disclosure: Palo Alto Networks GlobalProtect VPN CVE-2021-3064
+
 [https://www.randori.com/blog/cve-2021-3064/](https://www.randori.com/blog/cve-2021-3064/)
+
 [https://www.randori.com/platform/](https://www.randori.com/platform/)
 
 ...

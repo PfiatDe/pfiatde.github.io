@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: TheNotebook
+
 [https://0xdf.gitlab.io/2021/07/31/htb-thenotebook.html](https://0xdf.gitlab.io/2021/07/31/htb-thenotebook.html)
 
 ...

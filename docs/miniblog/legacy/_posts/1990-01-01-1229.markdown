@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # RCE 0-day that afftceted to GhostScript-9.50
+
 [https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50](https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50)
+
 [https://twitter.com/wdormann/status/1434567659476197382](https://twitter.com/wdormann/status/1434567659476197382)
+
 [https://twitter.com/ducnt_/status/1434534373416574983](https://twitter.com/ducnt_/status/1434534373416574983)
 
 ...

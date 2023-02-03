@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # HotPics 2021 - RCE via GhostScript
+
 [https://twitter.com/emil_lerner/status/1430502815181463559](https://twitter.com/emil_lerner/status/1430502815181463559)
+
 [https://www.slideshare.net/neexemil/hotpics-2021](https://www.slideshare.net/neexemil/hotpics-2021)
 
 ...

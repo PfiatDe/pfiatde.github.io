@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Write Windows Shellcode in Rust
+
 [https://github.com/b1tg/rust-windows-shellcode](https://github.com/b1tg/rust-windows-shellcode)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-46908 - SQLite --safe context bypass
+
 [https://threadreaderapp.com/thread/1604460621646307328.html](https://threadreaderapp.com/thread/1604460621646307328.html)
 
 ...

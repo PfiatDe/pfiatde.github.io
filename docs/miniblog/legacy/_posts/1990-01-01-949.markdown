@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-35742 -  Outlook DoS
+
 [https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-35742](https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-35742)
 
 ...

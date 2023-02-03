@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # This shouldn't have happened: A vulnerability postmortem
+
 [https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
+
 [https://blog.fefe.de/?ts=9f593877](https://blog.fefe.de/?ts=9f593877)
 
 ...

@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Grafana v8.x Arbitrary File Read - 0day
+
 [https://github.com/projectdiscovery/nuclei-templates/blob/master/vulnerabilities/grafana/grafana-file-read.yaml](https://github.com/projectdiscovery/nuclei-templates/blob/master/vulnerabilities/grafana/grafana-file-read.yaml)
+
 [https://github.com/jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798)
+
 [https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/](https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/)
 
 ...

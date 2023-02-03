@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Solving DOM XSS Puzzles
+
 [https://spaceraccoon.dev/solving-dom-xss-puzzles](https://spaceraccoon.dev/solving-dom-xss-puzzles)
 
 ...

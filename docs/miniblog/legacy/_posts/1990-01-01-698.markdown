@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # MS-FSRVP abuse (ShadowCoerce)
+
 [https://www.thehacker.recipes/ad/movement/mitm-and-coerced-authentications/ms-fsrvp](https://www.thehacker.recipes/ad/movement/mitm-and-coerced-authentications/ms-fsrvp)
+
 [https://github.com/ShutdownRepo/ShadowCoerce](https://github.com/ShutdownRepo/ShadowCoerce)
 
 ...

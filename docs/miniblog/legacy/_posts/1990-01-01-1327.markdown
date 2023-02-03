@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # ChatGPT - OpenAI
+
 [https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)
+
 [https://twitter.com/gf_256/status/1598104835848798208](https://twitter.com/gf_256/status/1598104835848798208)
 
 ...

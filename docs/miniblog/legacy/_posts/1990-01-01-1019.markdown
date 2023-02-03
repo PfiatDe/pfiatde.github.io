@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Deliver a Strike by Reversing a Badger: Brute Ratel Detection and Analysis
+
 [https://www.splunk.com/en_us/blog/security/deliver-a-strike-by-reversing-a-badger-brute-ratel-detection-and-analysis.html](https://www.splunk.com/en_us/blog/security/deliver-a-strike-by-reversing-a-badger-brute-ratel-detection-and-analysis.html)
 
 ...

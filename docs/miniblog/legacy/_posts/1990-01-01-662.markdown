@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Certipy 2.0: BloodHound, New Escalations, Shadow Credentials, Golden Certificates, and more!
+
 [https://research.ifcr.dk/certipy-2-0-bloodhound-new-escalations-shadow-credentials-golden-certificates-and-more-34d1c26f0dc6](https://research.ifcr.dk/certipy-2-0-bloodhound-new-escalations-shadow-credentials-golden-certificates-and-more-34d1c26f0dc6)
+
 [https://github.com/ly4k/Certipy](https://github.com/ly4k/Certipy)
 
 ...

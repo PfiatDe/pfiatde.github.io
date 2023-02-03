@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Azure AD Certificate-Based Authentication now in Public Preview
+
 [https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-certificate-based-authentication-now-in-public-preview/ba-p/2464390](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-certificate-based-authentication-now-in-public-preview/ba-p/2464390)
 
 ...

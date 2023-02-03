@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows - EDRHunt
+
 [https://github.com/FourCoreLabs/EDRHunt](https://github.com/FourCoreLabs/EDRHunt)
+
 [https://www.fourcore.vision/blogs/Red-Team-Adventure:-Digging-into-Windows-Endpoints-for-EDRs-and-profit-cUf](https://www.fourcore.vision/blogs/Red-Team-Adventure:-Digging-into-Windows-Endpoints-for-EDRs-and-profit-cUf)
 
 ...

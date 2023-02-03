@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Breaking electron-store's encryption
+
 [https://blog.jse.li/posts/electron-store-encryption/](https://blog.jse.li/posts/electron-store-encryption/)
 
 ...

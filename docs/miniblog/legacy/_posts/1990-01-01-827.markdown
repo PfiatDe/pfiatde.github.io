@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # A deeper dive into CVE-2021-39137 – a Golang security bug that Rust would have prevented
+
 [https://research.nccgroup.com/2022/02/07/a-deeper-dive-into-cve-2021-39137-a-golang-security-bug-that-rust-would-have-prevented/](https://research.nccgroup.com/2022/02/07/a-deeper-dive-into-cve-2021-39137-a-golang-security-bug-that-rust-would-have-prevented/)
 
 ...

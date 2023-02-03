@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Expanding the Hound: Introducing Plaintext Field to Compromised Accounts
+
 [https://www.trustedsec.com/blog/expanding-the-hound-introducing-plaintext-field-to-compromised-accounts/](https://www.trustedsec.com/blog/expanding-the-hound-introducing-plaintext-field-to-compromised-accounts/)
+
 [https://neo4j.com/docs/api/python-driver/current/](https://neo4j.com/docs/api/python-driver/current/)
+
 [https://github.com/trustedsec/crackhound](https://github.com/trustedsec/crackhound)
 
 ...

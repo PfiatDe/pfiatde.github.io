@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You
+
 [https://emily.id.au/tailscale](https://emily.id.au/tailscale)
 
 ...

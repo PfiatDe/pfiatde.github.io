@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Issue 2223: Zoom: Buffer overflow when processing chat messages
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2223](https://bugs.chromium.org/p/project-zero/issues/detail?id=2223)
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2235](https://bugs.chromium.org/p/project-zero/issues/detail?id=2235)
 
 ...

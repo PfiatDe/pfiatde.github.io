@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # 2021 Year In Review - The DFIR Report
+
 [https://thedfirreport.com/](https://thedfirreport.com/)
+
 [https://thedfirreport.com/2022/03/07/2021-year-in-review/](https://thedfirreport.com/2022/03/07/2021-year-in-review/)
 
 ...

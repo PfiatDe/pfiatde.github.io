@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Blinding EDR On Windows
+
 [https://synzack.github.io/Blinding-EDR-On-Windows/](https://synzack.github.io/Blinding-EDR-On-Windows/)
+
 [https://www.unknowncheats.me/forum/anti-cheat-bypass/307003-cert-sign-drivers-sha1.html](https://www.unknowncheats.me/forum/anti-cheat-bypass/307003-cert-sign-drivers-sha1.html)
 
 ...

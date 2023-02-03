@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Travis-CI - Leak of sensitive files
+
 [https://travis-ci.community/t/security-bulletin/12081](https://travis-ci.community/t/security-bulletin/12081)
+
 [https://twitter.com/peter_szilagyi/status/1437646118700175360](https://twitter.com/peter_szilagyi/status/1437646118700175360)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # The past 10 years of Automotive Vulnerabilities
+
 [https://schmiedecker.net/talks/2022-06-30_Troopers22.pdf](https://schmiedecker.net/talks/2022-06-30_Troopers22.pdf)
+
 [https://www.carhackingvillage.com/](https://www.carhackingvillage.com/)
 
 ...

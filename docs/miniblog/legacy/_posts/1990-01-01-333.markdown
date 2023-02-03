@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Password spraying and MFA bypasses in the modern security landscape
+
 [https://www.sprocketsecurity.com/blog/how-to-bypass-mfa-all-day#](https://www.sprocketsecurity.com/blog/how-to-bypass-mfa-all-day#)
 
 ...

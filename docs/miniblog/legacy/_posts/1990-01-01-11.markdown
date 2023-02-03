@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Capability Abstraction Case Study: Detecting Malicious Boot Configuration Modifications
+
 [https://posts.specterops.io/capability-abstraction-case-study-detecting-malicious-boot-configuration-modifications-1852e2098a65](https://posts.specterops.io/capability-abstraction-case-study-detecting-malicious-boot-configuration-modifications-1852e2098a65)
 
 ...

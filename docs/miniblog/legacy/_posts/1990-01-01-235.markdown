@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # WinRAR’s vulnerable trialware: when free software isn’t free
+
 [https://swarm.ptsecurity.com/winrars-vulnerable-trialware-when-free-software-isnt-free/](https://swarm.ptsecurity.com/winrars-vulnerable-trialware-when-free-software-isnt-free/)
 
 ...

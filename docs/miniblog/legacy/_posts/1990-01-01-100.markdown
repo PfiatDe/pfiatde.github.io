@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Burp Suite - solving E-mail and SMS TAN multi-factor authentication with Hackvertor custom tags
+
 [https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication/](https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication/)
 
 ...

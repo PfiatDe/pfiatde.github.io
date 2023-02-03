@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Object Overloading - Windows
+
 [https://www.trustedsec.com/blog/object-overloading/](https://www.trustedsec.com/blog/object-overloading/)
+
 [https://github.com/xpn/ObjectOverloadingPOC](https://github.com/xpn/ObjectOverloadingPOC)
 
 ...

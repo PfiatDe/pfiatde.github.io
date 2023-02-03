@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # KeepassXC Read Password from Memory
+
 [https://twitter.com/snovvcrash/status/1591042450315149317](https://twitter.com/snovvcrash/status/1591042450315149317)
+
 [https://keepassxc.org/blog/2019-02-21-memory-security/](https://keepassxc.org/blog/2019-02-21-memory-security/)
 
 ...

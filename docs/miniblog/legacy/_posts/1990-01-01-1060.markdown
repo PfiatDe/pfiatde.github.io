@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Hacking Zyxel IP cameras to gain a root shell
+
 [http://www.hydrogen18.com/blog/hacking-zyxel-ip-cameras-pt-1.html](http://www.hydrogen18.com/blog/hacking-zyxel-ip-cameras-pt-1.html)
+
 [https://github.com/hydrogen18/zyxel_ipc_camera_pwn](https://github.com/hydrogen18/zyxel_ipc_camera_pwn)
 
 ...

@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # SpoolFool: Windows Print Spooler Privilege Escalation (CVE-2022–22718)
+
 [https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81](https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81)
+
 [https://github.com/ly4k/SpoolFool](https://github.com/ly4k/SpoolFool)
+
 [https://twitter.com/ly4k_/status/1491147676389617664](https://twitter.com/ly4k_/status/1491147676389617664)
 
 ...

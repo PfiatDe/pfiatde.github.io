@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Chrome 0.5day - RCE
+
 [https://github.com/avboy1337/1195777-chrome0day](https://github.com/avboy1337/1195777-chrome0day)
+
 [https://docs.microsoft.com/de-de/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview](https://docs.microsoft.com/de-de/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # From RPC to RCE - Workstation Takeover via RBCD and MS-RPChoose-Your-Own-Adventure
+
 [https://gist.github.com/gladiatx0r/1ffe59031d42c08603a3bde0ff678feb](https://gist.github.com/gladiatx0r/1ffe59031d42c08603a3bde0ff678feb)
 
 ...

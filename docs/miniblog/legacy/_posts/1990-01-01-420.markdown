@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Understanding Zigbee and Wireless Mesh Networking
+
 [https://www.blackhillsinfosec.com/understanding-zigbee-and-wireless-mesh-networking/](https://www.blackhillsinfosec.com/understanding-zigbee-and-wireless-mesh-networking/)
 
 ...

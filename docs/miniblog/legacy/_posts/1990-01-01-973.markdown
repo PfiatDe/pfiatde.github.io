@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Analysing LastPass, Part 1
+
 [https://www.mdsec.co.uk/2022/10/analysing-lastpass-part-1/](https://www.mdsec.co.uk/2022/10/analysing-lastpass-part-1/)
 
 ...

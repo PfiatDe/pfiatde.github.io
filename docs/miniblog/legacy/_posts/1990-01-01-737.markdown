@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HardeningKitty and Windows 10 Hardening
+
 [https://github.com/0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening)
 
 ...

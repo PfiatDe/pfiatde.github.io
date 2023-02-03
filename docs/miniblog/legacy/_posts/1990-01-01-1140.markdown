@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-42889: Apache Commons Text prior to 1.10.0 allows RCE when applied to untrusted input due to insecure interpolation defaults
+
 [https://lists.apache.org/thread/n2bd4vdsgkqh2tm14l1wyc3jyol7s1om](https://lists.apache.org/thread/n2bd4vdsgkqh2tm14l1wyc3jyol7s1om)
+
 [https://www.rapid7.com/blog/post/2022/10/17/cve-2022-42889-keep-calm-and-stop-saying-4shell/](https://www.rapid7.com/blog/post/2022/10/17/cve-2022-42889-keep-calm-and-stop-saying-4shell/)
 
 ...

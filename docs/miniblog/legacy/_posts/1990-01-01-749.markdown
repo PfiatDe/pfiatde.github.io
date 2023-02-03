@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Android App Hacking Workshop
+
 [https://bughunters.google.com/learn/presentations/5783688075542528](https://bughunters.google.com/learn/presentations/5783688075542528)
+
 [https://docs.google.com/presentation/d/e/2PACX-1vRfkbkN5WBmVMMmLLc03vuCffss824QdjgeT8wazOL_JKq41DStlKQqkRb9vCYnZ7FbbDB6FlOel-0V/embed?start=false&loop=false&delayms=3000#slide=id.gdcf936a1c0_4_55](https://docs.google.com/presentation/d/e/2PACX-1vRfkbkN5WBmVMMmLLc03vuCffss824QdjgeT8wazOL_JKq41DStlKQqkRb9vCYnZ7FbbDB6FlOel-0V/embed?start=false&loop=false&delayms=3000#slide=id.gdcf936a1c0_4_55)
 
 ...

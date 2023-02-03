@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # SQL Injection in Wordpress core (CVE-2022–21661)
+
 [https://cognn.medium.com/sql-injection-in-wordpress-core-zdi-can-15541-a451c492897](https://cognn.medium.com/sql-injection-in-wordpress-core-zdi-can-15541-a451c492897)
+
 [https://2019.zeronights.ru/wp-content/themes/zeronights-2019/public/materials/7_PaulAxe_ZN_PWN_Challenge.pdf](https://2019.zeronights.ru/wp-content/themes/zeronights-2019/public/materials/7_PaulAxe_ZN_PWN_Challenge.pdf)
 
 ...

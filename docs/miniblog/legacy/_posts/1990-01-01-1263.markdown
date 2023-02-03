@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Zero-Day Exploitation of Atlassian Confluence - CVE-2022-26134.
+
 [https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
+
 [https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html](https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html)
 
 ...

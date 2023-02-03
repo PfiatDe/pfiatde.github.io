@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Process injection: breaking all macOS security layers with a single vulnerability
+
 [https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/](https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/)
+
 [https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/demo.webm](https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/demo.webm)
 
 ...

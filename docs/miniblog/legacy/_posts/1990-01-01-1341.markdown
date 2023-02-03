@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # MySQL Windows EoP
+
 [https://www.kb.cert.org/vuls/id/567764](https://www.kb.cert.org/vuls/id/567764)
 
 ...

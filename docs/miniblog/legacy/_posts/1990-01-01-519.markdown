@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Feral Terror - RCE in Netgear Switches
+
 [https://gynvael.coldwind.pl/?id=733](https://gynvael.coldwind.pl/?id=733)
 
 ...

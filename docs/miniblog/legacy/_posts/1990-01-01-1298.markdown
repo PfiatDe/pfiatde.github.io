@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Using OpenAI Chat to Generate Phishing Campaigns
+
 [https://www.richardosgood.com/posts/using-openai-chat-for-phishing/](https://www.richardosgood.com/posts/using-openai-chat-for-phishing/)
+
 [https://github.com/lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT)
 
 ...

@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # letme.go – A minimalistic Meterpreter stager written in Go
+
 [https://twitter.com/0xdea/status/1472846804643463176](https://twitter.com/0xdea/status/1472846804643463176)
+
 [https://security.humanativaspa.it/letme-go-a-minimalistic-meterpreter-stager-written-in-go/](https://security.humanativaspa.it/letme-go-a-minimalistic-meterpreter-stager-written-in-go/)
+
 [https://github.com/0xdea/tactical-exploitation/blob/master/letme.go](https://github.com/0xdea/tactical-exploitation/blob/master/letme.go)
+
 [https://github.com/0xdea/tactical-exploitation/blob/master/letmein.ps1](https://github.com/0xdea/tactical-exploitation/blob/master/letmein.ps1)
 
 ...

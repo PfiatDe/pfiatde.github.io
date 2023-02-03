@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Your Microsoft Teams chats aren’t as private as you think..
+
 [https://infinitelogins.com/2021/06/06/your-microsoft-teams-chats-arent-as-private-as-you-think/](https://infinitelogins.com/2021/06/06/your-microsoft-teams-chats-arent-as-private-as-you-think/)
+
 [https://github.com/Xenov-X/PoSH_Teams_Message_Theif](https://github.com/Xenov-X/PoSH_Teams_Message_Theif)
 
 ...

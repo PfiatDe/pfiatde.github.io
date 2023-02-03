@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Google & Apache Found Vulnerable to GitHub Environment Injection
+
 [https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0](https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0)
 
 ...

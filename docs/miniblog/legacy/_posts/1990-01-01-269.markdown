@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Facebook account takeover due to a wide platform bug in ajaxpipe responses
+
 [https://ysamm.com/?p=654](https://ysamm.com/?p=654)
 
 ...

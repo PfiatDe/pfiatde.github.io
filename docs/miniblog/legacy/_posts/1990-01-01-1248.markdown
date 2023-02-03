@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # DFSCoerce - NetNTLM Coerced Auth
+
 [https://twitter.com/filip_dragovic/status/1538154721655103488](https://twitter.com/filip_dragovic/status/1538154721655103488)
+
 [https://github.com/Wh04m1001/DFSCoerce](https://github.com/Wh04m1001/DFSCoerce)
+
 [https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview](https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview)
 
 ...

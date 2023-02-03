@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Rogue RDP – Revisiting Initial Access Methods
+
 [https://www.blackhillsinfosec.com/rogue-rdp-revisiting-initial-access-methods/](https://www.blackhillsinfosec.com/rogue-rdp-revisiting-initial-access-methods/)
+
 [https://github.com/SySS-Research/Seth](https://github.com/SySS-Research/Seth)
 
 ...

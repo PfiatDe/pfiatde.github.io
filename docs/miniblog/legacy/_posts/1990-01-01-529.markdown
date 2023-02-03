@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Is exploiting a null pointer deref for LPE just a pipe dream? - WIndows LPE
+
 [https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream](https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream)
 
 ...

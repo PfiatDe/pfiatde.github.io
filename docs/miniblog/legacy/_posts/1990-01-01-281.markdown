@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Critical Flaws Discovered in Cisco Small Business RV Series Routers
+
 [https://thehackernews.com/2022/02/critical-flaws-discovered-in-cisco.html](https://thehackernews.com/2022/02/critical-flaws-discovered-in-cisco.html)
+
 [https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)
 
 ...

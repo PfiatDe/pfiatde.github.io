@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # LDAP relays for initial foothold in dire situations
+
 [https://offsec.almond.consulting/ldap-relays-for-initial-foothold-in-dire-situations.html](https://offsec.almond.consulting/ldap-relays-for-initial-foothold-in-dire-situations.html)
 
 ...

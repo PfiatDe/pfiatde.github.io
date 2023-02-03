@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Bitbucket Server and Data Center Advisory 2022-08-24
+
 [https://confluence.atlassian.com/bitbucketserver/bitbucket-server-and-data-center-advisory-2022-08-24-1155489835.html](https://confluence.atlassian.com/bitbucketserver/bitbucket-server-and-data-center-advisory-2022-08-24-1155489835.html)
+
 [https://twitter.com/TheGrandPew/status/1562596397819785216](https://twitter.com/TheGrandPew/status/1562596397819785216)
 
 ...

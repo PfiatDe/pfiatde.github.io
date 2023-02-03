@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # EFS RPC
+
 [https://twitter.com/tifkin_/status/1421226305463504896](https://twitter.com/tifkin_/status/1421226305463504896)
+
 [https://gist.github.com/leechristensen/fda130890fb3c194115e7b856640c30e](https://gist.github.com/leechristensen/fda130890fb3c194115e7b856640c30e)
+
 [https://github.com/zcgonvh/EfsPotato](https://github.com/zcgonvh/EfsPotato)
 
 ...

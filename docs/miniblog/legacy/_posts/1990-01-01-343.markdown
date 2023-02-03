@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Beefproject - Beef
+
 [https://github.com/beefproject/beef/releases](https://github.com/beefproject/beef/releases)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Seventh Inferno vulnerability (some NETGEAR smart switches)
+
 [https://gynvael.coldwind.pl/?id=742](https://gynvael.coldwind.pl/?id=742)
 
 ...

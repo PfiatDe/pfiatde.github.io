@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # WarCon 2022 – Modern Initial Access and Evasion Tactics
+
 [https://twitter.com/mariuszbit/status/1540795390928162816](https://twitter.com/mariuszbit/status/1540795390928162816)
+
 [https://mgeeky.tech/uploads/WarCon22%20-%20Modern%20Initial%20Access%20and%20Evasion%20Tactics.pdf](https://mgeeky.tech/uploads/WarCon22%20-%20Modern%20Initial%20Access%20and%20Evasion%20Tactics.pdf)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Exploitation of a double free vulnerability in Ubuntu shiftfs driver (CVE-2021-3492)
+
 [https://www.synacktiv.com/en/publications/exploitation-of-a-double-free-vulnerability-in-ubuntu-shiftfs-driver-cve-2021-3492.html](https://www.synacktiv.com/en/publications/exploitation-of-a-double-free-vulnerability-in-ubuntu-shiftfs-driver-cve-2021-3492.html)
 
 ...

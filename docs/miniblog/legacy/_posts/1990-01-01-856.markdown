@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Three Lessons From Threema: Analysis of a Secure Messenger
+
 [https://breakingthe3ma.app/](https://breakingthe3ma.app/)
+
 [https://breakingthe3ma.app/files/Threema-PST22.pdf](https://breakingthe3ma.app/files/Threema-PST22.pdf)
 
 ...

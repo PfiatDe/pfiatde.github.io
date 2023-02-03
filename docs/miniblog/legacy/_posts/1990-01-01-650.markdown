@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # A physical graffiti of LSASS: getting credentials from physical memory for fun and learning
+
 [https://adepts.of0x.cc/physical-graffiti-lsass/](https://adepts.of0x.cc/physical-graffiti-lsass/)
+
 [https://github.com/Adepts-Of-0xCC/SnoopyOwl](https://github.com/Adepts-Of-0xCC/SnoopyOwl)
 
 ...

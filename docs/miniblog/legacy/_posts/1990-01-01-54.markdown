@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Harvesting Active Directory credentials via HTTP Request Smuggling
+
 [https://northwave-security.com/harvesting-active-directory-credentials-via-http-request-smuggling/](https://northwave-security.com/harvesting-active-directory-credentials-via-http-request-smuggling/)
 
 ...

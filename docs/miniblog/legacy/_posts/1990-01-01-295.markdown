@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # AMSI-ETW-Patch - 1 Byte Memory patch
+
 [https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch](https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch)
+
 [https://twitter.com/MrUn1k0d3r/status/1590755697746415616](https://twitter.com/MrUn1k0d3r/status/1590755697746415616)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # No Logs? No Problem! Incident Response without Windows Event Logs
+
 [https://labs.jumpsec.com/no-logs-no-problem-incident-response-without-windows-event-logs/](https://labs.jumpsec.com/no-logs-no-problem-incident-response-without-windows-event-logs/)
 
 ...

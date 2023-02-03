@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # A Confused Deputy Vulnerability in AWS AppSync
+
 [https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/](https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Unmanaged Code Execution with .NET Dynamic PInvoke
+
 [https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/](https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Persistent PHP payloads in PNGs: How to inject PHP code in an image – and keep it there !
+
 [https://www.synacktiv.com/en/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html](https://www.synacktiv.com/en/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html)
 
 ...

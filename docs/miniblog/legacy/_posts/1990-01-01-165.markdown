@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Microsoft rolls back decision to block Office macros by default
+
 [https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-back-decision-to-block-office-macros-by-default/](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-back-decision-to-block-office-macros-by-default/)
+
 [https://www.golem.de/news/excel-powerpoint-word-microsoft-schaltet-makros-in-office-wieder-ein-2207-166755.html](https://www.golem.de/news/excel-powerpoint-word-microsoft-schaltet-makros-in-office-wieder-ein-2207-166755.html)
 
 ...

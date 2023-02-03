@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Pokémon Shellcode Loader
+
 [https://techryptic.github.io/2022/07/28/Pokemon-Shellcode-Loader/](https://techryptic.github.io/2022/07/28/Pokemon-Shellcode-Loader/)
+
 [https://github.com/Techryptic/Pokemon-Shellcode-Loader](https://github.com/Techryptic/Pokemon-Shellcode-Loader)
 
 ...

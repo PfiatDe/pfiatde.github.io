@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # PHP NULL Byte
+
 [https://twitter.com/PaulosYibelo/status/1431570096124674052](https://twitter.com/PaulosYibelo/status/1431570096124674052)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # GitHub Repojacking Bug Could've Allowed Attackers to Takeover Other Users' Repositories
+
 [https://checkmarx.com/blog/attacking-the-software-supply-chain-with-a-simple-rename/](https://checkmarx.com/blog/attacking-the-software-supply-chain-with-a-simple-rename/)
+
 [https://thehackernews.com/2022/10/github-repojacking-bug-couldve-allowed.html](https://thehackernews.com/2022/10/github-repojacking-bug-couldve-allowed.html)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2021-26084 Remote Code Execution on Confluence Servers
+
 [https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md](https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md)
+
 [https://www.exploit-db.com/exploits/50243](https://www.exploit-db.com/exploits/50243)
 
 ...

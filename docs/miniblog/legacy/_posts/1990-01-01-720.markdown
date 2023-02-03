@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # From Backup Operator To Domain Admin
+
 [https://github.com/mpgn/BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA)
+
 [https://github.com/SecureAuthCorp/impacket/pull/1257](https://github.com/SecureAuthCorp/impacket/pull/1257)
 
 ...

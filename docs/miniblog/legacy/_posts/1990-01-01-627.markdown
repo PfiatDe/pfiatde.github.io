@@ -7,10 +7,15 @@ excerpt_separator: <!--more-->
 ---
 
 # Blackhat: HTTP/2: The Sequel is Always Worse
+
 [https://portswigger.net/research/http2](https://portswigger.net/research/http2)
+
 [https://www.blackhat.com/us-21/briefings/schedule/#http-the-sequel-is-always-worse-22668](https://www.blackhat.com/us-21/briefings/schedule/#http-the-sequel-is-always-worse-22668)
+
 [https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Kettle-HTTP-The-Sequel-Is-Always-Worse.pdf](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Kettle-HTTP-The-Sequel-Is-Always-Worse.pdf)
+
 [https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Kettle-HTTP2-The-Sequel-Is-Always-Worse-wp.pdf](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Kettle-HTTP2-The-Sequel-Is-Always-Worse-wp.pdf)
+
 [https://github.com/PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler)
 
 ...

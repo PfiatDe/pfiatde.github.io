@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # SSD Advisory – pfSense Post Auth RCE
+
 [https://ssd-disclosure.com/ssd-advisory-pfsense-post-auth-rce/](https://ssd-disclosure.com/ssd-advisory-pfsense-post-auth-rce/)
+
 [https://twitter.com/0xdea/status/1578111558651084806](https://twitter.com/0xdea/status/1578111558651084806)
 
 ...

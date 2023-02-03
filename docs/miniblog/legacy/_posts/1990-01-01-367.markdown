@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Finden von Windows Registry Hives in virtuellen Festplatten - Needle
+
 [https://whynotsecurity.com/blog/needle/](https://whynotsecurity.com/blog/needle/)
+
 [https://github.com/blurbdust/needle](https://github.com/blurbdust/needle)
 
 ...

@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Trojan Source: Invisible Vulnerabilities
+
 [https://trojansource.codes/](https://trojansource.codes/)
+
 [https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
+
 [https://github.com/nickboucher/trojan-source](https://github.com/nickboucher/trojan-source)
+
 [https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/](https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/)
 
 ...

@@ -7,12 +7,19 @@ excerpt_separator: <!--more-->
 ---
 
 # Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling
+
 [https://portswigger.net/research/browser-powered-desync-attacks](https://portswigger.net/research/browser-powered-desync-attacks)
+
 [https://portswigger.net/kb/papers/firuaml/browser-powered-desync-attacks.pdf](https://portswigger.net/kb/papers/firuaml/browser-powered-desync-attacks.pdf)
+
 [https://portswigger.net/kb/papers/firuaml/browser-powered-desync-attacks-slides.pdf](https://portswigger.net/kb/papers/firuaml/browser-powered-desync-attacks-slides.pdf)
+
 [https://portswigger.net/research/browser-powered-desync-attacks#anomalies](https://portswigger.net/research/browser-powered-desync-attacks#anomalies)
+
 [https://portswigger.net/research/browser-powered-desync-attacks#csd](https://portswigger.net/research/browser-powered-desync-attacks#csd)
+
 [https://portswigger.net/research/browser-powered-desync-attacks#pause](https://portswigger.net/research/browser-powered-desync-attacks#pause)
+
 [https://portswigger.net/research/browser-powered-desync-attacks#conclusion](https://portswigger.net/research/browser-powered-desync-attacks#conclusion)
 
 ...

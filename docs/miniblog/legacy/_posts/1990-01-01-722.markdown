@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Never, Ever, Ever Use Pixelation for Redacting Text
+
 [https://bishopfox.com/blog/unredacter-tool-never-pixelation](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
+
 [https://github.com/bishopfox/unredacter](https://github.com/bishopfox/unredacter)
+
 [https://github.com/beurtschipper/Depix](https://github.com/beurtschipper/Depix)
+
 [https://labs.jumpsec.com/can-depix-deobfuscate-your-data/](https://labs.jumpsec.com/can-depix-deobfuscate-your-data/)
 
 ...

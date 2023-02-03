@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Discovering Zero-Day Vulnerabilities in McAfee Products (CVE-2021-31838)
+
 [https://blog.thecybersecuritytutor.com/discovering-mcafee-products-zero-day-vulnerabilities/](https://blog.thecybersecuritytutor.com/discovering-mcafee-products-zero-day-vulnerabilities/)
 
 ...

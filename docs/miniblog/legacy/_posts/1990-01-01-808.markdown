@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Javascript RegEx bypass
+
 [https://twitter.com/SonarSource/status/1468973725072564225](https://twitter.com/SonarSource/status/1468973725072564225)
+
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/lastIndex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/lastIndex)
 
 ...

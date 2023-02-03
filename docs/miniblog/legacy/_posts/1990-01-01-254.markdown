@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Utilizing Programmatic Identifiers (ProgIDs) for UAC Bypasses
+
 [https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses](https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses)
 
 ...

@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Nagios XI < 5.7.5 - 13 Nagios Vulnerabilities 
+
 [https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/](https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/)
+
 [https://github.com/skylightcyber/soygun](https://github.com/skylightcyber/soygun)
+
 [https://github.com/skylightcyber/soygun/blob/master/implant.php](https://github.com/skylightcyber/soygun/blob/master/implant.php)
+
 [https://www.tenable.com/cve/CVE-2020-28648](https://www.tenable.com/cve/CVE-2020-28648)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # ACSESSED: Cross-tenant network bypass in Azure Cognitive Search
+
 [https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/](https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/)
+
 [https://msrc.microsoft.com/update-guide/acknowledgement/online](https://msrc.microsoft.com/update-guide/acknowledgement/online)
 
 ...

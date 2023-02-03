@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: Stacked
+
 [https://0xdf.gitlab.io/2022/03/19/htb-stacked.html](https://0xdf.gitlab.io/2022/03/19/htb-stacked.html)
 
 ...

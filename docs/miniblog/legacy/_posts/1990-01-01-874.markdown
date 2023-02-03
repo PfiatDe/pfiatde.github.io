@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Notice of Recent Security Incident - Lastpass
+
 [https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 
 ...

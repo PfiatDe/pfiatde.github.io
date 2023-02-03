@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # PlumHound Reporting Engine for BloodHoundAD
+
 [https://www.blackhillsinfosec.com/plumhound-reporting-engine-for-bloodhoundad/](https://www.blackhillsinfosec.com/plumhound-reporting-engine-for-bloodhoundad/)
+
 [https://github.com/plumhound](https://github.com/plumhound)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Solving the Unredacter Challenge
+
 [https://bishopfox.com/blog/unredacter-winner](https://bishopfox.com/blog/unredacter-winner)
+
 [https://imageupscaler.com/deblurring/](https://imageupscaler.com/deblurring/)
 
 ...

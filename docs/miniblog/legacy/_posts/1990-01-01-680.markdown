@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # SuperSneakyExec - C# Shellcode Runner without PInvoke
+
 [https://github.com/HackingThings/SuperSneakyExec](https://github.com/HackingThings/SuperSneakyExec)
+
 [https://www.virustotal.com/gui/file/098ad7d6f68252b8a85675495553e95ffc5b76a3ea0f0d300b16982cd2a26a3c?nocache=1](https://www.virustotal.com/gui/file/098ad7d6f68252b8a85675495553e95ffc5b76a3ea0f0d300b16982cd2a26a3c?nocache=1)
 
 ...

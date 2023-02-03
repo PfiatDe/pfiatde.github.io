@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Linux Kernel Exploit (CVE-2022-32250) with mqueue
+
 [https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/](https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/)
+
 [https://github.com/randorisec/CVE-2022-34918-LPE-PoC](https://github.com/randorisec/CVE-2022-34918-LPE-PoC)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Metasploit Weekly Wrap-Up - BYOS: Bring your own stager
+
 [https://www.rapid7.com/blog/post/2022/09/16/metasploit-weekly-wrap-up-176/](https://www.rapid7.com/blog/post/2022/09/16/metasploit-weekly-wrap-up-176/)
+
 [https://github.com/TheWover/donut](https://github.com/TheWover/donut)
 
 ...

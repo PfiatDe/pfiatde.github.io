@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022–43781 - ATLASSIAN BitBucket RCE (Vietnamesisch)
+
 [https://petrusviet.medium.com/cve-2022-43781-32bc29de8960](https://petrusviet.medium.com/cve-2022-43781-32bc29de8960)
 
 ...

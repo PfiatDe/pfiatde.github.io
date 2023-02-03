@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Critical RCE Vulnerability Discovered in Popular Cobalt Strike Hacking Software
+
 [https://thehackernews.com/2022/10/critical-rce-vulnerability-discovered.html](https://thehackernews.com/2022/10/critical-rce-vulnerability-discovered.html)
+
 [https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/](https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/)
 
 ...

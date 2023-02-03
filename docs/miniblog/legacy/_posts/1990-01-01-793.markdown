@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # iscsicpl autoelevate DLL Search Order hijacking UAC Bypass 0day
+
 [https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC)
+
 [https://twitter.com/hackerfantastic/status/1547412574404214784](https://twitter.com/hackerfantastic/status/1547412574404214784)
+
 [https://twitter.com/wdormann/status/1547583317410607110](https://twitter.com/wdormann/status/1547583317410607110)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Man in the Terminal - Logger für Linux / Pathhijacking
+
 [https://posts.specterops.io/man-in-the-terminal-65476e6165b9](https://posts.specterops.io/man-in-the-terminal-65476e6165b9)
+
 [https://github.com/djhohnstein/cliProxy](https://github.com/djhohnstein/cliProxy)
 
 ...

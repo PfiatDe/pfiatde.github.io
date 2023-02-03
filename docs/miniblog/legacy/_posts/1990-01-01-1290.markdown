@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # PNG Parser Differential - Apple <-> NonApple
+
 [https://www.da.vidbuchanan.co.uk/widgets/pngdiff/](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
+
 [https://github.com/DavidBuchanan314/parallel-png-proposal/issues/3](https://github.com/DavidBuchanan314/parallel-png-proposal/issues/3)
 
 ...

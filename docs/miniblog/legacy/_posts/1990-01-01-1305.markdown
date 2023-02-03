@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps
+
 [https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
 
 ...

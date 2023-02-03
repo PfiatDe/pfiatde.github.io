@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes
+
 [https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access](https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access)
 
 ...

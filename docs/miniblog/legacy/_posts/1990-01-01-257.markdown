@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Introducing ROADtools Token eXchange (roadtx) - Automating Azure AD authentication, Primary Refresh Token (ab)use and device registration
+
 [https://dirkjanm.io/introducing-roadtools-token-exchange-roadtx/](https://dirkjanm.io/introducing-roadtools-token-exchange-roadtx/)
+
 [https://github.com/dirkjanm/ROADtools#roadtools-token-exchange-roadtx](https://github.com/dirkjanm/ROADtools#roadtools-token-exchange-roadtx)
 
 ...

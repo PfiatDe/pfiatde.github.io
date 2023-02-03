@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Dirty Vanity - Shellcode Execution via Process Forks
+
 [https://github.com/deepinstinct/Dirty-Vanity](https://github.com/deepinstinct/Dirty-Vanity)
+
 [https://i.blackhat.com/EU-22/Thursday-Briefings/EU-22-Nissan-DirtyVanity.pdf](https://i.blackhat.com/EU-22/Thursday-Briefings/EU-22-Nissan-DirtyVanity.pdf)
 
 ...

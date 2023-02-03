@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Gitlab: Clipboard DOM-based XSS.
+
 [https://hackerone.com/reports/1196958](https://hackerone.com/reports/1196958)
 
 ...

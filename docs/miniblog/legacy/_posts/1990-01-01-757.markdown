@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # The art and science of modern hacking - Humblebundle
+
 [https://www.humblebundle.com/books/hacking-no-starch-press-books-2022](https://www.humblebundle.com/books/hacking-no-starch-press-books-2022)
 
 ...

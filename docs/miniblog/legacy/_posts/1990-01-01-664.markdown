@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Steal Credentials & Bypass 2FA Using noVNC
+
 [https://mrd0x.com/bypass-2fa-using-novnc/?no-cache=1](https://mrd0x.com/bypass-2fa-using-novnc/?no-cache=1)
 
 ...

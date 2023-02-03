@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Recreating an ISO Payload for Fun and No Profit
+
 [https://blog.sunggwanchoi.com/recreating-an-iso-payload-for-fun-and-no-profit/](https://blog.sunggwanchoi.com/recreating-an-iso-payload-for-fun-and-no-profit/)
+
 [https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/](https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/)
 
 ...

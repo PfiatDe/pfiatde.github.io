@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Evil PLC Attack: Using a Controller as Predator Rather than Prey
+
 [https://claroty.com/team82/blog/evil-plc-attack-using-a-controller-as-predator-rather-than-prey](https://claroty.com/team82/blog/evil-plc-attack-using-a-controller-as-predator-rather-than-prey)
 
 ...

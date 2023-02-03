@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Powershell Obfuskierung - YARA
+
 [https://twitter.com/cyb3rops/status/1575389443241959424/photo/1](https://twitter.com/cyb3rops/status/1575389443241959424/photo/1)
 
 ...

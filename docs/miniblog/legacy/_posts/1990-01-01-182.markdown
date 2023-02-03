@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # VMware vCenter earlier versions (7.0.2.00100) has unauthorized arbitrary file read + ssrf + xss vulnerability
+
 [https://github.com/l0ggg/VMware_vCenter](https://github.com/l0ggg/VMware_vCenter)
+
 [https://twitter.com/HackerGautam/status/1466064370081755145](https://twitter.com/HackerGautam/status/1466064370081755145)
 
 ...

@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Humblebundle:
+
 [https://www.humblebundle.com/books/unix-linux-books](https://www.humblebundle.com/books/unix-linux-books)
+
 [https://www.humblebundle.com/books/machine-learning-bookshelf-no-starch-press-books](https://www.humblebundle.com/books/machine-learning-bookshelf-no-starch-press-books)
+
 [https://twitter.com/aionescu/status/1432731234728304641](https://twitter.com/aionescu/status/1432731234728304641)
+
 [https://www.microsoftpressstore.com/store/windows-internals-part-2-9780135462409](https://www.microsoftpressstore.com/store/windows-internals-part-2-9780135462409)
 
 ...

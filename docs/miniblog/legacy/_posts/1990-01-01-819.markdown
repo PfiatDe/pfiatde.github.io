@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # NAME:WRECK - IoT DNS Exploits
+
 [https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations/](https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations/)
 
 ...

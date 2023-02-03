@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Traitor - Linux LPE
+
 [https://github.com/liamg/traitor](https://github.com/liamg/traitor)
+
 [https://gtfobins.github.io/](https://gtfobins.github.io/)
 
 ...

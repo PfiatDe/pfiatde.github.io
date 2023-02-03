@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # ExifTool 7.44 to 12.23 has a bug in the DjVu module which allows for >arbitrary code execution when parsing malicious images.
+
 [https://www.openwall.com/lists/oss-security/2021/05/10/5](https://www.openwall.com/lists/oss-security/2021/05/10/5)
+
 [https://github.com/rapid7/metasploit-framework/pull/15185](https://github.com/rapid7/metasploit-framework/pull/15185)
 
 ...

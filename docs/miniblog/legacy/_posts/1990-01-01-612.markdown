@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Fantastic Windows Logon types and Where to Find Credentials in Them
+
 [https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
 
 ...

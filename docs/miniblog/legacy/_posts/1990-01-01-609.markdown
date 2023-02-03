@@ -7,11 +7,17 @@ excerpt_separator: <!--more-->
 ---
 
 # New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape?
+
 [https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/)
+
 [https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=24f6008564183aa120d07c03d9289519c2fe02af](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=24f6008564183aa120d07c03d9289519c2fe02af)
+
 [https://kubernetes.io/docs/concepts/policy/pod-security-policy/#privilege-escalation](https://kubernetes.io/docs/concepts/policy/pod-security-policy/#privilege-escalation)
+
 [https://www.redhat.com/en/topics/linux/what-is-selinux#:~:text=Security%2DEnhanced%20Linux%20(SELinux),Linux%20Security%20Modules%20(LSM).](https://www.redhat.com/en/topics/linux/what-is-selinux#:~:text=Security%2DEnhanced%20Linux%20(SELinux),Linux%20Security%20Modules%20(LSM).)
+
 [https://docs.docker.com/engine/security/seccomp/](https://docs.docker.com/engine/security/seccomp/)
+
 [https://www.redhat.com/en/topics/linux/what-is-selinux#:~:text=Security%2DEnhanced%20Linux%20(SELinux),Linux%20Security%20Modules%20(LSM).](https://www.redhat.com/en/topics/linux/what-is-selinux#:~:text=Security%2DEnhanced%20Linux%20(SELinux),Linux%20Security%20Modules%20(LSM).)
 
 ...

@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2021-3438: 16 Years In Hiding – Millions of Printers Worldwide Vulnerable
+
 [https://labs.sentinelone.com/cve-2021-3438-16-years-in-hiding-millions-of-printers-worldwide-vulnerable/](https://labs.sentinelone.com/cve-2021-3438-16-years-in-hiding-millions-of-printers-worldwide-vulnerable/)
+
 [https://connormcgarr.github.io/cve-2020-21551-sploit/](https://connormcgarr.github.io/cve-2020-21551-sploit/)
+
 [https://github.com/rapid7/metasploit-framework/pull/15190](https://github.com/rapid7/metasploit-framework/pull/15190)
 
 ...

@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # AV Evasion Part 3: Fibers
+
 [https://0xhop.github.io/evasion/2022/05/11/evasion-pt3/](https://0xhop.github.io/evasion/2022/05/11/evasion-pt3/)
+
 [https://docs.microsoft.com/en-us/windows/win32/procthread/fibers](https://docs.microsoft.com/en-us/windows/win32/procthread/fibers)
+
 [https://antiscan.me/](https://antiscan.me/)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # D/Invoke & GadgetToJScript
+
 [https://rastamouse.me/d-invoke-gadgettojscript/](https://rastamouse.me/d-invoke-gadgettojscript/)
+
 [https://github.com/med0x2e/GadgetToJScript](https://github.com/med0x2e/GadgetToJScript)
 
 ...

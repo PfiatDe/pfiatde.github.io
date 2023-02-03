@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE-2021-38666)
+
 [https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/](https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/)
 
 ...

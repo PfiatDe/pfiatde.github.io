@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # macOS Sandbox Escape vulnerability via Terminal
+
 [https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/](https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/)
 
 ...

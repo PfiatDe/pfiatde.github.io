@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Nighthawk: An Up-and-Coming Pentest Tool Likely to Gain Threat Actor Notice
+
 [https://www.proofpoint.com/us/blog/threat-insight/nighthawk-and-coming-pentest-tool-likely-gain-threat-actor-notice](https://www.proofpoint.com/us/blog/threat-insight/nighthawk-and-coming-pentest-tool-likely-gain-threat-actor-notice)
 
 ...

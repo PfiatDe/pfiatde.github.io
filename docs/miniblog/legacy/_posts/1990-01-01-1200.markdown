@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Part-1 Dive into Zoom Applications
+
 [https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5](https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5)
+
 [https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1](https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1)
 
 ...

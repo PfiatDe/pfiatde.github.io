@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Capturing Detection Ideas to Improve Their Impact
+
 [https://cyb3rops.medium.com/capturing-detection-ideas-to-improve-their-impact-311cf4e1c7a8](https://cyb3rops.medium.com/capturing-detection-ideas-to-improve-their-impact-311cf4e1c7a8)
 
 ...

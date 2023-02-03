@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: Gobox
+
 [https://0xdf.gitlab.io/2021/08/30/htb-gobox.html](https://0xdf.gitlab.io/2021/08/30/htb-gobox.html)
 
 ...

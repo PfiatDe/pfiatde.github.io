@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Phishing Course
+
 [https://www.youtube.com/watch?v=QU55YGVyedk](https://www.youtube.com/watch?v=QU55YGVyedk)
 
 ...

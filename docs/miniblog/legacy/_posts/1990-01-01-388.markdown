@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Pass the Cloud with a Cookie
+
 [https://misconfig.io/pass-the-cloud-with-cookie/](https://misconfig.io/pass-the-cloud-with-cookie/)
 
 ...

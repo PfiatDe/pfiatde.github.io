@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Google Chrome NTP XSS via Google Search CSRF
+
 [https://bugs.chromium.org/p/chromium/issues/detail?id=1251541](https://bugs.chromium.org/p/chromium/issues/detail?id=1251541)
 
 ...

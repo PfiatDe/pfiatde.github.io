@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Statistik über Ransomware Ergebnisse
+
 [https://www.bleepingcomputer.com/news/security/ransomware-extortion-doesnt-stop-after-paying-the-ransom/](https://www.bleepingcomputer.com/news/security/ransomware-extortion-doesnt-stop-after-paying-the-ransom/)
 
 ...

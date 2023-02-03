@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Resource based constrained Delegation (RBCD) WebClient attack
+
 [https://www.bussink.net/rbcd-webclient-attack/](https://www.bussink.net/rbcd-webclient-attack/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Account Persistence – Certificates - Windows
+
 [https://pentestlab.blog/2021/09/13/account-persistence-certificates/](https://pentestlab.blog/2021/09/13/account-persistence-certificates/)
 
 ...

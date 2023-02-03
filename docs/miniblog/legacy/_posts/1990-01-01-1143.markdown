@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Kali - 2021.3
+
 [https://kali.org/tools/](https://kali.org/tools/)
+
 [https://www.kali.org/tools/impacket-scripts/#impacket-mimikatz](https://www.kali.org/tools/impacket-scripts/#impacket-mimikatz)
 
 ...

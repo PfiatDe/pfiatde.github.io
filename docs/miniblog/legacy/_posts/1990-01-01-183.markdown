@@ -7,10 +7,15 @@ excerpt_separator: <!--more-->
 ---
 
 # Exploiting Vulnerabilities in a TLD Registrar to Takeover Tether, Google, and Amazon
+
 [https://palisade.consulting/blog/tld-hacking](https://palisade.consulting/blog/tld-hacking)
+
 [https://amzn.to](https://amzn.to)
+
 [https://google.to](https://google.to)
+
 [https://ubr.to](https://ubr.to)
+
 [https://vz.to](https://vz.to)
 
 ...

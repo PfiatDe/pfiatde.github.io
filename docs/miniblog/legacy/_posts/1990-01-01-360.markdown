@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # LSASS Procdump
+
 [https://twitter.com/Hexacorn/status/1449136414541627393](https://twitter.com/Hexacorn/status/1449136414541627393)
+
 [https://twitter.com/0gtweet/status/1449442240972169217](https://twitter.com/0gtweet/status/1449442240972169217)
+
 [http://Windows.Desktop.EMS-SAC.Tools~~~~0.0.1.0](http://Windows.Desktop.EMS-SAC.Tools~~~~0.0.1.0)
 
 ...

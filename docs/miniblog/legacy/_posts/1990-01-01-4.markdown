@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # BitLocker touch-device lockscreen bypass
+
 [https://secret.club/2021/01/29/touch-lockscreen-bypass.html](https://secret.club/2021/01/29/touch-lockscreen-bypass.html)
 
 ...

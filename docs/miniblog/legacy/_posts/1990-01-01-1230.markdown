@@ -7,10 +7,15 @@ excerpt_separator: <!--more-->
 ---
 
 # X.509 Email Address 4-byte Buffer Overflow (CVE-2022-3602) - OpenSSL
+
 [https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
+
 [https://www.openssl.org/news/secadv/20221101.txt](https://www.openssl.org/news/secadv/20221101.txt)
+
 [https://security.snyk.io/vuln/SNYK-UNMANAGED-OPENSSL-3090874](https://security.snyk.io/vuln/SNYK-UNMANAGED-OPENSSL-3090874)
+
 [https://github.com/DataDog/security-labs-pocs/tree/main/proof-of-concept-exploits/openssl-punycode-vulnerability](https://github.com/DataDog/security-labs-pocs/tree/main/proof-of-concept-exploits/openssl-punycode-vulnerability)
+
 [https://twitter.com/GossiTheDog/status/1586105666577506304](https://twitter.com/GossiTheDog/status/1586105666577506304)
 
 ...

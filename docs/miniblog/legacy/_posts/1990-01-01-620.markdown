@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # The path to code execution in the era of EDR, Next-Gen AVs, and AMSI
+
 [https://klezvirus.github.io/RedTeaming/AV_Evasion/CodeExeNewDotNet/](https://klezvirus.github.io/RedTeaming/AV_Evasion/CodeExeNewDotNet/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Lateral Movement with Managed Identities of Azure Virtual Machines
+
 [https://m365internals.com/2021/11/30/lateral-movement-with-managed-identities-of-azure-virtual-machines/](https://m365internals.com/2021/11/30/lateral-movement-with-managed-identities-of-azure-virtual-machines/)
 
 ...

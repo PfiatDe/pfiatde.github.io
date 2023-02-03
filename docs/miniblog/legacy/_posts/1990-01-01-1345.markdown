@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Remote Potato - Relaying Potatoes: Another Unexpected Privilege Escalation Vulnerability in Windows RPC Protocol
+
 [https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/](https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/)
+
 [https://github.com/antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
 
 ...

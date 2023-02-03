@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE‑2021‑1079 – NVIDIA GeForce Experience Command Execution
+
 [https://voidsec.com/nvidia-geforce-experience-command-execution/](https://voidsec.com/nvidia-geforce-experience-command-execution/)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Introducing Pretender - Your New Sidekick for Relaying Attacks
+
 [https://blog.redteam-pentesting.de/2022/introducing-pretender/](https://blog.redteam-pentesting.de/2022/introducing-pretender/)
+
 [https://github.com/RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender)
 
 ...

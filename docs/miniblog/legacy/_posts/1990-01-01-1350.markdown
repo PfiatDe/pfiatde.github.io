@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # OpenSSL - Infinite loop in BN_mod_sqrt() reachable when parsing certificates (CVE-2022-0778)
+
 [https://www.openssl.org/news/secadv/20220315.txt](https://www.openssl.org/news/secadv/20220315.txt)
 
 ...

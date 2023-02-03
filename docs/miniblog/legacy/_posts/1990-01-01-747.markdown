@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Debugging Protected Processes
+
 [https://itm4n.github.io/debugging-protected-processes/](https://itm4n.github.io/debugging-protected-processes/)
+
 [https://github.com/itm4n/PPLcontrol](https://github.com/itm4n/PPLcontrol)
 
 ...

@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Chaos Computer Club hackt Video-Ident
+
 [https://www.ccc.de/de/updates/2022/chaos-computer-club-hackt-video-ident](https://www.ccc.de/de/updates/2022/chaos-computer-club-hackt-video-ident)
+
 [https://www.ccc.de/system/uploads/329/original/Angriff_auf_Video-Ident_v1.2.pdf](https://www.ccc.de/system/uploads/329/original/Angriff_auf_Video-Ident_v1.2.pdf)
+
 [https://www.golem.de/news/sicherheitsluecke-gematik-untersagt-videoident-verfahren-bei-krankenkassen-2208-167500.html](https://www.golem.de/news/sicherheitsluecke-gematik-untersagt-videoident-verfahren-bei-krankenkassen-2208-167500.html)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Binary File Write via Microsoft Speech API
+
 [https://red.0xbad53c.com/red-team-operations/initial-access/macro-attacks/binary-file-write-via-microsoft-speech-api](https://red.0xbad53c.com/red-team-operations/initial-access/macro-attacks/binary-file-write-via-microsoft-speech-api)
 
 ...

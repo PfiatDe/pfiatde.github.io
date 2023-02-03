@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Apache Tapestry - CVE-2021-27850 Exploit
+
 [https://github.com/kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC)
+
 [https://github.com/apache/tapestry-5](https://github.com/apache/tapestry-5)
 
 ...

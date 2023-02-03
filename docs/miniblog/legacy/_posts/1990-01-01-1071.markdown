@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-27255 - Realtek eCos SDK SIP ALG buffer overflow
+
 [https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf](https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf)
+
 [https://github.com/infobyte/cve-2022-27255](https://github.com/infobyte/cve-2022-27255)
+
 [https://raw.githubusercontent.com/infobyte/cve-2022-27255/main/DEFCON/poc.mp4](https://raw.githubusercontent.com/infobyte/cve-2022-27255/main/DEFCON/poc.mp4)
 
 ...

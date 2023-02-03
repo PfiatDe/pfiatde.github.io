@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Home Grown Red Team: Lateral Movement With Havoc C2 And Microsoft EDR
+
 [https://assume-breach.medium.com/home-grown-red-team-lateral-movement-with-havoc-c2-and-microsoft-edr-300b7389b1f7](https://assume-breach.medium.com/home-grown-red-team-lateral-movement-with-havoc-c2-and-microsoft-edr-300b7389b1f7)
 
 ...

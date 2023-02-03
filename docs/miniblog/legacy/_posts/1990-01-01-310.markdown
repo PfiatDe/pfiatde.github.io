@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # F-Secure: Attack Detection Fundamentals 2021: Windows
+
 [https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-1/](https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-1/)
+
 [https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-2/](https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-2/)
+
 [https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-3/](https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-3/)
+
 [https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-4/](https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-4/)
 
 ...

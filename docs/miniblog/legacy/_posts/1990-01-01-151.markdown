@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # ESXI - VMware unauth RCE CVE-2021-21972
+
 [https://www.vmware.com/security/advisories/VMSA-2021-0002.html](https://www.vmware.com/security/advisories/VMSA-2021-0002.html)
+
 [https://twitter.com/ptswarm/status/1364283310281785350/photo/1](https://twitter.com/ptswarm/status/1364283310281785350/photo/1)
 
 ...

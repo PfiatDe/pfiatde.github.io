@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Ransomware Actor Abuses Genshin Impact Anti-Cheat Driver to Kill Antivirus
+
 [https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html](https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html)
+
 [https://www.bleepingcomputer.com/news/security/hackers-abuse-genshin-impact-anti-cheat-system-to-disable-antivirus/](https://www.bleepingcomputer.com/news/security/hackers-abuse-genshin-impact-anti-cheat-system-to-disable-antivirus/)
+
 [https://github.com/kkent030315/evil-mhyprot-cli](https://github.com/kkent030315/evil-mhyprot-cli)
 
 ...

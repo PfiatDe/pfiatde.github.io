@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Looting iOS App’s Cache.db
+
 [https://www.trustedsec.com/blog/looting-ios-apps-cache-db/](https://www.trustedsec.com/blog/looting-ios-apps-cache-db/)
 
 ...

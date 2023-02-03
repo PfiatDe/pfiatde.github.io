@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows Print Spooler Elevation of Privilege vulnerability (CVE-2021-1675) explained
+
 [https://thalpius.com/2021/07/16/windows-print-spooler-elevation-of-privilege-vulnerability-cve-2021-1675-explained/](https://thalpius.com/2021/07/16/windows-print-spooler-elevation-of-privilege-vulnerability-cve-2021-1675-explained/)
+
 [https://github.com/thalpius/Microsoft-CVE-2021-1675](https://github.com/thalpius/Microsoft-CVE-2021-1675)
 
 ...

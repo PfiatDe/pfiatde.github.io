@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 1)
+
 [https://connormcgarr.github.io/type-confusion-part-1/](https://connormcgarr.github.io/type-confusion-part-1/)
 
 ...

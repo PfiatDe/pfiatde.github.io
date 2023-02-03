@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # A JOURNEY TO PWN AND OWN THE SONOS ONE SPEAKER
+
 [https://www.synacktiv.com/sites/default/files/2022-11/sonos.pdf](https://www.synacktiv.com/sites/default/files/2022-11/sonos.pdf)
 
 ...

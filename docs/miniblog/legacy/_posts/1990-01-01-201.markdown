@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Allow arbitrary URLs, expect arbitrary code execution
+
 [https://positive.security/blog/url-open-rce](https://positive.security/blog/url-open-rce)
 
 ...

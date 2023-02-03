@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Detecting and annoying Burp users
+
 [https://www.dustri.org/b/detecting-and-annoying-burp-users.html](https://www.dustri.org/b/detecting-and-annoying-burp-users.html)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Vulnerability Spotlight: Multiple vulnerabilities in Synology DiskStation Manager
+
 [https://blog.talosintelligence.com/2021/04/vuln-spotlight-synology-dsm.html](https://blog.talosintelligence.com/2021/04/vuln-spotlight-synology-dsm.html)
 
 ...

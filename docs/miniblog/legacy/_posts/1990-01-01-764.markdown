@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Web browsers drop mysterious company with ties to U.S. military contractor
+
 [https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/](https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/)
+
 [https://www.golem.de/news/chrome-safari-firefox-die-mysterioese-firma-die-in-unseren-browsern-steckt-2211-169708.html](https://www.golem.de/news/chrome-safari-firefox-die-mysterioese-firma-die-in-unseren-browsern-steckt-2211-169708.html)
 
 ...

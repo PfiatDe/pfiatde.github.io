@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Visual Studio Code Jupyter Notebook RCE
+
 [https://blog.doyensec.com/2022/10/27/jupytervscode.html](https://blog.doyensec.com/2022/10/27/jupytervscode.html)
 
 ...

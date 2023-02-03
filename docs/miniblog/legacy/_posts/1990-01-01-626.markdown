@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # SameSite: Hax – Exploiting CSRF With The Default SameSite Policy
+
 [https://pulsesecurity.co.nz/articles/samesite-lax-csrf](https://pulsesecurity.co.nz/articles/samesite-lax-csrf)
 
 ...

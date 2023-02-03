@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Managed Identity Attack Paths, Part 1: Automation Accounts
+
 [https://posts.specterops.io/managed-identity-attack-paths-part-1-automation-accounts-82667d17187a](https://posts.specterops.io/managed-identity-attack-paths-part-1-automation-accounts-82667d17187a)
 
 ...

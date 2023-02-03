@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # How I Found A Vulnerability To Hack iCloud Accounts and How Apple Reacted To It
+
 [https://thezerohack.com/apple-vulnerability-bug-bounty](https://thezerohack.com/apple-vulnerability-bug-bounty)
 
 ...

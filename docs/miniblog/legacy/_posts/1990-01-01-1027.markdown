@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Decrypt Kerberos/NTLM “encrypted stub data” in Wireshark
+
 [https://medium.com/tenable-techblog/decrypt-encrypted-stub-data-in-wireshark-deb132c076e7](https://medium.com/tenable-techblog/decrypt-encrypted-stub-data-in-wireshark-deb132c076e7)
+
 [https://github.com/dirkjanm/forest-trust-tools/blob/master/keytab.py](https://github.com/dirkjanm/forest-trust-tools/blob/master/keytab.py)
 
 ...

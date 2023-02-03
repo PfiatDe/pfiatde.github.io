@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Malware triage in 30 minutes or how to get infected when browsing google
+
 [https://malfind.com/index.php/2022/12/01/malware-triage-in-30-minutes-or-how-to-get-infected-when-browsing-google/](https://malfind.com/index.php/2022/12/01/malware-triage-in-30-minutes-or-how-to-get-infected-when-browsing-google/)
 
 ...

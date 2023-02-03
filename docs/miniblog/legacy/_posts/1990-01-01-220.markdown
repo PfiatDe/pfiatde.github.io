@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Android Rubberducky
+
 [https://github.com/androidmalware/android_hid](https://github.com/androidmalware/android_hid)
+
 [https://www.youtube.com/watch?v=aOWr6rWhsIs](https://www.youtube.com/watch?v=aOWr6rWhsIs)
+
 [https://www.youtube.com/watch?v=PJbqZm73MOc](https://www.youtube.com/watch?v=PJbqZm73MOc)
 
 ...

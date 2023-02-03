@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Gatekeeper’s Achilles heel: Unearthing a macOS vulnerability
+
 [https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/](https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/)
 
 ...

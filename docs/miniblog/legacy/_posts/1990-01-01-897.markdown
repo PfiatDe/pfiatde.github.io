@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS
+
 [https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/](https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/)
 
 ...

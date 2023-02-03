@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # BARK - BloodHound Attack Research Kit
+
 [https://github.com/BloodHoundAD/BARK](https://github.com/BloodHoundAD/BARK)
+
 [https://twitter.com/_wald0/status/1554872502354157569](https://twitter.com/_wald0/status/1554872502354157569)
 
 ...

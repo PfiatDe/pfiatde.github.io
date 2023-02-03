@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # PHP LFI with Nginx Assistance
+
 [https://bierbaumer.net/security/php-lfi-with-nginx-assistance/](https://bierbaumer.net/security/php-lfi-with-nginx-assistance/)
+
 [https://bierbaumer.net/security/php-lfi-with-nginx-assistance/php-lfi-with-nginx-assistance.tar.xz](https://bierbaumer.net/security/php-lfi-with-nginx-assistance/php-lfi-with-nginx-assistance.tar.xz)
 
 ...

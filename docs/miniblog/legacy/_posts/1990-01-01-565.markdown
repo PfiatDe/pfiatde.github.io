@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # From Zero to Domain Admin - DFIR Report
+
 [https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/](https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/)
 
 ...

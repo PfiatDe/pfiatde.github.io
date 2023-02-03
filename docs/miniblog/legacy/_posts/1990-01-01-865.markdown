@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # 10 ways of gaining control over Azure function Apps
+
 [https://medium.com/xm-cyber/10-ways-of-gaining-control-over-azure-function-apps-7e7b84367ce6](https://medium.com/xm-cyber/10-ways-of-gaining-control-over-azure-function-apps-7e7b84367ce6)
 
 ...

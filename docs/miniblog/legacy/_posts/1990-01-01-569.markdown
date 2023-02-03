@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # EoP - Windows mit Intune via Bitlocker Recovery Key
+
 [https://zxsecurity.co.nz/research/all-my-intune-users-are-local-administrators/](https://zxsecurity.co.nz/research/all-my-intune-users-are-local-administrators/)
 
 ...

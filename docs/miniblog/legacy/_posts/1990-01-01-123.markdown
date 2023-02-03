@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # STARTTLS implementations in email clients & servers plagued by 40+ vulnerabilities
+
 [https://therecord.media/starttls-implementations-in-email-clients-servers-plagued-by-40-vulnerabilities/](https://therecord.media/starttls-implementations-in-email-clients-servers-plagued-by-40-vulnerabilities/)
+
 [https://nostarttls.secvuln.info/](https://nostarttls.secvuln.info/)
+
 [https://www.usenix.org/conference/usenixsecurity21/presentation/poddebniak](https://www.usenix.org/conference/usenixsecurity21/presentation/poddebniak)
 
 ...

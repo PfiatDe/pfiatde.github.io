@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # SSD Advisory – Microsoft SharePoint Server WizardConnectToDataStep4 Deserialization Of Untrusted Data RCE
+
 [https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/](https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/)
 
 ...

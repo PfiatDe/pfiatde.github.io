@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # An ACE Up the Sleeve:Designing Active Directory DACL Backdoors
+
 [https://specterops.io/assets/resources/an_ace_up_the_sleeve.pdf](https://specterops.io/assets/resources/an_ace_up_the_sleeve.pdf)
 
 ...

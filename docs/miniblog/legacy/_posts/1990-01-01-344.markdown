@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # FabricScape: Escaping Service Fabric and Taking Over the Cluster
+
 [https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/](https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/)
 
 ...

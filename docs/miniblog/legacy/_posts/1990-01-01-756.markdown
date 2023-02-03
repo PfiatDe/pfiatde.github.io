@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Exactly what you’re looking for - Github Code Search allows RegEx
+
 [https://github.com/features/code-search](https://github.com/features/code-search)
+
 [https://twitter.com/_nynan/status/1597228825540055040](https://twitter.com/_nynan/status/1597228825540055040)
 
 ...

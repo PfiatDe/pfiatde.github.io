@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # OWASSRF: CrowdStrike Identifies New Exploit Method for Exchange Bypassing ProxyNotShell Mitigations
+
 [https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/](https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/)
 
 ...

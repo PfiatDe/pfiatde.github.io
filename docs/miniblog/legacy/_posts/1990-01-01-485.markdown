@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Don't Ruck Us Too Hard - Owning Ruckus AP devices
+
 [https://alephsecurity.com/2020/01/14/ruckus-wireless/](https://alephsecurity.com/2020/01/14/ruckus-wireless/)
 
 ...

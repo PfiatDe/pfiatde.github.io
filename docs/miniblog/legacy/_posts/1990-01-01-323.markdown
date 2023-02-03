@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Certificates and Pwnage and Patches, Oh My!
+
 [https://posts.specterops.io/certificates-and-pwnage-and-patches-oh-my-8ae0f4304c1d](https://posts.specterops.io/certificates-and-pwnage-and-patches-oh-my-8ae0f4304c1d)
 
 ...

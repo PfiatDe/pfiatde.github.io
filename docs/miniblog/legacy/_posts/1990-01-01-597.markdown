@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Bluffy the AV Slayer - Convert shellcode into different formats.
+
 [https://ad-995.group/posts/bluffy/](https://ad-995.group/posts/bluffy/)
+
 [https://github.com/ad-995/bluffy](https://github.com/ad-995/bluffy)
 
 ...

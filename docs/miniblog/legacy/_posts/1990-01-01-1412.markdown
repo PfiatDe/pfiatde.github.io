@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV
+
 [https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/)
 
 ...

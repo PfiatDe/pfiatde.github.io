@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Microsoft Office 365 email encryption could expose message content
+
 [https://www.bleepingcomputer.com/news/security/microsoft-office-365-email-encryption-could-expose-message-content/](https://www.bleepingcomputer.com/news/security/microsoft-office-365-email-encryption-could-expose-message-content/)
+
 [https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation](https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation)
 
 ...

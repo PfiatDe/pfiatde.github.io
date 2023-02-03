@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Unauth RCE VEEAM - CVE-2022-26500 | CVE-2022-26501
+
 [https://www.veeam.com/kb4288?ad=in-text-link](https://www.veeam.com/kb4288?ad=in-text-link)
+
 [https://www.reddit.com/r/netsec/comments/tcschf/kb4288_cve202226500_cve202226501/](https://www.reddit.com/r/netsec/comments/tcschf/kb4288_cve202226500_cve202226501/)
 
 ...

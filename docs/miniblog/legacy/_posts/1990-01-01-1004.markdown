@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # When Athletic Abilities Just Aren't Enough - Scoreboard Hacking
+
 [https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Signal-Analysis-Part-1](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Signal-Analysis-Part-1)
+
 [https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-2](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-2)
+
 [https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-3](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-3)
 
 ...

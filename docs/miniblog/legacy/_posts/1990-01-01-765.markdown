@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Microsoft Defender for Identity Encrypted Password
+
 [https://thalpius.com/2022/11/15/microsoft-defender-for-identity-encrypted-password/](https://thalpius.com/2022/11/15/microsoft-defender-for-identity-encrypted-password/)
+
 [https://github.com/thalpius/Microsoft-Defender-for-Identity-Encrypted-Password](https://github.com/thalpius/Microsoft-Defender-for-Identity-Encrypted-Password)
 
 ...

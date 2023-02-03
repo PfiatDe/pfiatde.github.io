@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Autodial(DLL)ing Your Way - Lateral Movement Windows
+
 [https://www.mdsec.co.uk/2022/10/autodialdlling-your-way/](https://www.mdsec.co.uk/2022/10/autodialdlling-your-way/)
+
 [https://github.com/mdsecactivebreach/DragonCastle](https://github.com/mdsecactivebreach/DragonCastle)
 
 ...

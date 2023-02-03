@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # #Pwn2Own - RCE in Zoom (0click)
+
 [https://www.zerodayinitiative.com/blog/2021/4/2/pwn2own-2021-schedule-and-live-results](https://www.zerodayinitiative.com/blog/2021/4/2/pwn2own-2021-schedule-and-live-results)
+
 [https://images.squarespace-cdn.com/content/v1/5894c269e4fcb5e65a1ed623/1617821881179-E8HSV6F2L0OIPV3O0QW9/ke17ZwdGBToddI8pDm48kGtNlz4Q3yygqctlEajS4RlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpziQSw71jMkll9bWSw5k7Fwxf3YcTEdsbGOvQMcbgP-HB6CGKaPjFHIY5nJzFwplj0/image-asset.gif?format=750w](https://images.squarespace-cdn.com/content/v1/5894c269e4fcb5e65a1ed623/1617821881179-E8HSV6F2L0OIPV3O0QW9/ke17ZwdGBToddI8pDm48kGtNlz4Q3yygqctlEajS4RlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpziQSw71jMkll9bWSw5k7Fwxf3YcTEdsbGOvQMcbgP-HB6CGKaPjFHIY5nJzFwplj0/image-asset.gif?format=750w)
 
 ...

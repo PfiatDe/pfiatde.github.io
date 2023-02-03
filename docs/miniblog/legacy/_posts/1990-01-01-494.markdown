@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Schwachstelle in Citrix ADM
+
 [https://www.heise.de/news/Zuegig-aktualisieren-Angreifer-koennten-Citrix-ADM-uebernehmen-7142301.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag](https://www.heise.de/news/Zuegig-aktualisieren-Angreifer-koennten-Citrix-ADM-uebernehmen-7142301.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Userland Execution of Binaries Directly from Python
+
 [https://www.anvilsecure.com/blog/userland-execution-of-binaries-directly-from-python.html](https://www.anvilsecure.com/blog/userland-execution-of-binaries-directly-from-python.html)
+
 [https://github.com/anvilsecure/ulexecve/](https://github.com/anvilsecure/ulexecve/)
 
 ...

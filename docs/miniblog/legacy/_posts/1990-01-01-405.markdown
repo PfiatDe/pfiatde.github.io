@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Shadow Credentials: Abusing Key Trust Account Mapping for Account Takeover
+
 [https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab](https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab)
 
 ...

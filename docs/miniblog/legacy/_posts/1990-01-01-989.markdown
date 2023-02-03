@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Excel XLSB vs XLSX file format. The Pros and Cons of XLSB Files
+
 [https://analystcave.com/excel-working-with-large-excel-files-the-xlsb-format/](https://analystcave.com/excel-working-with-large-excel-files-the-xlsb-format/)
 
 ...

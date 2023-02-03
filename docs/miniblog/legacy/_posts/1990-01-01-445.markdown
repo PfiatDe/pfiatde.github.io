@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Safari is hot-linking images to semi-random websites
+
 [https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites](https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites)
 
 ...

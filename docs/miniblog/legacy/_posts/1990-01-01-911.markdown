@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Abusing Kerberos Constrained Delegation without Protocol Transition
+
 [https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html](https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html)
+
 [https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html](https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html)
 
 ...

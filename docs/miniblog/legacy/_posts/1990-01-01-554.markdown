@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Technical Advisory – Multiple vulnerabilities in Nuki smart locks (CVE-2022-32509, CVE-2022-32504, CVE-2022-32502, CVE-2022-32507, CVE-2022-32503, CVE-2022-32510, CVE-2022-32506, CVE-2022-32508, CVE-2022-32505)
+
 [https://research.nccgroup.com/2022/07/25/technical-advisory-multiple-vulnerabilities-in-nuki-smart-locks-cve-2022-32509-cve-2022-32504-cve-2022-32502-cve-2022-32507-cve-2022-32503-cve-2022-32510-cve-2022-32506-cve-2022-32508-cve-2/#CVE-2022-32507](https://research.nccgroup.com/2022/07/25/technical-advisory-multiple-vulnerabilities-in-nuki-smart-locks-cve-2022-32509-cve-2022-32504-cve-2022-32502-cve-2022-32507-cve-2022-32503-cve-2022-32510-cve-2022-32506-cve-2022-32508-cve-2/#CVE-2022-32507)
 
 ...

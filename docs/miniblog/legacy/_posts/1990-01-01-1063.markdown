@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Save the Environment (Variable) - Windows DLL Highjacking
+
 [https://www.wietzebeukema.nl/blog/save-the-environment-variables](https://www.wietzebeukema.nl/blog/save-the-environment-variables)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: CrossFitTwo
+
 [https://0xdf.gitlab.io/2021/08/14/htb-crossfittwo.html](https://0xdf.gitlab.io/2021/08/14/htb-crossfittwo.html)
 
 ...

@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Microsoft Windows internals - Developer Notes
+
 [https://docs.microsoft.com/en-us/windows/win32/devnotes/developer-notes](https://docs.microsoft.com/en-us/windows/win32/devnotes/developer-notes)
+
 [https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-winprotlp/e168a474-7de2-421c-b460-91adf87692a3](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-winprotlp/e168a474-7de2-421c-b460-91adf87692a3)
+
 [https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-SMB2/%5bMS-SMB2%5d.pdf](https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-SMB2/%5bMS-SMB2%5d.pdf)
 
 ...

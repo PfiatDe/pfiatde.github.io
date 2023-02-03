@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Decrypting SMB3 Traffic with just a PCAP? Absolutely (maybe.)
+
 [https://medium.com/maverislabs/decrypting-smb3-traffic-with-just-a-pcap-absolutely-maybe-712ed23ff6a2](https://medium.com/maverislabs/decrypting-smb3-traffic-with-just-a-pcap-absolutely-maybe-712ed23ff6a2)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # BREAKING & ENTERING
+
 [https://services.bishopfox.com/ctf-pocket-guide](https://services.bishopfox.com/ctf-pocket-guide)
+
 [https://labs.bishopfox.com/industry-blog/behind-the-ctf-guide](https://labs.bishopfox.com/industry-blog/behind-the-ctf-guide)
 
 ...

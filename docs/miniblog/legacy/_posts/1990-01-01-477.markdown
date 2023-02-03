@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Nextcloud - Attacker can obtain write access to any federated share/public link (CVE-2021-32654 & CVE-2021-32655)
+
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32654](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32654)
+
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32655](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32655)
+
 [https://hackerone.com/reports/1170024](https://hackerone.com/reports/1170024)
+
 [https://hackerone.com/reports/1167929](https://hackerone.com/reports/1167929)
 
 ...

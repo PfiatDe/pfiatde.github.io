@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Hijacking GitHub Repositories by Deleting and Restoring Them
+
 [https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/](https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/)
 
 ...

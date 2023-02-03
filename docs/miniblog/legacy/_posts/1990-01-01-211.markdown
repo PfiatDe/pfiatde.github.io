@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # A Diamond in the Ruff - Kerberos Diamond Tickets
+
 [https://www.trustedsec.com/blog/a-diamond-in-the-ruff/](https://www.trustedsec.com/blog/a-diamond-in-the-ruff/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Fingerprint cloning: Myth or reality?
+
 [https://blog.talosintelligence.com/2020/04/fingerprint-research.html](https://blog.talosintelligence.com/2020/04/fingerprint-research.html)
 
 ...

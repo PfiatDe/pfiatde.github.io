@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Yanluowang ransomware group claims to have breached Cisco
+
 [https://twitter.com/vxunderground/status/1557450910741286912](https://twitter.com/vxunderground/status/1557450910741286912)
+
 [https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html](https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html)
+
 [https://tools.cisco.com/security/center/resources/corp_network_security_incident](https://tools.cisco.com/security/center/resources/corp_network_security_incident)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Vulnerabilities in Apache Batik Default Security Controls – SSRF and RCE Through Remote Class Loading
+
 [https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading](https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading)
 
 ...

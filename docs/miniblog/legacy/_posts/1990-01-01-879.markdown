@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # StealthHook - A method for hooking a function without modifying memory protection
+
 [https://www.x86matthew.com/view_post?id=stealth_hook](https://www.x86matthew.com/view_post?id=stealth_hook)
 
 ...

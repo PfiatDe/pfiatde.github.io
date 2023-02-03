@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Attacking Azure & Azure AD, Part II
+
 [https://hausec.com/2021/10/26/attacking-azure-azure-ad-part-ii/](https://hausec.com/2021/10/26/attacking-azure-azure-ad-part-ii/)
+
 [https://endpoint.microsoft.com/](https://endpoint.microsoft.com/)
 
 ...

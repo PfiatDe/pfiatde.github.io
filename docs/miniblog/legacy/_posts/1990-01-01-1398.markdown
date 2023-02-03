@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Aktueller Patch Tuesday ist ernst zu nehmen!
+
 [https://isc.sans.edu/forums/diary/Microsoft+April+2022+Patch+Tuesday/28542/](https://isc.sans.edu/forums/diary/Microsoft+April+2022+Patch+Tuesday/28542/)
 
 ...

@@ -7,22 +7,39 @@ excerpt_separator: <!--more-->
 ---
 
 # 9 Post-Exploitation Tools for Your Next Penetration Test
+
 [https://labs.bishopfox.com/industry-blog/9-post-exploitation-tools-for-your-next-penetration-test](https://labs.bishopfox.com/industry-blog/9-post-exploitation-tools-for-your-next-penetration-test)
+
 [https://github.com/GhostPack](https://github.com/GhostPack)
+
 [https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
+
 [https://www.metasploit.com/](https://www.metasploit.com/)
+
 [https://github.com/AdrianVollmer/PowerHub](https://github.com/AdrianVollmer/PowerHub)
+
 [https://www.metasploit.com/](https://www.metasploit.com/)
+
 [https://github.com/LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS)
+
 [https://github.com/AZSERG/LLOLBAS](https://github.com/AZSERG/LLOLBAS)
+
 [https://www.metasploit.com/](https://www.metasploit.com/)
+
 [https://github.com/nil0x42/phpsploit](https://github.com/nil0x42/phpsploit)
+
 [https://www.metasploit.com/](https://www.metasploit.com/)
+
 [https://github.com/sevagas/swap_digger](https://github.com/sevagas/swap_digger)
+
 [https://www.metasploit.com/](https://www.metasploit.com/)
+
 [https://github.com/redcode-labs/Bashark](https://github.com/redcode-labs/Bashark)
+
 [https://www.metasploit.com/](https://www.metasploit.com/)
+
 [https://github.com/AlessandroZ/BeRoot](https://github.com/AlessandroZ/BeRoot)
+
 [https://www.metasploit.com/](https://www.metasploit.com/)
 
 ...

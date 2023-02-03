@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Cobalt Strike Analysis and Tutorial: Identifying Beacon Team Servers in the Wild
+
 [https://unit42.paloaltonetworks.com/cobalt-strike-team-server/](https://unit42.paloaltonetworks.com/cobalt-strike-team-server/)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Toner Deaf – Printing your next persistence (Hexacon 2022)
+
 [https://research.nccgroup.com/2022/10/17/toner-deaf-printing-your-next-persistence-hexacon-2022/](https://research.nccgroup.com/2022/10/17/toner-deaf-printing-your-next-persistence-hexacon-2022/)
+
 [https://research.nccgroup.com/wp-content/uploads/2022/10/toner-deaf-hexacon-2022-release.pdf](https://research.nccgroup.com/wp-content/uploads/2022/10/toner-deaf-hexacon-2022-release.pdf)
 
 ...

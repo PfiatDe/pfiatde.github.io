@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # ChaosDB: How we hacked thousands of Azure customers’ databases
+
 [https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases](https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases)
 
 ...

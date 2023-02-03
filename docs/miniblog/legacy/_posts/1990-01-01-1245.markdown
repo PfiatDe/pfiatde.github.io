@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Hertzbleed Attack
+
 [https://www.hertzbleed.com/](https://www.hertzbleed.com/)
+
 [https://www.hertzbleed.com/hertzbleed.pdf](https://www.hertzbleed.com/hertzbleed.pdf)
 
 ...

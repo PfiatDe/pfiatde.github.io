@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # From Stolen Laptop to Inside the Company Network
+
 [https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network](https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network)
 
 ...

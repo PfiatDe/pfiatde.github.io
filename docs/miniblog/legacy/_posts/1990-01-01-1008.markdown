@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # WannaCry 2.0 incoming...
+
 [https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809)
 
 ...

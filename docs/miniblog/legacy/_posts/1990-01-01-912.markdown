@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-24990: TerraMaster TOS unauthenticated remote command execution via PHP Object Instantiation
+
 [https://octagon.net/blog/2022/03/07/cve-2022-24990-terrmaster-tos-unauthenticated-remote-command-execution-via-php-object-instantiation/](https://octagon.net/blog/2022/03/07/cve-2022-24990-terrmaster-tos-unauthenticated-remote-command-execution-via-php-object-instantiation/)
+
 [https://forum.terra-master.com/en/viewtopic.php?f=28&t=3030](https://forum.terra-master.com/en/viewtopic.php?f=28&t=3030)
+
 [https://thehackernews.com/2022/03/critical-bugs-in-terramaster-tos-could.html](https://thehackernews.com/2022/03/critical-bugs-in-terramaster-tos-could.html)
 
 ...

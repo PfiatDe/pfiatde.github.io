@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Lateral Movement – WebClient - Windows ADs
+
 [https://pentestlab.blog/2021/10/20/lateral-movement-webclient/](https://pentestlab.blog/2021/10/20/lateral-movement-webclient/)
 
 ...

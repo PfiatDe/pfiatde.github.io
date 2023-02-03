@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Ransomware Gang Abused Microsoft Certificates to Sign Malware
+
 [https://www.wired.com/story/microsoft-certificates-ransomware-cuba-malware/](https://www.wired.com/story/microsoft-certificates-ransomware-cuba-malware/)
+
 [https://msrc.microsoft.com/update-guide/vulnerability/ADV220005](https://msrc.microsoft.com/update-guide/vulnerability/ADV220005)
 
 ...

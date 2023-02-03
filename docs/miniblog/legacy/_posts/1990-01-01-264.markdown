@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # This Hidden Facebook Tool Lets Users Remove Their Email or Phone Number Shared by Others
+
 [https://thehackernews.com/2022/11/this-hidden-facebook-tool-lets-users.html](https://thehackernews.com/2022/11/this-hidden-facebook-tool-lets-users.html)
+
 [https://www.facebook.com/contacts/removal](https://www.facebook.com/contacts/removal)
 
 ...

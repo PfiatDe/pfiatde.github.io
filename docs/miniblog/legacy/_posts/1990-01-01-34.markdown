@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Exploit Development: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG
+
 [https://connormcgarr.github.io/hvci/](https://connormcgarr.github.io/hvci/)
 
 ...

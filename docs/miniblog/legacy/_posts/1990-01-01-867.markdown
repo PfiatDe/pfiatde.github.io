@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # MSI Shenanigans. Part 1 – Offensive Capabilities Overview
+
 [https://mgeeky.tech/msi-shenanigans-part-1/](https://mgeeky.tech/msi-shenanigans-part-1/)
+
 [https://github.com/mgeeky/msidump](https://github.com/mgeeky/msidump)
+
 [https://github.com/mgeeky/msi-shenanigans](https://github.com/mgeeky/msi-shenanigans)
 
 ...

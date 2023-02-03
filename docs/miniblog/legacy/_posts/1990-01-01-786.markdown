@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Web App Pen Testing in an Angular Context
+
 [https://www.blackhillsinfosec.com/web-app-pen-testing-in-an-angular-context/](https://www.blackhillsinfosec.com/web-app-pen-testing-in-an-angular-context/)
 
 ...

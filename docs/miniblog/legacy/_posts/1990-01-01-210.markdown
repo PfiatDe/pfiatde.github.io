@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Possible RCE in OpenSSL 3.0.4
+
 [https://www.openssl.org/news/secadv/20220705.txt](https://www.openssl.org/news/secadv/20220705.txt)
+
 [https://twitter.com/campuscodi/status/1544417552843116545](https://twitter.com/campuscodi/status/1544417552843116545)
+
 [https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Looking for the ‘Sliver’ lining: Hunting for emerging command-and-control frameworks
+
 [https://www.microsoft.com/security/blog/2022/08/24/looking-for-the-sliver-lining-hunting-for-emerging-command-and-control-frameworks/](https://www.microsoft.com/security/blog/2022/08/24/looking-for-the-sliver-lining-hunting-for-emerging-command-and-control-frameworks/)
 
 ...

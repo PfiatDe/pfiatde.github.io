@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Fun with PowerShell – Executing commands with DNS requests
+
 [https://www.thecyberidiots.com/post/fun-with-powershell-executing-commands-with-dns-requests](https://www.thecyberidiots.com/post/fun-with-powershell-executing-commands-with-dns-requests)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Exploiting Flipper Zero’s NFC file loader
+
 [https://vvx7.io/posts/2022/09/your-amiibos-haunted/](https://vvx7.io/posts/2022/09/your-amiibos-haunted/)
 
 ...

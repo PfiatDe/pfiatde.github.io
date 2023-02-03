@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # INTEL : Lord of the Ring(s): Side Channel Attacks on theCPU On-Chip Ring Interconnect Are Practical
+
 [https://arxiv.org/pdf/2103.03443.pdf](https://arxiv.org/pdf/2103.03443.pdf)
+
 [https://github.com/FPSG-UIUC/lotr](https://github.com/FPSG-UIUC/lotr)
 
 ...

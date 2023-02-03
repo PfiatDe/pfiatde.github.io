@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Eliminating Dangling Elastic IP Takeovers with Ghostbuster
+
 [https://blog.assetnote.io/2022/02/13/dangling-eips/](https://blog.assetnote.io/2022/02/13/dangling-eips/)
 
 ...

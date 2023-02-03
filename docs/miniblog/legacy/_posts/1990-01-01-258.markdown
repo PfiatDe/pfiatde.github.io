@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Exploring ZIP Mark-of-the-Web Bypass Vulnerability (CVE-2022-41049)
+
 [https://breakdev.org/zip-motw-bug-analysis/](https://breakdev.org/zip-motw-bug-analysis/)
 
 ...

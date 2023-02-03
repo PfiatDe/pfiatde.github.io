@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Alert changes to sensitive AD groups using MDI
+
 [https://cloudbrothers.info/en/alert-sensitive-ad-groups-mdi/](https://cloudbrothers.info/en/alert-sensitive-ad-groups-mdi/)
 
 ...

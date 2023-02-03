@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Race condition in snap-confine's must_mkdir_and_open_with_perms() (CVE-2022-3328) - LPE Ubuntu
+
 [https://seclists.org/oss-sec/2022/q4/164](https://seclists.org/oss-sec/2022/q4/164)
 
 ...

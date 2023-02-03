@@ -7,11 +7,17 @@ excerpt_separator: <!--more-->
 ---
 
 # Introducing BloodHound 4.1 — The Three Headed Hound
+
 [https://posts.specterops.io/introducing-bloodhound-4-1-the-three-headed-hound-be3c4a808146](https://posts.specterops.io/introducing-bloodhound-4-1-the-three-headed-hound-be3c4a808146)
+
 [https://docs.google.com/presentation/d/1aN7CgzeFko6hmkjJMQuQTXg6Ev-v-zsRUhXDd9z7R5Y/edit#slide=id.g35f391192_00](https://docs.google.com/presentation/d/1aN7CgzeFko6hmkjJMQuQTXg6Ev-v-zsRUhXDd9z7R5Y/edit#slide=id.g35f391192_00)
+
 [https://twitter.com/_wald0/status/1491498736282857480](https://twitter.com/_wald0/status/1491498736282857480)
+
 [https://www.thehacker.recipes/ad/movement/kerberos/shadow-credentials](https://www.thehacker.recipes/ad/movement/kerberos/shadow-credentials)
+
 [https://www.thehacker.recipes/ad/movement/access-controls/targeted-kerberoasting](https://www.thehacker.recipes/ad/movement/access-controls/targeted-kerberoasting)
+
 [https://twitter.com/_dirkjan/status/1491506583335063560](https://twitter.com/_dirkjan/status/1491506583335063560)
 
 ...

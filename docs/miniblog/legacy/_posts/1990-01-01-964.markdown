@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # McAfee Agent könnte als Schlupfloch für Schadcode dienen
+
 [https://www.heise.de/news/McAfee-Agent-koennte-als-Schlupfloch-fuer-Schadcode-dienen-7193732.html](https://www.heise.de/news/McAfee-Agent-koennte-als-Schlupfloch-fuer-Schadcode-dienen-7193732.html)
+
 [https://kcm.trellix.com/corporate/index?page=content&id=SB10385](https://kcm.trellix.com/corporate/index?page=content&id=SB10385)
 
 ...

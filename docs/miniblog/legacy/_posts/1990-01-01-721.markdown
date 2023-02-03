@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Where's the Interpreter!? (CVE-2021-30853) - MacOS Security Bypass
+
 [https://objective-see.com/blog/blog_0x6A.html](https://objective-see.com/blog/blog_0x6A.html)
+
 [https://twitter.com/objective_see/status/1473744130681425920](https://twitter.com/objective_see/status/1473744130681425920)
+
 [https://twitter.com/ethicalhax](https://twitter.com/ethicalhax)
 
 ...

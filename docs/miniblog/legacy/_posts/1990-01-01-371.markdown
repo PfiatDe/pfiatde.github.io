@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Decompile Microsoft ASR Scripts
+
 [https://github.com/commial/experiments/tree/master/windows-defender/ASR](https://github.com/commial/experiments/tree/master/windows-defender/ASR)
+
 [https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction?view=o365-worldwide](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction?view=o365-worldwide)
 
 ...

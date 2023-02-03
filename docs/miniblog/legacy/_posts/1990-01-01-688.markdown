@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Responsible Red Teaming - Operate with Honor - Free Course
+
 [https://taggartinstitute.org/p/responsible-red-teaming](https://taggartinstitute.org/p/responsible-red-teaming)
 
 ...

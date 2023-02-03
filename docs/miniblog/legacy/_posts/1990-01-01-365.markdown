@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # DeepSurface Security Advisory: LPE in Firefox on Windows
+
 [https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/](https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Hacking Unifi Controller Passwords for Fun and WIFI
+
 [https://www.blackhillsinfosec.com/hacking-unifi-controller-passwords-for-fun-and-wifi/](https://www.blackhillsinfosec.com/hacking-unifi-controller-passwords-for-fun-and-wifi/)
 
 ...

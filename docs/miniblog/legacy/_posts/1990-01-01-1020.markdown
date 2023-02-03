@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Common Conditional Access Misconfigurations and Bypasses in Azure
+
 [https://www.trustedsec.com/blog/common-conditional-access-misconfigurations-and-bypasses-in-azure/](https://www.trustedsec.com/blog/common-conditional-access-misconfigurations-and-bypasses-in-azure/)
 
 ...

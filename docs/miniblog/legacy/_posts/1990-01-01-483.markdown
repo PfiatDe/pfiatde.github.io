@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug
+
 [https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/](https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/)
 
 ...

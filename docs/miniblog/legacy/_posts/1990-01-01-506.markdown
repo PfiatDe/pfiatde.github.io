@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Prepare Now for Critical Flaw in OpenSSL, Security Experts Warn
+
 [https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn](https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn)
 
 ...

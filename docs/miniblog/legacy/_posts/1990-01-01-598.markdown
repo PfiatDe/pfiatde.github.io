@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # How to Analyze Malicious Microsoft Office Files
+
 [https://www.intezer.com/blog/malware-analysis/analyze-malicious-microsoft-office-files/](https://www.intezer.com/blog/malware-analysis/analyze-malicious-microsoft-office-files/)
 
 ...

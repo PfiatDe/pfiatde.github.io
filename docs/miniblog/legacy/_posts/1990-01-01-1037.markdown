@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Dameware Mini: The Sleeper Hit of 2019?
+
 [https://www.trustedsec.com/blog/dameware-mini-the-sleeper-hit-of-2019/](https://www.trustedsec.com/blog/dameware-mini-the-sleeper-hit-of-2019/)
 
 ...

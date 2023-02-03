@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # nrich - Shodan API Tool (Portscan)
+
 [https://gitlab.com/shodan-public/nrich](https://gitlab.com/shodan-public/nrich)
 
 ...

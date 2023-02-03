@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # the XSS Rat - Course Material
+
 [https://twitter.com/theXSSrat/status/1391472518624686086](https://twitter.com/theXSSrat/status/1391472518624686086)
+
 [https://twitter.com/theXSSrat](https://twitter.com/theXSSrat)
 
 ...

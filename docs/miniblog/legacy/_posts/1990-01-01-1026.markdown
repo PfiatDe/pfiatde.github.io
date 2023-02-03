@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # HardwareAllTheThings
+
 [https://swisskyrepo.github.io/HardwareAllTheThings/](https://swisskyrepo.github.io/HardwareAllTheThings/)
+
 [https://github.com/swisskyrepo/HardwareAllTheThings/](https://github.com/swisskyrepo/HardwareAllTheThings/)
 
 ...

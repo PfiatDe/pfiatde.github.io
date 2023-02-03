@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2020-28243 SaltStack Minion Local Privilege Escalation
+
 [https://sec.stealthcopter.com/cve-2020-28243/](https://sec.stealthcopter.com/cve-2020-28243/)
+
 [https://github.com/stealthcopter/CVE-2020-28243](https://github.com/stealthcopter/CVE-2020-28243)
 
 ...

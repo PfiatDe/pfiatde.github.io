@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: Intelligence
+
 [https://0xdf.gitlab.io/2021/11/27/htb-intelligence.html](https://0xdf.gitlab.io/2021/11/27/htb-intelligence.html)
+
 [https://github.com/micahvandeusen/gMSADumper](https://github.com/micahvandeusen/gMSADumper)
 
 ...

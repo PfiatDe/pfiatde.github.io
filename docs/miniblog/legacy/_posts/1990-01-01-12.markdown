@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # The dark side of Microsoft Remote Procedure Call protocols
+
 [https://redcanary.com/blog/msrpc-to-attack/](https://redcanary.com/blog/msrpc-to-attack/)
+
 [https://github.com/jsecurity101/MSRPC-to-ATTACK](https://github.com/jsecurity101/MSRPC-to-ATTACK)
+
 [https://en.wikipedia.org/wiki/DCE/RPC](https://en.wikipedia.org/wiki/DCE/RPC)
 
 ...

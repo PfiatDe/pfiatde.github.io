@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # PrivacyTests.org - Übersicht der Anti-Tracking Features der Browser
+
 [https://privacytests.org](https://privacytests.org)
 
 ...

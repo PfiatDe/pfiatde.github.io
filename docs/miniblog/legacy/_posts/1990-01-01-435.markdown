@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: Unobtainium
+
 [https://0xdf.gitlab.io/2021/09/04/htb-unobtainium.html](https://0xdf.gitlab.io/2021/09/04/htb-unobtainium.html)
 
 ...

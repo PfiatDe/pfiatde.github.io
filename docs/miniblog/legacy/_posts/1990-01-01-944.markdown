@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Detecting and preventing LSASS credential dumping attacks
+
 [https://www.microsoft.com/security/blog/2022/10/05/detecting-and-preventing-lsass-credential-dumping-attacks/](https://www.microsoft.com/security/blog/2022/10/05/detecting-and-preventing-lsass-credential-dumping-attacks/)
 
 ...

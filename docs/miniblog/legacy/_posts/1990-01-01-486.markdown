@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Responder's DHCP Poisoner
+
 [https://g-laurent.blogspot.com/2021/08/responders-dhcp-poisoner.html](https://g-laurent.blogspot.com/2021/08/responders-dhcp-poisoner.html)
+
 [https://docs.microsoft.com/en-us/previous-versions/tn-archive/bb794881(v=technet.10)](https://docs.microsoft.com/en-us/previous-versions/tn-archive/bb794881(v=technet.10))
+
 [https://porchetta.industries/](https://porchetta.industries/)
 
 ...

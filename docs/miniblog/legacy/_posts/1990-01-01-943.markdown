@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Comparing Semgrep and CodeQL
+
 [https://blog.doyensec.com/2022/10/06/semgrep-codeql.html](https://blog.doyensec.com/2022/10/06/semgrep-codeql.html)
 
 ...

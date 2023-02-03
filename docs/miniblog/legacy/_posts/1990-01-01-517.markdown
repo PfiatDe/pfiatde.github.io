@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows Drivers Reverse Engineering Methodology
+
 [https://voidsec.com/windows-drivers-reverse-engineering-methodology/](https://voidsec.com/windows-drivers-reverse-engineering-methodology/)
 
 ...

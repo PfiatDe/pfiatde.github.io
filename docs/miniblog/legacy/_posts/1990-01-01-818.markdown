@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # From 0 to RCE: Cockpit CMS
+
 [https://swarm.ptsecurity.com/rce-cockpit-cms/](https://swarm.ptsecurity.com/rce-cockpit-cms/)
 
 ...

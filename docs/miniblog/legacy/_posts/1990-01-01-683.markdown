@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows Command-Line Obfuscation
+
 [https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation)
+
 [https://github.com/wietze/windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation)
 
 ...

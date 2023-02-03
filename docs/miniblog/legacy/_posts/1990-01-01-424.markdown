@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # 🔥Trust me. PowerShell is not going to be the same again once you do this.🔥
+
 [https://twitter.com/merill/status/1541634611893383168](https://twitter.com/merill/status/1541634611893383168)
+
 [https://twitter.com/theluemmel/status/1541796994607366146](https://twitter.com/theluemmel/status/1541796994607366146)
 
 ...

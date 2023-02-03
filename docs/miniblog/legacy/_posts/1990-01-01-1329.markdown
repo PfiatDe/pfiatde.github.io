@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # FreeBSD-SA-22:15. Stack overflow in ping(8) - CVE-2022-23093
+
 [https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
+
 [https://blog.fefe.de/?ts=9d79f754](https://blog.fefe.de/?ts=9d79f754)
 
 ...

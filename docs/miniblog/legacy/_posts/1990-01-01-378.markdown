@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Adding a native sniffer to your implants: decomposing and recomposing PktMon
+
 [https://adepts.of0x.cc/pktmon-dissection/](https://adepts.of0x.cc/pktmon-dissection/)
+
 [https://docs.microsoft.com/en-us/windows-server/networking/technologies/pktmon/pktmon](https://docs.microsoft.com/en-us/windows-server/networking/technologies/pktmon/pktmon)
+
 [https://docs.microsoft.com/en-us/windows-server/networking/technologies/pktmon/pktmon-pcapng-support](https://docs.microsoft.com/en-us/windows-server/networking/technologies/pktmon/pktmon-pcapng-support)
 
 ...

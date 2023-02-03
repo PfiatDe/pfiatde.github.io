@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # A possibly overlooked GELSEMIUM artefact
+
 [https://securelist.com/the-sessionmanager-iis-backdoor/106868/](https://securelist.com/the-sessionmanager-iis-backdoor/106868/)
+
 [https://thehackernews.com/2022/07/new-sessionmanager-backdoor-targeting.html](https://thehackernews.com/2022/07/new-sessionmanager-backdoor-targeting.html)
 
 ...

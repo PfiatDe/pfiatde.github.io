@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # The dying knight in the shiny armour
+
 [https://aptw.tf/2021/08/21/killing-defender.html](https://aptw.tf/2021/08/21/killing-defender.html)
+
 [https://github.com/APTortellini/unDefender](https://github.com/APTortellini/unDefender)
 
 ...

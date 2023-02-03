@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # GitHub finds 7 code execution vulnerabilities in 'tar' and npm CLI
+
 [https://www.bleepingcomputer.com/news/security/github-finds-7-code-execution-vulnerabilities-in-tar-and-npm-cli/](https://www.bleepingcomputer.com/news/security/github-finds-7-code-execution-vulnerabilities-in-tar-and-npm-cli/)
+
 [https://github.blog/2021-09-08-github-security-update-vulnerabilities-tar-npmcli-arborist/](https://github.blog/2021-09-08-github-security-update-vulnerabilities-tar-npmcli-arborist/)
 
 ...

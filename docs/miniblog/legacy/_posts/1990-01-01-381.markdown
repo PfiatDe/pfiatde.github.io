@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2022-27666: Exploit esp6 modules in Linux kernel
+
 [https://etenal.me/archives/1825](https://etenal.me/archives/1825)
+
 [https://github.com/plummm/CVE-2022-27666](https://github.com/plummm/CVE-2022-27666)
+
 [https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cac2661c53f35cbe651bef9b07026a5a05ab8ce0](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cac2661c53f35cbe651bef9b07026a5a05ab8ce0)
+
 [https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=03e2a30f6a27e2f3e5283b777f6ddd146b38c738](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=03e2a30f6a27e2f3e5283b777f6ddd146b38c738)
 
 ...

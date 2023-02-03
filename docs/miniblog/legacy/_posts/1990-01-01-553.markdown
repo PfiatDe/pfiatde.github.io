@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Local Privilege Escalation in all Windows Versions
+
 [https://www.bleepingcomputer.com/news/security/all-windows-versions-impacted-by-new-lpe-zero-day-vulnerability/](https://www.bleepingcomputer.com/news/security/all-windows-versions-impacted-by-new-lpe-zero-day-vulnerability/)
+
 [https://github.com/klinix5/ProfSvcLPE/tree/main/DoubleJunctionEoP](https://github.com/klinix5/ProfSvcLPE/tree/main/DoubleJunctionEoP)
 
 ...

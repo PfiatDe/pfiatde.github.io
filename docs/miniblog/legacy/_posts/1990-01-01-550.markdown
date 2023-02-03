@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Microsoft resumes default blocking of Office macros after updating docs
+
 [https://www.bleepingcomputer.com/news/microsoft/microsoft-resumes-default-blocking-of-office-macros-after-updating-docs/](https://www.bleepingcomputer.com/news/microsoft/microsoft-resumes-default-blocking-of-office-macros-after-updating-docs/)
+
 [https://support.microsoft.com/en-us/topic/a-potentially-dangerous-macro-has-been-blocked-0952faa0-37e7-4316-b61d-5b5ed6024216](https://support.microsoft.com/en-us/topic/a-potentially-dangerous-macro-has-been-blocked-0952faa0-37e7-4316-b61d-5b5ed6024216)
 
 ...

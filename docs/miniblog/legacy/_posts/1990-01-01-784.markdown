@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # SPN-jacking: An Edge Case in WriteSPN Abuse
+
 [https://www.semperis.com/blog/spn-jacking-an-edge-case-in-writespn-abuse/](https://www.semperis.com/blog/spn-jacking-an-edge-case-in-writespn-abuse/)
 
 ...

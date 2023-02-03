@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761
+
 [https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
 
 ...

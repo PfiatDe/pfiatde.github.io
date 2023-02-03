@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Nagios XI < 5.7.5 authenticated RCE
+
 [https://unit42.paloaltonetworks.com/nagios-xi-vulnerability-cryptomining/](https://unit42.paloaltonetworks.com/nagios-xi-vulnerability-cryptomining/)
+
 [https://github.com/fs0c-sh/nagios-xi-5.7.5-bugs](https://github.com/fs0c-sh/nagios-xi-5.7.5-bugs)
 
 ...

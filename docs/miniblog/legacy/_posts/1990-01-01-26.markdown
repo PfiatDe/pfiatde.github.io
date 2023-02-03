@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # GitHub Actions check-spelling community workflow - GITHUB_TOKEN leakage via advice.txt symlink
+
 [https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md](https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md)
 
 ...

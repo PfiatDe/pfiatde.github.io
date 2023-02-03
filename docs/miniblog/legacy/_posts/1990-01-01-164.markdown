@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Protecting Windows Credentials against Network Attacks
+
 [https://securitycafe.ro/2021/12/02/protecting-windows-credentials-against-network-attacks/](https://securitycafe.ro/2021/12/02/protecting-windows-credentials-against-network-attacks/)
 
 ...

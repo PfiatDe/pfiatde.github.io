@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Chromium: Same Origin Policy bypass within a single site a.k.a. "Google Roulette"
+
 [https://www.bentkowski.info/2022/11/google-roulette/](https://www.bentkowski.info/2022/11/google-roulette/)
 
 ...

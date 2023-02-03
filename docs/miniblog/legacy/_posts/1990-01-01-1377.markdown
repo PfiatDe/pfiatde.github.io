@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Worldwide Server-side Cache Poisoning on All Akamai Edge Nodes ($50K+ Bounty Earned)
+
 [https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b](https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b)
 
 ...

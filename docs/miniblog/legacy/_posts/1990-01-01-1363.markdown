@@ -7,12 +7,19 @@ excerpt_separator: <!--more-->
 ---
 
 # The Dirty Pipe Vulnerability
+
 [https://dirtypipe.cm4all.com/](https://dirtypipe.cm4all.com/)
+
 [https://twitter.com/bl4sty/status/1500812285358530561](https://twitter.com/bl4sty/status/1500812285358530561)
+
 [https://lore.kernel.org/stable/1645618039140207@kroah.com/](https://lore.kernel.org/stable/1645618039140207@kroah.com/)
+
 [https://lore.kernel.org/stable/164561803311588@kroah.com/](https://lore.kernel.org/stable/164561803311588@kroah.com/)
+
 [https://lore.kernel.org/stable/164561802556115@kroah.com/](https://lore.kernel.org/stable/164561802556115@kroah.com/)
+
 [https://haxx.in/files/dirtypipez.c](https://haxx.in/files/dirtypipez.c)
+
 [https://twitter.com/bl4sty/status/1500822440569708545/photo/1](https://twitter.com/bl4sty/status/1500822440569708545/photo/1)
 
 ...

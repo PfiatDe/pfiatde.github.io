@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2021-22205 - Gitlab RCE
+
 [https://attackerkb.com/topics/D41jRUXCiJ/cve-2021-22205/rapid7-analysis](https://attackerkb.com/topics/D41jRUXCiJ/cve-2021-22205/rapid7-analysis)
+
 [https://hackerone.com/reports/1154542](https://hackerone.com/reports/1154542)
 
 ...

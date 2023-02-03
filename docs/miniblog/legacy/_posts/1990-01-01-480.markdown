@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Technical Advisory – Apple XAR – Arbitrary File Write (CVE-2021-30833)
+
 [https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/](https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/)
 
 ...

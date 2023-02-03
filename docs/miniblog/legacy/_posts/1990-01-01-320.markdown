@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # alert() is dead, long live print()
+
 [https://portswigger.net/research/alert-is-dead-long-live-print](https://portswigger.net/research/alert-is-dead-long-live-print)
 
 ...

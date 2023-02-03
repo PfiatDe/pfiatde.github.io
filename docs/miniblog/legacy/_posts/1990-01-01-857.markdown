@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # BITB - Browser templates for Browser In The Browser (BITB) attack
+
 [https://github.com/mrd0x/BITB](https://github.com/mrd0x/BITB)
+
 [https://mrd0x.com/browser-in-the-browser-phishing-attack/](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 
 ...

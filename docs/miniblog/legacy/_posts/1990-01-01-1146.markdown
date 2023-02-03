@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Spying on users using Remote Desktop Shadowing - Living off the Land
+
 [https://bitsadm.in/blog/spying-on-users-using-rdp-shadowing](https://bitsadm.in/blog/spying-on-users-using-rdp-shadowing)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Critical Vulnerabilities Discovered in Popular Automotive GPS Tracking Device (MiCODUS MV720)
+
 [https://thehackernews.com/2022/07/unpatched-gps-tracker-bugs-could-let.html](https://thehackernews.com/2022/07/unpatched-gps-tracker-bugs-could-let.html)
+
 [https://www.bitsight.com/sites/default/files/2022-07/MiCODUS-GPS-Report-Final.pdf](https://www.bitsight.com/sites/default/files/2022-07/MiCODUS-GPS-Report-Final.pdf)
 
 ...

@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # BleedingTooth - Linux Blueetooth Stack (BadVibes, BadKarma and BadChoice)
+
 [https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup)
+
 [https://github.com/google/security-research/security/advisories/GHSA-h637-c88j-47wq](https://github.com/google/security-research/security/advisories/GHSA-h637-c88j-47wq)
+
 [https://github.com/google/security-research/security/advisories/GHSA-7mh3-gq28-gfrq](https://github.com/google/security-research/security/advisories/GHSA-7mh3-gq28-gfrq)
+
 [https://github.com/google/security-research/tree/master/pocs/linux/bleedingtooth](https://github.com/google/security-research/tree/master/pocs/linux/bleedingtooth)
 
 ...

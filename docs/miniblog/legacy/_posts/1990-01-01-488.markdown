@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Car hijacking swapping a single bit - Hardware SPI
+
 [https://www.synacktiv.com/en/publications/car-hijacking-swapping-a-single-bit.html](https://www.synacktiv.com/en/publications/car-hijacking-swapping-a-single-bit.html)
 
 ...

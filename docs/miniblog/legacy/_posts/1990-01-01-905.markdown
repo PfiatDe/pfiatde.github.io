@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # LSASS dumping in 2021/2022 - from memory - without C2
+
 [https://s3cur3th1ssh1t.github.io/Reflective-Dump-Tools/](https://s3cur3th1ssh1t.github.io/Reflective-Dump-Tools/)
+
 [https://github.com/S3cur3Th1sSh1t/Creds/blob/master/Csharp/NanoDumpInject.cs](https://github.com/S3cur3Th1sSh1t/Creds/blob/master/Csharp/NanoDumpInject.cs)
+
 [https://github.com/S3cur3Th1sSh1t/Creds/blob/master/Csharp/PPLDumpInject.cs](https://github.com/S3cur3Th1sSh1t/Creds/blob/master/Csharp/PPLDumpInject.cs)
+
 [https://github.com/S3cur3Th1sSh1t/PowerSharpPack/blob/master/PowerSharpBinaries/Invoke-HandleKatz.ps1](https://github.com/S3cur3Th1sSh1t/PowerSharpPack/blob/master/PowerSharpBinaries/Invoke-HandleKatz.ps1)
 
 ...

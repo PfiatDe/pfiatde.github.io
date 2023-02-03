@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Unicode Right-To-Left Override
+
 [https://twitter.com/mariuszbit/status/1490438231313289216/photo/2](https://twitter.com/mariuszbit/status/1490438231313289216/photo/2)
+
 [https://github.com/mgeeky/Penetration-Testing-Tools/blob/master/phishing/DancingRightToLeft.py](https://github.com/mgeeky/Penetration-Testing-Tools/blob/master/phishing/DancingRightToLeft.py)
 
 ...

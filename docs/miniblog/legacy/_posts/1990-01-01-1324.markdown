@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Apache’s other product: Critical bugs in ‘httpd’ web server, patch now!
+
 [https://nakedsecurity.sophos.com/2021/12/21/apaches-other-product-critical-bugs-in-httpd-web-server-patch-now/](https://nakedsecurity.sophos.com/2021/12/21/apaches-other-product-critical-bugs-in-httpd-web-server-patch-now/)
+
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44790](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44790)
+
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44224](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44224)
+
 [https://downloads.apache.org/httpd/CHANGES_2.4.52](https://downloads.apache.org/httpd/CHANGES_2.4.52)
 
 ...

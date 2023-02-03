@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # TPM sniffing
+
 [https://blog.scrt.ch/2021/11/15/tpm-sniffing/](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
 
 ...

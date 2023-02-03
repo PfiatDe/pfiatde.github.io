@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # F5 hat Schwachstelle in BigIP, ermöglicht Übernahme der Geräte
+
 [https://www.bleepingcomputer.com/news/security/f5-warns-of-critical-big-ip-rce-bug-allowing-device-takeover/](https://www.bleepingcomputer.com/news/security/f5-warns-of-critical-big-ip-rce-bug-allowing-device-takeover/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows LPE - Windows 10 1909 to 20H2 and Server Core 2004/20H2 (CVE-2021-33739)
+
 [https://github.com/mavillon1/CVE-2021-33739-POC](https://github.com/mavillon1/CVE-2021-33739-POC)
 
 ...

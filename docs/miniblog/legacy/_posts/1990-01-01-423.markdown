@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # ProxyToken: An Authentication Bypass in Microsoft Exchange Server - CVE-2021-33766
+
 [https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33766](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33766)
+
 [https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server](https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server)
+
 [https://therecord.media/proxytoken-vulnerability-can-modify-exchange-server-configs/](https://therecord.media/proxytoken-vulnerability-can-modify-exchange-server-configs/)
+
 [https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33766](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33766)
 
 ...

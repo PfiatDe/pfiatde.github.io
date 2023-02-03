@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Ubuntu accountsservice CVE-2021-3939 (GHSL-2021-1011)
+
 [https://securitylab.github.com/research/ubuntu-accountsservice-CVE-2021-3939/](https://securitylab.github.com/research/ubuntu-accountsservice-CVE-2021-3939/)
+
 [https://github.com/github/securitylab/tree/b36e194556f956c3ec63bf9d8af454c8f620f33a/SecurityExploits/Ubuntu/accountsservice_CVE-2021-3939](https://github.com/github/securitylab/tree/b36e194556f956c3ec63bf9d8af454c8f620f33a/SecurityExploits/Ubuntu/accountsservice_CVE-2021-3939)
+
 [https://www.bleepingcomputer.com/news/security/attackers-can-get-root-by-crashing-ubuntu-s-accountsservice/](https://www.bleepingcomputer.com/news/security/attackers-can-get-root-by-crashing-ubuntu-s-accountsservice/)
 
 ...

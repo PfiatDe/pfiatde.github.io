@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # OffensiveAutoIt
+
 [https://thevivi.net/blog/pentesting/2021-11-24-autoitmating-your-dotnet-tradecraft/](https://thevivi.net/blog/pentesting/2021-11-24-autoitmating-your-dotnet-tradecraft/)
+
 [https://github.com/V1V1/OffensiveAutoIt](https://github.com/V1V1/OffensiveAutoIt)
 
 ...

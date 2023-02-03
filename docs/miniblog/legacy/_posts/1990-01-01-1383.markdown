@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # FortiOS, FortiProxy, and FortiSwitchManager Authentication Bypass Technical Deep Dive (CVE-2022-40684)
+
 [https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684/](https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684/)
+
 [https://github.com/horizon3ai/CVE-2022-40684](https://github.com/horizon3ai/CVE-2022-40684)
+
 [https://github.com/NagliNagli/BountyTricks/blob/main/CVE-2022-40684.yaml](https://github.com/NagliNagli/BountyTricks/blob/main/CVE-2022-40684.yaml)
 
 ...

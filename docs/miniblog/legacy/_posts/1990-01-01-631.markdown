@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # From Stranger to DA // Using PetitPotam to NTLM relay to Domain Administrator
+
 [https://blog.truesec.com/2021/08/05/from-stranger-to-da-using-petitpotam-to-ntlm-relay-to-active-directory/](https://blog.truesec.com/2021/08/05/from-stranger-to-da-using-petitpotam-to-ntlm-relay-to-active-directory/)
 
 ...

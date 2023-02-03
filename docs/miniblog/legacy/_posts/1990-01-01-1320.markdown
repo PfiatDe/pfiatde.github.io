@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Secret Backdoors Found in German-made Auerswald VoIP System
+
 [https://thehackernews.com/2021/12/secret-backdoors-found-in-german-made.html](https://thehackernews.com/2021/12/secret-backdoors-found-in-german-made.html)
+
 [https://en.wikipedia.org/wiki/MD5](https://en.wikipedia.org/wiki/MD5)
 
 ...

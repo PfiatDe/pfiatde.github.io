@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # HTB: PivotAPI
+
 [https://0xdf.gitlab.io/2021/11/06/htb-pivotapi.html](https://0xdf.gitlab.io/2021/11/06/htb-pivotapi.html)
 
 ...

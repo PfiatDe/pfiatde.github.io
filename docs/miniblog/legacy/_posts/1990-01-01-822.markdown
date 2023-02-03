@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # GitLab <13.9.4 RCE via unsafe inline Kramdown options when rendering certain Wiki pages
+
 [https://hackerone.com/reports/1125425](https://hackerone.com/reports/1125425)
 
 ...

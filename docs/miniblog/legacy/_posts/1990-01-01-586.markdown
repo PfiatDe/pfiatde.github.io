@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # Running Cobalt Strike BOFs from Python
+
 [https://www.naksyn.com/injection/2022/02/16/running-cobalt-strike-bofs-from-python.html](https://www.naksyn.com/injection/2022/02/16/running-cobalt-strike-bofs-from-python.html)
+
 [https://github.com/naksyn/python-bof-runner](https://github.com/naksyn/python-bof-runner)
+
 [https://github.com/FalconForceTeam/BOF2shellcode](https://github.com/FalconForceTeam/BOF2shellcode)
+
 [https://github.com/BishopFox/sliver/pull/573](https://github.com/BishopFox/sliver/pull/573)
 
 ...

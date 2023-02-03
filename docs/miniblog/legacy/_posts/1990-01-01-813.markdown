@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Ubuntu Desktop Exploit - Pwn2Own 2021 Local Escalation of Privilege Category
+
 [https://flatt.tech/reports/210401_pwn2own/](https://flatt.tech/reports/210401_pwn2own/)
 
 ...

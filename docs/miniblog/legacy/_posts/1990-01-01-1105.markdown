@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Technical Advisory: Dell SupportAssist Local Privilege Escalation (CVE-2021-21518)
+
 [https://research.nccgroup.com/2021/03/10/technical-advisory-dell-supportassist-local-privilege-escalation-cve-202-21518/](https://research.nccgroup.com/2021/03/10/technical-advisory-dell-supportassist-local-privilege-escalation-cve-202-21518/)
+
 [https://twitter.com/i/status/1369692589193039874](https://twitter.com/i/status/1369692589193039874)
 
 ...

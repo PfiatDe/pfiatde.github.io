@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Bypassing Signature-Based AV
+
 [https://www.redsiege.com/blog/2021/08/bypass-sig-av/](https://www.redsiege.com/blog/2021/08/bypass-sig-av/)
 
 ...

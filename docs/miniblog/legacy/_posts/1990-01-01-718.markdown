@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Apache Log4j bug: China’s industry ministry pulls support from Alibaba Cloud for not reporting flaw to government first
+
 [https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
+
 [https://www.reuters.com/world/china/china-regulator-suspends-cyber-security-deal-with-alibaba-cloud-2021-12-22/](https://www.reuters.com/world/china/china-regulator-suspends-cyber-security-deal-with-alibaba-cloud-2021-12-22/)
 
 ...

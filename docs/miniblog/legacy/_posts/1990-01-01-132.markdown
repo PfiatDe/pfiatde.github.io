@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Cloudflare Pages, part 1: The fellowship of the secret
+
 [https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/](https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/)
+
 [https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt2/](https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt2/)
+
 [https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt3/](https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt3/)
 
 ...

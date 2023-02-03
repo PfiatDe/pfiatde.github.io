@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows - First Installation Animation
+
 [https://twitter.com/Hexacorn/status/1482297012116668419](https://twitter.com/Hexacorn/status/1482297012116668419)
 
 ...

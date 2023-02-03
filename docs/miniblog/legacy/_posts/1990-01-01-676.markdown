@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # EDR Parallel-asis through Analysis
+
 [https://www.mdsec.co.uk/2022/01/edr-parallel-asis-through-analysis/](https://www.mdsec.co.uk/2022/01/edr-parallel-asis-through-analysis/)
+
 [https://github.com/mdsecactivebreach/ParallelSyscalls/](https://github.com/mdsecactivebreach/ParallelSyscalls/)
+
 [https://github.com/cube0x0/ParallelSyscalls](https://github.com/cube0x0/ParallelSyscalls)
 
 ...

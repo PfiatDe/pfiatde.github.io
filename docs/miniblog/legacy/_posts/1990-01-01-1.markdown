@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Analyse: Backdoored Browser Extensions Hid Malicious Traffic in Analytics Requests
+
 [https://decoded.avast.io/janvojtesek/backdoored-browser-extensions-hid-malicious-traffic-in-analytics-requests/](https://decoded.avast.io/janvojtesek/backdoored-browser-extensions-hid-malicious-traffic-in-analytics-requests/)
 
 ...

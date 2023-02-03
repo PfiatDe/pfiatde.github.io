@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # JFrog Discloses 5 Memory Corruption Vulnerabilities in PJSIP – A Popular Multimedia Library
+
 [https://jfrog.com/blog/jfrog-discloses-5-memory-corruption-vulnerabilities-in-pjsip-a-popular-multimedia-library/](https://jfrog.com/blog/jfrog-discloses-5-memory-corruption-vulnerabilities-in-pjsip-a-popular-multimedia-library/)
+
 [https://threatpost.com/rce-bugs-whatsapp-popular-voip-apps-patch-now/178719/](https://threatpost.com/rce-bugs-whatsapp-popular-voip-apps-patch-now/178719/)
 
 ...

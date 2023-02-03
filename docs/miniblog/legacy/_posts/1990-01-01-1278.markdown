@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # CVE-2021-1499 - Cisco HyperFlex HX Data Platform RCE
+
 [https://attackerkb.com/topics/Z2MeUsvSlT/cve-2021-1499?referrer=home](https://attackerkb.com/topics/Z2MeUsvSlT/cve-2021-1499?referrer=home)
 
 ...

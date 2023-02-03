@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Blackhat: Safeguarding UEFI Ecosystem: Firmware Supply Chain is Hard(coded)
+
 [https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Safeguarding-UEFI-Ecosystem-Firmware-Supply-Chain-Is-Hardcoded.pdf](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Safeguarding-UEFI-Ecosystem-Firmware-Supply-Chain-Is-Hardcoded.pdf)
 
 ...

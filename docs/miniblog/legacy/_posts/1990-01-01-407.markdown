@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # XSS Phishing Payload - Snippet
+
 [https://gist.github.com/tothi/96b543803801edbf67e08fa550c5b9b2](https://gist.github.com/tothi/96b543803801edbf67e08fa550c5b9b2)
+
 [https://twitter.com/an0n_r0/status/1455732394695217158](https://twitter.com/an0n_r0/status/1455732394695217158)
 
 ...

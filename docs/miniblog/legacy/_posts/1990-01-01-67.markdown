@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Exploited Windows zero-day lets JavaScript files bypass security warnings
+
 [https://www.blackhatethicalhacking.com/news/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/](https://www.blackhatethicalhacking.com/news/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/)
+
 [https://twitter.com/wdormann/status/1582458287915573249?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1582493426494636032%7Ctwgr%5Ec6dd26d1204abb8812bc101cd381ed47d03b7a43%7Ctwcon%5Es4_&ref_url=https%3A%2F%2Fwww.blackhatethicalhacking.com%2Fnews%2Fexploited-windows-zero-day-lets-javascript-files-bypass-security-warnings%2F](https://twitter.com/wdormann/status/1582458287915573249?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1582493426494636032%7Ctwgr%5Ec6dd26d1204abb8812bc101cd381ed47d03b7a43%7Ctwcon%5Es4_&ref_url=https%3A%2F%2Fwww.blackhatethicalhacking.com%2Fnews%2Fexploited-windows-zero-day-lets-javascript-files-bypass-security-warnings%2F)
+
 [https://twitter.com/wdormann/status/1582493426494636032](https://twitter.com/wdormann/status/1582493426494636032)
 
 ...

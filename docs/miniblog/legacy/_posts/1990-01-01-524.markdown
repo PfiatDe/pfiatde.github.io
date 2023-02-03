@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # AutoPoC - Validating the Lack of Validation in PoCs
+
 [https://blog.zsec.uk/honeypoc-ultimate/](https://blog.zsec.uk/honeypoc-ultimate/)
+
 [https://twitter.com/ZephrFish](https://twitter.com/ZephrFish)
 
 ...

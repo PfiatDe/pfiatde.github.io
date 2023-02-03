@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # A supply-chainbreach: Taking over an Atlassian account
+
 [https://media.threatpost.com/wp-content/uploads/sites/103/2021/06/23175805/Atlassian-ATO-CPR-blog-FINAL.pdf](https://media.threatpost.com/wp-content/uploads/sites/103/2021/06/23175805/Atlassian-ATO-CPR-blog-FINAL.pdf)
+
 [https://www.youtube.com/watch?v=GClhS5rNga0](https://www.youtube.com/watch?v=GClhS5rNga0)
 
 ...

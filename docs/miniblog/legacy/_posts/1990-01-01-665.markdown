@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Oh Snap! More Lemmings: Local Privilege Escalation Vulnerability Discovered in snap-confine (CVE-2021-44731)
+
 [https://www.qualys.com/2022/02/17/cve-2021-44731/oh-snap-more-lemmings.txt](https://www.qualys.com/2022/02/17/cve-2021-44731/oh-snap-more-lemmings.txt)
+
 [https://blog.qualys.com/vulnerabilities-threat-research/2022/02/17/oh-snap-more-lemmings-local-privilege-escalation-vulnerability-discovered-in-snap-confine-cve-2021-44731](https://blog.qualys.com/vulnerabilities-threat-research/2022/02/17/oh-snap-more-lemmings-local-privilege-escalation-vulnerability-discovered-in-snap-confine-cve-2021-44731)
 
 ...

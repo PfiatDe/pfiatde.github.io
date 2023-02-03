@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # A defender’s view inside a DarkSide ransomware attack
+
 [https://news.sophos.com/en-us/2021/05/11/a-defenders-view-inside-a-darkside-ransomware-attack/](https://news.sophos.com/en-us/2021/05/11/a-defenders-view-inside-a-darkside-ransomware-attack/)
 
 ...

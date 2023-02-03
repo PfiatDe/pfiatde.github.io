@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Airstrike Attack - FDE bypass and EoP on domain joined Windows workstations (CVE-2021-28316)
+
 [https://shenaniganslabs.io/2021/04/13/Airstrike.html](https://shenaniganslabs.io/2021/04/13/Airstrike.html)
 
 ...

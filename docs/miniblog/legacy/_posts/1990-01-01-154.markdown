@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # RCE für Windows via TTF CVE-2021-24093 Fixed-2021-Feb-9
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2123](https://bugs.chromium.org/p/project-zero/issues/detail?id=2123)
 
 ...

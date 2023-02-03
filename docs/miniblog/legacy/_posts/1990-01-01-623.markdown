@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Horde Webmail 5.2.22 - Account Takeover via Email
+
 [https://blog.sonarsource.com/horde-webmail-account-takeover-via-email](https://blog.sonarsource.com/horde-webmail-account-takeover-via-email)
 
 ...

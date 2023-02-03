@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # WriteUp Webexploits
+
 [http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/](http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/)
+
 [https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46](https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46)
+
 [https://ysamm.com/?p=646](https://ysamm.com/?p=646)
 
 ...

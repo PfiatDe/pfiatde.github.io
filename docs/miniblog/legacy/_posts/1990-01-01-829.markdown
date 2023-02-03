@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Maelstrom: EDR Kernel Callbacks, Hooks, and Call Stacks
+
 [https://pre.empt.dev/posts/maelstrom-edr-kernel-callbacks-hooks-and-callstacks/](https://pre.empt.dev/posts/maelstrom-edr-kernel-callbacks-hooks-and-callstacks/)
+
 [https://twitter.com/ShitSecure/status/1546739757283262466](https://twitter.com/ShitSecure/status/1546739757283262466)
 
 ...

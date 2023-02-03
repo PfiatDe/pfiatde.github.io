@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Openredirect www.google.com - Phishing
+
 [https://threadreaderapp.com/thread/1598013561686532096.html](https://threadreaderapp.com/thread/1598013561686532096.html)
+
 [https://www.google.com/url?q=https://www.syss.de&sa=D&source=docs&ust=1669881134976310&usg=AOvVaw1XT9ELJdeySe47YdIUxdYx](https://www.google.com/url?q=https://www.syss.de&sa=D&source=docs&ust=1669881134976310&usg=AOvVaw1XT9ELJdeySe47YdIUxdYx)
 
 ...

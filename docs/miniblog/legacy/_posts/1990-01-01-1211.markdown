@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Gregor Samsa: Exploiting Java's XML Signature Verification - CVE-2022-34169
+
 [https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html](https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html)
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2290&q=reporter%3Ame&can=1](https://bugs.chromium.org/p/project-zero/issues/detail?id=2290&q=reporter%3Ame&can=1)
 
 ...

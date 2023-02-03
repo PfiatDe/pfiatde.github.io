@@ -7,9 +7,13 @@ excerpt_separator: <!--more-->
 ---
 
 # BIGIP Adwanced WAF & ASM  RCE < 16.0.1.1 - CVE-2021-22992
+
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22992](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22992)
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2132](https://bugs.chromium.org/p/project-zero/issues/detail?id=2132)
+
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=2126](https://bugs.chromium.org/p/project-zero/issues/detail?id=2126)
+
 [https://support.f5.com/csp/article/K52510511](https://support.f5.com/csp/article/K52510511)
 
 ...

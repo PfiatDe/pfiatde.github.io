@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Citrix SSON Credential Leak
+
 [https://www.borncity.com/blog/2022/12/06/schwachstelle-in-citrix-workspace-app-for-windows-ermglicht-passwort-klau/](https://www.borncity.com/blog/2022/12/06/schwachstelle-in-citrix-workspace-app-for-windows-ermglicht-passwort-klau/)
+
 [https://twitter.com/gentilkiwi/status/1600213497383903233](https://twitter.com/gentilkiwi/status/1600213497383903233)
 
 ...

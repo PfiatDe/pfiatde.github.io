@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Retbleed: Arbitrary Speculative Code Execution with Return Instructions
+
 [https://comsec.ethz.ch/research/microarch/retbleed/](https://comsec.ethz.ch/research/microarch/retbleed/)
 
 ...

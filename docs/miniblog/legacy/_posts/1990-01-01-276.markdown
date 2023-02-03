@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # QNAP Pre-Auth CGI_Find_Parameter RCE
+
 [https://ssd-disclosure.com/ssd-advisory-qnap-pre-auth-cgi_find_parameter-rce/](https://ssd-disclosure.com/ssd-advisory-qnap-pre-auth-cgi_find_parameter-rce/)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Stranger Strings: An exploitable flaw in SQLite
+
 [https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
+
 [https://blog.fefe.de/?ts=9da91087](https://blog.fefe.de/?ts=9da91087)
 
 ...

@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Abusing functionality to exploit a super SSRF in Jira Server (CVE-2022-26135)
+
 [https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/](https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/)
+
 [https://github.com/assetnote/jira-mobile-ssrf-exploit](https://github.com/assetnote/jira-mobile-ssrf-exploit)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # SeeYouCM-Thief: Exploiting common misconfigurations in Cisco phone systems
+
 [https://www.trustedsec.com/blog/seeyoucm-thief-exploiting-common-misconfigurations-in-cisco-phone-systems/](https://www.trustedsec.com/blog/seeyoucm-thief-exploiting-common-misconfigurations-in-cisco-phone-systems/)
 
 ...

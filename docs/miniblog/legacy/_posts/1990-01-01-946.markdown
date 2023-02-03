@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # What can we learn from leaked Insyde's BIOS for Intel Alder Lake
+
 [https://hardenedvault.net/blog/2022-10-08-alderlake_fw-leak/](https://hardenedvault.net/blog/2022-10-08-alderlake_fw-leak/)
+
 [https://web.archive.org/web/20221008040713/https://github.com/LCFCASD/ICE_TEA_BIOS](https://web.archive.org/web/20221008040713/https://github.com/LCFCASD/ICE_TEA_BIOS)
+
 [https://git.tcp.direct/TheParmak/ICE_TEA_BIOS](https://git.tcp.direct/TheParmak/ICE_TEA_BIOS)
 
 ...

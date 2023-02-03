@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Revisiting a Credential Guard Bypass - Windows
+
 [https://itm4n.github.io/credential-guard-bypass/](https://itm4n.github.io/credential-guard-bypass/)
+
 [https://teamhydra.blog/2020/08/25/bypassing-credential-guard/](https://teamhydra.blog/2020/08/25/bypassing-credential-guard/)
+
 [https://github.com/itm4n/Pentest-Windows/tree/main/CredGuardBypassOffsets](https://github.com/itm4n/Pentest-Windows/tree/main/CredGuardBypassOffsets)
 
 ...

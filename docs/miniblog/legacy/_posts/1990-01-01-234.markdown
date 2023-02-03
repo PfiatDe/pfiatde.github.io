@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # SSD Advisory – Cisco "Secure" Manager Appliance jwt_api_impl Hardcoded JWT Secret Elevation of Privilege
+
 [https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/](https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/)
+
 [https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-remediation_request_utils-sql-injection-remote-code-execution/](https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-remediation_request_utils-sql-injection-remote-code-execution/)
 
 ...

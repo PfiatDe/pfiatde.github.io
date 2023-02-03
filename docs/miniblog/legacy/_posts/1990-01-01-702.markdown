@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Dropping Files on a Domain Controller Using CVE-2021-43893
+
 [https://www.rapid7.com/blog/post/2022/02/14/dropping-files-on-a-domain-controller-using-cve-2021-43893/](https://www.rapid7.com/blog/post/2022/02/14/dropping-files-on-a-domain-controller-using-cve-2021-43893/)
 
 ...

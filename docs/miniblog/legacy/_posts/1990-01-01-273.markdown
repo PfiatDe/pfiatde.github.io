@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Go away BitLocker, you´re drunk
+
 [https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/](https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Build your own WiFi Pineapple Tetra for $7!
+
 [https://samy.link/blog/build-your-own-wifi-pineapple-tetra-for-7](https://samy.link/blog/build-your-own-wifi-pineapple-tetra-for-7)
 
 ...

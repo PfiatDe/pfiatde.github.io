@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Living off the land, AD CS style
+
 [https://www.pentestpartners.com/security-blog/living-off-the-land-ad-cs-style/](https://www.pentestpartners.com/security-blog/living-off-the-land-ad-cs-style/)
+
 [https://github.com/CCob/PIVert](https://github.com/CCob/PIVert)
 
 ...

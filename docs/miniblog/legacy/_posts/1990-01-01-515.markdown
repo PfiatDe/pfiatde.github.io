@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Persistent access to Burp’s Collaborator Session
+
 [https://www.onsecurity.io/blog/persistent-access-to-burp-suite-sessions-step-by-step-guide/](https://www.onsecurity.io/blog/persistent-access-to-burp-suite-sessions-step-by-step-guide/)
+
 [http://polling.burpcollaborator.net/burpresults?biid=SECRET_KEY_HERE](http://polling.burpcollaborator.net/burpresults?biid=SECRET_KEY_HERE)
 
 ...

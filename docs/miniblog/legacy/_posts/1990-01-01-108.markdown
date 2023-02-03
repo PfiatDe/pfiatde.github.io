@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Oh, Behave! Figuring Out User Behavior (Windows Activity)
+
 [https://www.trustedsec.com/blog/oh-behave-figuring-out-user-behavior/](https://www.trustedsec.com/blog/oh-behave-figuring-out-user-behavior/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Bypassing Azure AD home tenant MFA and CA
+
 [https://aadinternals.com/post/ests/#bypassing-mfa-and-ca](https://aadinternals.com/post/ests/#bypassing-mfa-and-ca)
 
 ...

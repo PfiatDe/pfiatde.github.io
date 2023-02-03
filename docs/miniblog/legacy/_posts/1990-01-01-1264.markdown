@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 
 # Windows installer LPE 0day
+
 [https://twitter.com/KLINIX5/status/1462597892066136069](https://twitter.com/KLINIX5/status/1462597892066136069)
+
 [https://github.com/klinix5/InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver)
 
 ...

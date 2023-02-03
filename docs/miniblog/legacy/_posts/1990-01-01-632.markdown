@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # AD CS – The Basics
+
 [https://http418infosec.com/ad-certificate-services-the-basics](https://http418infosec.com/ad-certificate-services-the-basics)
+
 [https://http418infosec.com/ad-cs-what-can-be-misconfigured](https://http418infosec.com/ad-cs-what-can-be-misconfigured)
+
 [https://http418infosec.com/ad-cs-the-certified-pre-owned-attacks](https://http418infosec.com/ad-cs-the-certified-pre-owned-attacks)
 
 ...

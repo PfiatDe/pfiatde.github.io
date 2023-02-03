@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # [ENG] UUID Shellcode Execution Implementation in C# and DInvoke
+
 [https://blog.sunggwanchoi.com/eng-uuid-shellcode-execution/](https://blog.sunggwanchoi.com/eng-uuid-shellcode-execution/)
 
 ...

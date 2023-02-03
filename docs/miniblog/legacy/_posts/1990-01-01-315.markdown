@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # All Roads Lead to OpenVPN: Pwning Industrial Remote Access Clients
+
 [https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/](https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/)
 
 ...

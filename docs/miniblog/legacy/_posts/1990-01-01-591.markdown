@@ -7,8 +7,11 @@ excerpt_separator: <!--more-->
 ---
 
 # Little #printnightmare (ep 4.3) upgrade : user-to-system as a service
+
 [https://twitter.com/hashtag/printnightmare?src=hashtag_click](https://twitter.com/hashtag/printnightmare?src=hashtag_click)
+
 [https://twitter.com/gentilkiwi/status/1420069224106577927](https://twitter.com/gentilkiwi/status/1420069224106577927)
+
 [https://video.twimg.com/tweet_video/E7UZXfPXEAc1uKk.mp4](https://video.twimg.com/tweet_video/E7UZXfPXEAc1uKk.mp4)
 
 ...

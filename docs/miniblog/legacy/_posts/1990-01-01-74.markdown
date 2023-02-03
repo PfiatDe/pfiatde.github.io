@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Racing Cats to the Exit: A Boring Linux Kernel Use-After-Free
+
 [https://accessvector.net/2022/linux-itimers-uaf](https://accessvector.net/2022/linux-itimers-uaf)
 
 ...

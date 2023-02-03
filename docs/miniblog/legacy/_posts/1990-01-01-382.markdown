@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # BRAKTOOTH: Causing Havoc on Bluetooth Link Manager
+
 [https://asset-group.github.io/disclosures/braktooth/](https://asset-group.github.io/disclosures/braktooth/)
 
 ...

@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # NTLM relaying to AD CS - On certificates, printers and a little hippo
+
 [https://dirkjanm.io/ntlm-relaying-to-ad-certificate-services/](https://dirkjanm.io/ntlm-relaying-to-ad-certificate-services/)
 
 ...
