@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "#Conti playbook in a (google) translated, safe pdf:"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# #Conti playbook in a (google) translated, safe pdf:
+[https://raw.githubusercontent.com/silence-is-best/files/main/translate_f.pdf](https://raw.githubusercontent.com/silence-is-best/files/main/translate_f.pdf)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Multiple vulnerabilities in FortiManager version 6.4.5"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Multiple vulnerabilities in FortiManager version 6.4.5
+[https://www.synacktiv.com/sites/default/files/2022-03/fortimanager_multiple_vulnerabilities_2021_published.pdf](https://www.synacktiv.com/sites/default/files/2022-03/fortimanager_multiple_vulnerabilities_2021_published.pdf)
+
+...
+<!--more-->

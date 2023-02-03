@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "The Pen Testing Tools We’re Thankful for in 2021"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Pen Testing Tools We’re Thankful for in 2021
+[https://bishopfox.com/blog/pen-testing-tools-2021](https://bishopfox.com/blog/pen-testing-tools-2021)
+[https://github.com/epi052/feroxbuster](https://github.com/epi052/feroxbuster)
+[https://bishopfox.com/tools/eyeballer](https://bishopfox.com/tools/eyeballer)
+[https://github.com/nccgroup/dirble](https://github.com/nccgroup/dirble)
+[https://gitlab.com/autovtools/autovrtfm/autovnet](https://gitlab.com/autovtools/autovrtfm/autovnet)
+[https://github.com/nccgroup/PMapper](https://github.com/nccgroup/PMapper)
+[https://bishopfox.com/tools/iam-vulnerable](https://bishopfox.com/tools/iam-vulnerable)
+[https://bishopfox.com/blog/kubernetes-pod-privilege-escalation](https://bishopfox.com/blog/kubernetes-pod-privilege-escalation)
+[https://github.com/projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
+[https://semgrep.dev/](https://semgrep.dev/)
+[https://www.martinvigo.com/phonerator-an-advanced-valid-phone-number-generator/](https://www.martinvigo.com/phonerator-an-advanced-valid-phone-number-generator/)
+
+...
+<!--more-->

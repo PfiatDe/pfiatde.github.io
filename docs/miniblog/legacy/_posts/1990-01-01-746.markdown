@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Novel Pipeline Vulnerability Discovered; Rust  Found Vulnerable"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Novel Pipeline Vulnerability Discovered; Rust  Found Vulnerable
+[https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust](https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust)
+[https://20956152.fs1.hubspotusercontent-na1.net/hubfs/20956152/Video/Noam%20Rust%20Hack%20Video.mp4](https://20956152.fs1.hubspotusercontent-na1.net/hubfs/20956152/Video/Noam%20Rust%20Hack%20Video.mp4)
+
+...
+<!--more-->

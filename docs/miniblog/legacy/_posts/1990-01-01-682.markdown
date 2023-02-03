@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "RemotePotato0"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# RemotePotato0
+[https://github.com/antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
+[https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/](https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/)
+[https://twitter.com/decoder_it/status/1419403714222301186](https://twitter.com/decoder_it/status/1419403714222301186)
+[https://github.com/antonioCoco/RemotePotato0/blob/main/demo_cross_session.gif](https://github.com/antonioCoco/RemotePotato0/blob/main/demo_cross_session.gif)
+
+...
+<!--more-->

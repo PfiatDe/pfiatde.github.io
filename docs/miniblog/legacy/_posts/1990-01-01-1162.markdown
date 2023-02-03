@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Defender Bypass - Dump LSASS"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Defender Bypass - Dump LSASS
+[https://twitter.com/cyb3rops/status/1466428203908706314](https://twitter.com/cyb3rops/status/1466428203908706314)
+
+...
+<!--more-->

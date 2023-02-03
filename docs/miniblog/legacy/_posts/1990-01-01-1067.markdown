@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Relaying YubiKeys / PIVert Smartcards"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Relaying YubiKeys / PIVert Smartcards
+[https://cube0x0.github.io/Relaying-YubiKeys/](https://cube0x0.github.io/Relaying-YubiKeys/)
+[https://github.com/cube0x0/PIVert-Relay](https://github.com/cube0x0/PIVert-Relay)
+
+...
+<!--more-->

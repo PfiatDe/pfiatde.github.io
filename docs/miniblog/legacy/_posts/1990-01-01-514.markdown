@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "pay-what-you-can (min $5) on the following courses: External Pentest Playbook Windows PrivEsc Linux PrivEsc"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# pay-what-you-can (min $5) on the following courses: External Pentest Playbook Windows PrivEsc Linux PrivEsc
+[https://twitter.com/TCMSecurity/status/1585683642440814592](https://twitter.com/TCMSecurity/status/1585683642440814592)
+
+...
+<!--more-->

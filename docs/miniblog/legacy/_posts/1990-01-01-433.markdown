@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "RestrictedAdmin"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# RestrictedAdmin
+[https://github.com/GhostPack/RestrictedAdmin](https://github.com/GhostPack/RestrictedAdmin)
+
+...
+<!--more-->

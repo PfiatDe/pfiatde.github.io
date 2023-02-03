@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "AD PKI #ESC8 in Kombination mit PetitPotam "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AD PKI #ESC8 in Kombination mit PetitPotam 
+[https://twitter.com/remiescourrou/status/1418232548677804032](https://twitter.com/remiescourrou/status/1418232548677804032)
+[https://www.exandroid.dev/2021/06/23/ad-cs-relay-attack-practical-guide/](https://www.exandroid.dev/2021/06/23/ad-cs-relay-attack-practical-guide/)
+[https://github.com/topotam/PetitPotam](https://github.com/topotam/PetitPotam)
+[https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/](https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/)
+
+...
+<!--more-->

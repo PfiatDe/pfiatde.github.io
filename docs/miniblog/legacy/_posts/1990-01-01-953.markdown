@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Replicant: Reproducing a Fault Injection Attack on the Trezor One"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Replicant: Reproducing a Fault Injection Attack on the Trezor One
+[https://voidstarsec.com/blog/replicant-part-1](https://voidstarsec.com/blog/replicant-part-1)
+
+...
+<!--more-->

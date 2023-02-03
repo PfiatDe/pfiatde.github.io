@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software
+[https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html](https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html)
+[https://blog.sonarsource.com/checkmk-rce-chain-1/](https://blog.sonarsource.com/checkmk-rce-chain-1/)
+
+...
+<!--more-->

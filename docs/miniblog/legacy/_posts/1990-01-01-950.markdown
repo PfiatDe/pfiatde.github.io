@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Evading Detection: A Beginner's Guide to Obfuscation"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Evading Detection: A Beginner's Guide to Obfuscation
+[https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A Symmetric Cipher Ransomware … YES!"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A Symmetric Cipher Ransomware … YES!
+[https://blog.compass-security.com/2022/11/a-symmetric-cipher-ransomware-yes/](https://blog.compass-security.com/2022/11/a-symmetric-cipher-ransomware-yes/)
+
+...
+<!--more-->

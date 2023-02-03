@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Abusing Windows’ Implementation of Fork() for Stealthy Memory Operations"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Abusing Windows’ Implementation of Fork() for Stealthy Memory Operations
+[https://billdemirkapi.me/abusing-windows-implementation-of-fork-for-stealthy-memory-operations/](https://billdemirkapi.me/abusing-windows-implementation-of-fork-for-stealthy-memory-operations/)
+[https://github.com/D4stiny/ForkPlayground](https://github.com/D4stiny/ForkPlayground)
+
+...
+<!--more-->

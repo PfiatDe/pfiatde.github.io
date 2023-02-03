@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Phishing Users to Take a Test"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Phishing Users to Take a Test
+[https://www.mdsec.co.uk/2021/03/phishing-users-to-take-a-test/](https://www.mdsec.co.uk/2021/03/phishing-users-to-take-a-test/)
+[https://www.syss.de#enforcelockdown&enableTextSuggestion&enableScreenMonitoring](https://www.syss.de#enforcelockdown&enableTextSuggestion&enableScreenMonitoring)
+[https://takeatest.blob.core.windows.net/takeatest-link-generator/testpage.html](https://takeatest.blob.core.windows.net/takeatest-link-generator/testpage.html)
+
+...
+<!--more-->

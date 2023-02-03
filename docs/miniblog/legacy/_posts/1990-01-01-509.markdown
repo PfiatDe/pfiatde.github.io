@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction
+[https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/](https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/)
+
+...
+<!--more-->

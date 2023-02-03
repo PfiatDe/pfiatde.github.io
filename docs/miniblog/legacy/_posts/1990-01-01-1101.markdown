@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The cloud has an isolation problem: PostgreSQL vulnerabilities affect multiple cloud vendors"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The cloud has an isolation problem: PostgreSQL vulnerabilities affect multiple cloud vendors
+[https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
+
+...
+<!--more-->

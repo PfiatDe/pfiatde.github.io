@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "WordPress Core - Unauthenticated Blind SSRF"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# WordPress Core - Unauthenticated Blind SSRF
+[https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/](https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HotPics 2021 - RCE via GhostScript"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HotPics 2021 - RCE via GhostScript
+[https://twitter.com/emil_lerner/status/1430502815181463559](https://twitter.com/emil_lerner/status/1430502815181463559)
+[https://www.slideshare.net/neexemil/hotpics-2021](https://www.slideshare.net/neexemil/hotpics-2021)
+
+...
+<!--more-->

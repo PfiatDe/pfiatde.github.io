@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Popular 'coa' NPM library hijacked to steal user passwords"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Popular 'coa' NPM library hijacked to steal user passwords
+[https://www.bleepingcomputer.com/news/security/popular-coa-npm-library-hijacked-to-steal-user-passwords/](https://www.bleepingcomputer.com/news/security/popular-coa-npm-library-hijacked-to-steal-user-passwords/)
+[https://twitter.com/BleepinComputer/status/1456323106465882114](https://twitter.com/BleepinComputer/status/1456323106465882114)
+
+...
+<!--more-->

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Introducing the Azure Threat Research Matrix"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Introducing the Azure Threat Research Matrix
+[https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-the-azure-threat-research-matrix/ba-p/3584976](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-the-azure-threat-research-matrix/ba-p/3584976)
+[https://microsoft.github.io/Azure-Threat-Research-Matrix/](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
+[https://github.com/microsoft/Azure-Threat-Research-Matrix](https://github.com/microsoft/Azure-Threat-Research-Matrix)
+
+...
+<!--more-->

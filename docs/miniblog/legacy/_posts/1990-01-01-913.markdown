@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "2021 Year In Review - The DFIR Report"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# 2021 Year In Review - The DFIR Report
+[https://thedfirreport.com/](https://thedfirreport.com/)
+[https://thedfirreport.com/2022/03/07/2021-year-in-review/](https://thedfirreport.com/2022/03/07/2021-year-in-review/)
+
+...
+<!--more-->

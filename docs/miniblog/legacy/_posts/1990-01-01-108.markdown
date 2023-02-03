@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Oh, Behave! Figuring Out User Behavior (Windows Activity)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Oh, Behave! Figuring Out User Behavior (Windows Activity)
+[https://www.trustedsec.com/blog/oh-behave-figuring-out-user-behavior/](https://www.trustedsec.com/blog/oh-behave-figuring-out-user-behavior/)
+
+...
+<!--more-->

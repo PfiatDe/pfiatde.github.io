@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Apache Log4j bug: China’s industry ministry pulls support from Alibaba Cloud for not reporting flaw to government first"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Apache Log4j bug: China’s industry ministry pulls support from Alibaba Cloud for not reporting flaw to government first
+[https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud](https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud)
+
+...
+<!--more-->

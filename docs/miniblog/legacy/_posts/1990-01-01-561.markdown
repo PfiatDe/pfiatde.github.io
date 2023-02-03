@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Phishing for AWS credentials via AWS SSO device code authentication"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Phishing for AWS credentials via AWS SSO device code authentication
+[https://blog.christophetd.fr/phishing-for-aws-credentials-via-aws-sso-device-code-authentication/](https://blog.christophetd.fr/phishing-for-aws-credentials-via-aws-sso-device-code-authentication/)
+
+...
+<!--more-->

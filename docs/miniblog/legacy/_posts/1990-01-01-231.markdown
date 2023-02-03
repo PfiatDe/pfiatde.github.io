@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Amazon once again lost control (for 3 hours) over the IP pool in a BGP Hijacking attack"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Amazon once again lost control (for 3 hours) over the IP pool in a BGP Hijacking attack
+[https://research.securitum.com/amazon-once-again-lost-control-for-3-hours-over-the-ip-pool-in-a-bgp-hijacking-attack/](https://research.securitum.com/amazon-once-again-lost-control-for-3-hours-over-the-ip-pool-in-a-bgp-hijacking-attack/)
+
+...
+<!--more-->

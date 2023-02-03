@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2021-26420: Remote Code Execution in SharePoint via Workflow Compilation "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-26420: Remote Code Execution in SharePoint via Workflow Compilation 
+[https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation](https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation)
+
+...
+<!--more-->

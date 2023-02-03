@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2021-22555: Turning \x00\x00 into 10000$"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-22555: Turning \x00\x00 into 10000$
+[https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html)
+[https://google.github.io/kctf/vrp.html](https://google.github.io/kctf/vrp.html)
+
+...
+<!--more-->

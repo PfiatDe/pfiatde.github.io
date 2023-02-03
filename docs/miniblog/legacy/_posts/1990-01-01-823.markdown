@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Vulnerability Spotlight: Multiple vulnerabilities in Synology DiskStation Manager"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Vulnerability Spotlight: Multiple vulnerabilities in Synology DiskStation Manager
+[https://blog.talosintelligence.com/2021/04/vuln-spotlight-synology-dsm.html](https://blog.talosintelligence.com/2021/04/vuln-spotlight-synology-dsm.html)
+
+...
+<!--more-->

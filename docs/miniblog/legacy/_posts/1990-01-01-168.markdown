@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HTB: RouterSpace"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: RouterSpace
+[https://0xdf.gitlab.io/2022/07/09/htb-routerspace.html](https://0xdf.gitlab.io/2022/07/09/htb-routerspace.html)
+[https://www.genymotion.com/](https://www.genymotion.com/)
+
+...
+<!--more-->

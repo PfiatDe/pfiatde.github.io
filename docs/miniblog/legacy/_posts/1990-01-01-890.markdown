@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Messing with slash-proc"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Messing with slash-proc
+[https://gist.github.com/timb-machine/602d1a4dace4899babc1b6b5345d24b2](https://gist.github.com/timb-machine/602d1a4dace4899babc1b6b5345d24b2)
+[https://twitter.com/CraigHRowland/status/1603576947959017472](https://twitter.com/CraigHRowland/status/1603576947959017472)
+
+...
+<!--more-->

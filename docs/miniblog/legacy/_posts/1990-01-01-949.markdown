@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2022-35742 -  Outlook DoS"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-35742 -  Outlook DoS
+[https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-35742](https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-35742)
+
+...
+<!--more-->

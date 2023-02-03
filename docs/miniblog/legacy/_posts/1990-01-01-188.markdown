@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Exploit Development: Swimming In The (Kernel) Pool - Leveraging Pool Vulnerabilities From Low-Integrity Exploits, Part 1&2"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Exploit Development: Swimming In The (Kernel) Pool - Leveraging Pool Vulnerabilities From Low-Integrity Exploits, Part 1&2
+[https://connormcgarr.github.io/swimming-in-the-kernel-pool-part-1/](https://connormcgarr.github.io/swimming-in-the-kernel-pool-part-1/)
+[https://connormcgarr.github.io/swimming-in-the-kernel-pool-part-2/](https://connormcgarr.github.io/swimming-in-the-kernel-pool-part-2/)
+
+...
+<!--more-->

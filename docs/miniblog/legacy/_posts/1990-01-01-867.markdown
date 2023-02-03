@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "MSI Shenanigans. Part 1 – Offensive Capabilities Overview"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# MSI Shenanigans. Part 1 – Offensive Capabilities Overview
+[https://mgeeky.tech/msi-shenanigans-part-1/](https://mgeeky.tech/msi-shenanigans-part-1/)
+[https://github.com/mgeeky/msidump](https://github.com/mgeeky/msidump)
+[https://github.com/mgeeky/msi-shenanigans](https://github.com/mgeeky/msi-shenanigans)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "SysmonEoP - CVE-2022-41120"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SysmonEoP - CVE-2022-41120
+[https://github.com/Wh04m1001/SysmonEoP](https://github.com/Wh04m1001/SysmonEoP)
+
+...
+<!--more-->

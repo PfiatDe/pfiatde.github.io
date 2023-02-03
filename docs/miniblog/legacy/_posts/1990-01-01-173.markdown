@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A dive into Microsoft Defender for Identity"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A dive into Microsoft Defender for Identity
+[https://www.synacktiv.com/en/publications/a-dive-into-microsoft-defender-for-identity.html](https://www.synacktiv.com/en/publications/a-dive-into-microsoft-defender-for-identity.html)
+
+...
+<!--more-->

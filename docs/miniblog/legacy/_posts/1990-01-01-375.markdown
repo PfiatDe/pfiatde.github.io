@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTML Maldoc Remote Macro Injection"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTML Maldoc Remote Macro Injection
+[https://micahvandeusen.com/html-maldoc-remote-macro-injection/](https://micahvandeusen.com/html-maldoc-remote-macro-injection/)
+
+...
+<!--more-->

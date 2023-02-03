@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2022-24948: Apache JSPWiki preauth Stored XSS to ATO"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-24948: Apache JSPWiki preauth Stored XSS to ATO
+[https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/](https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/)
+
+...
+<!--more-->

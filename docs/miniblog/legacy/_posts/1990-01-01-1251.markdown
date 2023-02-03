@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "AAD & M365 kill chain"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AAD & M365 kill chain
+[https://o365blog.com/aadkillchain/](https://o365blog.com/aadkillchain/)
+[https://twitter.com/hashtag/AADInternals?src=hashtag_click](https://twitter.com/hashtag/AADInternals?src=hashtag_click)
+[https://twitter.com/hashtag/AzureAD?src=hashtag_click](https://twitter.com/hashtag/AzureAD?src=hashtag_click)
+[https://twitter.com/hashtag/Microsoft365?src=hashtag_click](https://twitter.com/hashtag/Microsoft365?src=hashtag_click)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Wireshark 4.0.0 Release Notes"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Wireshark 4.0.0 Release Notes
+[https://www.wireshark.org/docs/relnotes/wireshark-4.0.0.html](https://www.wireshark.org/docs/relnotes/wireshark-4.0.0.html)
+
+...
+<!--more-->

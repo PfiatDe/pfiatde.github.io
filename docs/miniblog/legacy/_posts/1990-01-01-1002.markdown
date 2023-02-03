@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Virtual x86 - Run KolibriOS, Linux or Windows 98 in your browser."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Virtual x86 - Run KolibriOS, Linux or Windows 98 in your browser.
+[https://github.com/copy/v86](https://github.com/copy/v86)
+
+...
+<!--more-->

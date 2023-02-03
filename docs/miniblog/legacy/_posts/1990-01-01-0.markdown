@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Dependency Confusion"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Dependency Confusion
+[https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
+
+...
+<!--more-->

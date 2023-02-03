@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Unrar Path Traversal Vulnerability affects Zimbra Mail"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Unrar Path Traversal Vulnerability affects Zimbra Mail
+[https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/](https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/)
+[https://nvd.nist.gov/vuln/detail/CVE-2022-30333](https://nvd.nist.gov/vuln/detail/CVE-2022-30333)
+
+...
+<!--more-->

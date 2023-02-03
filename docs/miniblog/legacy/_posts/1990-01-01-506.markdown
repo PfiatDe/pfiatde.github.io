@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Prepare Now for Critical Flaw in OpenSSL, Security Experts Warn"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Prepare Now for Critical Flaw in OpenSSL, Security Experts Warn
+[https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn](https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "1Password Secret Retrieval — Methodology and Implementation"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# 1Password Secret Retrieval — Methodology and Implementation
+[https://posts.specterops.io/1password-secret-retrieval-methodology-and-implementation-6a9db3f3c709](https://posts.specterops.io/1password-secret-retrieval-methodology-and-implementation-6a9db3f3c709)
+[https://github.com/djhohnstein/1PasswordSuite](https://github.com/djhohnstein/1PasswordSuite)
+
+...
+<!--more-->

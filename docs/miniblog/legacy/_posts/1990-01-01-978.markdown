@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "PPLDump Revival"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# PPLDump Revival
+[https://twitter.com/GabrielLandau/status/1580067594568364032/photo/1](https://twitter.com/GabrielLandau/status/1580067594568364032/photo/1)
+[https://itm4n.github.io/the-end-of-ppldump/](https://itm4n.github.io/the-end-of-ppldump/)
+
+...
+<!--more-->

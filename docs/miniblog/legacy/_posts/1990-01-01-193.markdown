@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Shellcode loader ScareCrow V3"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Shellcode loader ScareCrow V3
+[https://github.com/optiv/ScareCrow](https://github.com/optiv/ScareCrow)
+
+...
+<!--more-->

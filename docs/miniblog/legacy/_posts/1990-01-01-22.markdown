@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Introduction to Parent-Child Process Evasion"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Introduction to Parent-Child Process Evasion
+[https://mrd0x.com/introduction-to-parent-child-process-evasion/](https://mrd0x.com/introduction-to-parent-child-process-evasion/)
+[https://lolbas-project.github.io/#](https://lolbas-project.github.io/#)
+
+...
+<!--more-->

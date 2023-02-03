@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Alert changes to sensitive AD groups using MDI"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Alert changes to sensitive AD groups using MDI
+[https://cloudbrothers.info/en/alert-sensitive-ad-groups-mdi/](https://cloudbrothers.info/en/alert-sensitive-ad-groups-mdi/)
+
+...
+<!--more-->

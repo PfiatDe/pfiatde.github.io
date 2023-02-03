@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Adding a native sniffer to your implants: decomposing and recomposing PktMon"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Adding a native sniffer to your implants: decomposing and recomposing PktMon
+[https://adepts.of0x.cc/pktmon-dissection/](https://adepts.of0x.cc/pktmon-dissection/)
+
+...
+<!--more-->

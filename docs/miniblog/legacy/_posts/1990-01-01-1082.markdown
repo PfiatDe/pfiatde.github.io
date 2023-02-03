@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "How I Hacked my Car"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# How I Hacked my Car
+[https://programmingwithstyle.com/posts/howihackedmycar/](https://programmingwithstyle.com/posts/howihackedmycar/)
+[https://programmingwithstyle.com/posts/howihackedmycarpart2/](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
+[https://programmingwithstyle.com/posts/howihackedmycarpart3/](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
+
+...
+<!--more-->

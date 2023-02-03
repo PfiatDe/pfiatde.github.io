@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Having fun with a Use-After-Free in ProFTPd (CVE-2020-9273)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Having fun with a Use-After-Free in ProFTPd (CVE-2020-9273)
+[https://adepts.of0x.cc/proftpd-cve-2020-9273-exploit/](https://adepts.of0x.cc/proftpd-cve-2020-9273-exploit/)
+[https://github.com/lockedbyte/CVE-Exploits/blob/master/CVE-2020-9273/exploit_rop.py](https://github.com/lockedbyte/CVE-Exploits/blob/master/CVE-2020-9273/exploit_rop.py)
+[https://github.com/lockedbyte/CVE-Exploits/blob/master/CVE-2020-9273/exploit.py](https://github.com/lockedbyte/CVE-Exploits/blob/master/CVE-2020-9273/exploit.py)
+
+...
+<!--more-->

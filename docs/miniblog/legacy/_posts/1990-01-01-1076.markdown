@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "TCM DIscount - PMAT & PEH"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# TCM DIscount - PMAT & PEH
+[https://twitter.com/TCMSecurity/status/1559252588708724737](https://twitter.com/TCMSecurity/status/1559252588708724737)
+[https://academy.tcm-sec.com](https://academy.tcm-sec.com)
+
+...
+<!--more-->

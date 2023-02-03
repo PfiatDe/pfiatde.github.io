@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Azure AD Kerberos authentication (Preview)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Azure AD Kerberos authentication (Preview)
+[https://docs.microsoft.com/en-us/azure/active-directory/authentication/how-to-authentication-kerberos](https://docs.microsoft.com/en-us/azure/active-directory/authentication/how-to-authentication-kerberos)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hijack Libs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Hijack Libs
+[https://hijacklibs.net/#](https://hijacklibs.net/#)
+
+...
+<!--more-->

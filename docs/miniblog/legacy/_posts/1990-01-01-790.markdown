@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution
+[https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Issue 100: Platform certificates used to sign malware"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Issue 100: Platform certificates used to sign malware
+[https://bugs.chromium.org/p/apvi/issues/detail?id=100](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
+
+...
+<!--more-->

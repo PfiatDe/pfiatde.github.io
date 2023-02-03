@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Kernel Driver Exploit: System Mechanic"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Kernel Driver Exploit: System Mechanic
+[https://0x64marsh.com/?p=314](https://0x64marsh.com/?p=314)
+[https://github.com/Marsh61/System-Mechanic-Exploit](https://github.com/Marsh61/System-Mechanic-Exploit)
+
+...
+<!--more-->

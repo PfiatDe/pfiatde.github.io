@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "[CVE-2022-34918] A crack in the Linux firewall"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# [CVE-2022-34918] A crack in the Linux firewall
+[https://www.randorisec.fr/crack-linux-firewall/](https://www.randorisec.fr/crack-linux-firewall/)
+[https://github.com/randorisec/CVE-2022-34918-LPE-PoC](https://github.com/randorisec/CVE-2022-34918-LPE-PoC)
+[https://github.com/torvalds/linux/commit/7e6bc1f6cabcd30aba0b11219d8e01b952eacbb6](https://github.com/torvalds/linux/commit/7e6bc1f6cabcd30aba0b11219d8e01b952eacbb6)
+
+...
+<!--more-->

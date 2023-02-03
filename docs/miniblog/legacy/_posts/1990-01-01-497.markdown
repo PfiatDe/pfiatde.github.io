@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Spooktrol"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Spooktrol
+[https://0xdf.gitlab.io/2021/10/26/htb-spooktrol.html](https://0xdf.gitlab.io/2021/10/26/htb-spooktrol.html)
+
+...
+<!--more-->

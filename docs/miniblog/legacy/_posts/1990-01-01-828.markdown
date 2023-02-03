@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Snaffler und Group3r inlineExecuteAssembly"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Snaffler und Group3r inlineExecuteAssembly
+[https://twitter.com/mikeloss/status/1547079880122060800](https://twitter.com/mikeloss/status/1547079880122060800)
+[https://github.com/SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler)
+[https://github.com/Group3r/Group3r](https://github.com/Group3r/Group3r)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Finding DOM Polyglot XSS in PayPal the Easy Way"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Finding DOM Polyglot XSS in PayPal the Easy Way
+[https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way](https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way)
+[https://portswigger.net/blog/introducing-dom-invader](https://portswigger.net/blog/introducing-dom-invader)
+
+...
+<!--more-->

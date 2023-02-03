@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ChaosDB Explained: Azure's Cosmos DB Vulnerability Walkthrough"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ChaosDB Explained: Azure's Cosmos DB Vulnerability Walkthrough
+[https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough#](https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough#)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "OMIGOD: Critical Vulnerabilities in OMI Affecting Countless Azure Customers"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# OMIGOD: Critical Vulnerabilities in OMI Affecting Countless Azure Customers
+[https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure](https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Get root on macOS 12.3.1: proof-of-concepts for Linus Henze's CoreTrust and DriverKit bugs (CVE-2022-26766, CVE-2022-26763)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Get root on macOS 12.3.1: proof-of-concepts for Linus Henze's CoreTrust and DriverKit bugs (CVE-2022-26766, CVE-2022-26763)
+[https://worthdoingbadly.com/coretrust/](https://worthdoingbadly.com/coretrust/)
+[https://github.com/zhuowei/CoreTrustDemo](https://github.com/zhuowei/CoreTrustDemo)
+
+...
+<!--more-->

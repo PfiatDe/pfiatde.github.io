@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "PHP 7.0-8.0 disable_functions bypass [user_filter]"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# PHP 7.0-8.0 disable_functions bypass [user_filter]
+[https://github.com/mm0r1/exploits/tree/master/php-filter-bypass](https://github.com/mm0r1/exploits/tree/master/php-filter-bypass)
+
+...
+<!--more-->

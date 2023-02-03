@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Turning bad SSRF to good SSRF: Websphere Portal"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Turning bad SSRF to good SSRF: Websphere Portal
+[https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/](https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/)
+[https://blog.assetnote.io/2021/12/25/advisory-websphere-portal/](https://blog.assetnote.io/2021/12/25/advisory-websphere-portal/)
+
+...
+<!--more-->

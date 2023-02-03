@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pwning 3CX Phone Management Backends from the Internet"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Pwning 3CX Phone Management Backends from the Internet
+[https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88](https://medium.com/@frycos/pwning-3cx-phone-management-backends-from-the-internet-d0096339dd88)
+
+...
+<!--more-->

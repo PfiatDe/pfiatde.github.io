@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "AutoWarp: Critical Cross-Account Vulnerability in Microsoft Azure Automation Service"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AutoWarp: Critical Cross-Account Vulnerability in Microsoft Azure Automation Service
+[https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/](https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/)
+[https://threadreaderapp.com/thread/1500863874412724229.html](https://threadreaderapp.com/thread/1500863874412724229.html)
+
+...
+<!--more-->

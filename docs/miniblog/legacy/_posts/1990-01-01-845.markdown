@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Racing against the clock -- hitting a tiny kernel race window"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Racing against the clock -- hitting a tiny kernel race window
+[https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
+
+...
+<!--more-->

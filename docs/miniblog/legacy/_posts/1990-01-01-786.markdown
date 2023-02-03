@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Web App Pen Testing in an Angular Context"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Web App Pen Testing in an Angular Context
+[https://www.blackhillsinfosec.com/web-app-pen-testing-in-an-angular-context/](https://www.blackhillsinfosec.com/web-app-pen-testing-in-an-angular-context/)
+
+...
+<!--more-->

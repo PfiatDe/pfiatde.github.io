@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Okta Service Hacked by Lapsus, Gained Superuser Access"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Okta Service Hacked by Lapsus, Gained Superuser Access
+[https://www.cyberkendra.com/2022/03/okta-service-hacked-by-lapsus-gained.html](https://www.cyberkendra.com/2022/03/okta-service-hacked-by-lapsus-gained.html)
+[https://twitter.com/_MG_/status/1506109152665382920](https://twitter.com/_MG_/status/1506109152665382920)
+
+...
+<!--more-->

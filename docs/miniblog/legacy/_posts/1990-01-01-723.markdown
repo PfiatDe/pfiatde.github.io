@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "NotLegit: Azure App Service vulnerability exposed hundreds of source code repositories"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# NotLegit: Azure App Service vulnerability exposed hundreds of source code repositories
+[https://www.wiz.io/blog/azure-app-service-source-code-leak#](https://www.wiz.io/blog/azure-app-service-source-code-leak#)
+[https://www.bleepingcomputer.com/news/security/microsoft-azure-app-service-flaw-exposed-customer-source-code/](https://www.bleepingcomputer.com/news/security/microsoft-azure-app-service-flaw-exposed-customer-source-code/)
+
+...
+<!--more-->

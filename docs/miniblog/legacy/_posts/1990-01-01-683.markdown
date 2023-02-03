@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Windows Command-Line Obfuscation"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows Command-Line Obfuscation
+[https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation)
+[https://github.com/wietze/windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation)
+
+...
+<!--more-->

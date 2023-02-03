@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Resetting Expired Passwords Remotely"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Resetting Expired Passwords Remotely
+[https://www.n00py.io/2021/09/resetting-expired-passwords-remotely/](https://www.n00py.io/2021/09/resetting-expired-passwords-remotely/)
+
+...
+<!--more-->

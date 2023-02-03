@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "You're M̶u̶t̶e̶d̶ Rooted - Zoom LPE unter macOS"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# You're M̶u̶t̶e̶d̶ Rooted - Zoom LPE unter macOS
+[https://speakerdeck.com/patrickwardle/youre-muted-rooted](https://speakerdeck.com/patrickwardle/youre-muted-rooted)
+
+...
+<!--more-->

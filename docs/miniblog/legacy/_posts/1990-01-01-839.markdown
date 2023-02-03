@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bypassing UAC in the most Complex Way Possible!"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Bypassing UAC in the most Complex Way Possible!
+[https://www.tiraniddo.dev/2022/03/bypassing-uac-in-most-complex-way.html](https://www.tiraniddo.dev/2022/03/bypassing-uac-in-most-complex-way.html)
+[https://gist.github.com/tyranid/c24cfd1bd141d14d4925043ee7e03c82](https://gist.github.com/tyranid/c24cfd1bd141d14d4925043ee7e03c82)
+
+...
+<!--more-->

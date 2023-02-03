@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Master of Puppets Part II – How to tamper the EDR?"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Master of Puppets Part II – How to tamper the EDR?
+[https://www.infosec.tirol/master-of-puppets-part-ii-how-to-tamper-the-edr/](https://www.infosec.tirol/master-of-puppets-part-ii-how-to-tamper-the-edr/)
+[https://medium.com/@omribaso/this-is-how-i-bypassed-almost-every-edr-6e9792cf6c44](https://medium.com/@omribaso/this-is-how-i-bypassed-almost-every-edr-6e9792cf6c44)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Travis-CI - Leak of sensitive files"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Travis-CI - Leak of sensitive files
+[https://travis-ci.community/t/security-bulletin/12081](https://travis-ci.community/t/security-bulletin/12081)
+[https://twitter.com/peter_szilagyi/status/1437646118700175360](https://twitter.com/peter_szilagyi/status/1437646118700175360)
+
+...
+<!--more-->

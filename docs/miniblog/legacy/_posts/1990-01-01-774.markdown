@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Windows Server 2016 - EOL"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows Server 2016 - EOL
+[https://docs.microsoft.com/de-de/lifecycle/products/windows-server-2016](https://docs.microsoft.com/de-de/lifecycle/products/windows-server-2016)
+
+...
+<!--more-->

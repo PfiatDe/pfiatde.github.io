@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Attacking and Remediating Excessive Network Share Permissions in Active Directory Environments"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Attacking and Remediating Excessive Network Share Permissions in Active Directory Environments
+[https://www.netspi.com/blog/technical/network-penetration-testing/network-share-permissions-powerhuntshares/](https://www.netspi.com/blog/technical/network-penetration-testing/network-share-permissions-powerhuntshares/)
+[https://github.com/NetSPI/Powerhuntshares](https://github.com/NetSPI/Powerhuntshares)
+
+...
+<!--more-->

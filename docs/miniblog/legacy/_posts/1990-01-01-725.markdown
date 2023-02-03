@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Dumping Plaintext RDP credentials from svchost.exe"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Dumping Plaintext RDP credentials from svchost.exe
+[https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/](https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/)
+[https://twitter.com/jonasLyk/status/1393058962942083076](https://twitter.com/jonasLyk/status/1393058962942083076)
+[https://twitter.com/jonasLyk/status/1394088149932969984](https://twitter.com/jonasLyk/status/1394088149932969984)
+
+...
+<!--more-->

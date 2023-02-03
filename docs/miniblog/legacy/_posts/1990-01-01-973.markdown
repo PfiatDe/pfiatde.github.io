@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Analysing LastPass, Part 1"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Analysing LastPass, Part 1
+[https://www.mdsec.co.uk/2022/10/analysing-lastpass-part-1/](https://www.mdsec.co.uk/2022/10/analysing-lastpass-part-1/)
+
+...
+<!--more-->

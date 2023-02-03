@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "PDF als Transporter für Schadcode"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# PDF als Transporter für Schadcode
+[https://threatresearch.ext.hp.com/pdf-malware-is-not-yet-dead/#](https://threatresearch.ext.hp.com/pdf-malware-is-not-yet-dead/#)
+
+...
+<!--more-->

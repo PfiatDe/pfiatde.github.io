@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Re-ReBreakCaptcha: Breaking Google’s ReCaptcha v2 using.. Google.. Again"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Re-ReBreakCaptcha: Breaking Google’s ReCaptcha v2 using.. Google.. Again
+[https://east-ee.com/2022/02/28/1367/](https://east-ee.com/2022/02/28/1367/)
+[https://github.com/eastee/re-rebreakcaptcha](https://github.com/eastee/re-rebreakcaptcha)
+[https://videopress.com/v/i3dvZCbh](https://videopress.com/v/i3dvZCbh)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Skidaddle Skideldi - I just pwnd your PKI"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Skidaddle Skideldi - I just pwnd your PKI
+[https://luemmelsec.github.io/Skidaddle-Skideldi-I-just-pwnd-your-PKI/](https://luemmelsec.github.io/Skidaddle-Skideldi-I-just-pwnd-your-PKI/)
+
+...
+<!--more-->

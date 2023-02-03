@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Retrieving AWS security credentials from the AWS console"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Retrieving AWS security credentials from the AWS console
+[https://blog.christophetd.fr/retrieving-aws-security-credentials-from-the-aws-console/](https://blog.christophetd.fr/retrieving-aws-security-credentials-from-the-aws-console/)
+
+...
+<!--more-->

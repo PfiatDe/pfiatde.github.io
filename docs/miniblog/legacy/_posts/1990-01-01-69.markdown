@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Arbitrary Code Execution via v8 Javascript Engine"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Arbitrary Code Execution via v8 Javascript Engine
+[https://twitter.com/evilsocket/status/1564286074536738816](https://twitter.com/evilsocket/status/1564286074536738816)
+[https://github.com/evilsocket/jscythe](https://github.com/evilsocket/jscythe)
+[https://github.com/xpcmdshell/electron-probe](https://github.com/xpcmdshell/electron-probe)
+
+...
+<!--more-->

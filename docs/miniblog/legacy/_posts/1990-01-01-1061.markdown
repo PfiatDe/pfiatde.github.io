@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Evil PLC Attack: Using a Controller as Predator Rather than Prey"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Evil PLC Attack: Using a Controller as Predator Rather than Prey
+[https://claroty.com/team82/blog/evil-plc-attack-using-a-controller-as-predator-rather-than-prey](https://claroty.com/team82/blog/evil-plc-attack-using-a-controller-as-predator-rather-than-prey)
+
+...
+<!--more-->

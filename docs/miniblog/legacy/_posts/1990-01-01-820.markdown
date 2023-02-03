@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Ubuntu OverlayFS - EoP"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Ubuntu OverlayFS - EoP
+[https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/](https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "LinkSys EA6100 AC1200"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# LinkSys EA6100 AC1200
+[https://0x434b.dev/linksys-ea6100_pt1/](https://0x434b.dev/linksys-ea6100_pt1/)
+[https://0x434b.dev/linksys-ea6100_pt2/](https://0x434b.dev/linksys-ea6100_pt2/)
+
+...
+<!--more-->

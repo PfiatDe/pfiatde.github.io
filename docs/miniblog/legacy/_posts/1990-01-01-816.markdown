@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Finding Buried Treasure in Server Message Block (SMB)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Finding Buried Treasure in Server Message Block (SMB)
+[https://www.blackhillsinfosec.com/finding-buried-treasure-in-server-message-block-smb/](https://www.blackhillsinfosec.com/finding-buried-treasure-in-server-message-block-smb/)
+
+...
+<!--more-->

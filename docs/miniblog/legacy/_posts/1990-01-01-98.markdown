@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The most common on premises vulnerabilities & misconfigurations - CNs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The most common on premises vulnerabilities & misconfigurations - CNs
+[https://s3cur3th1ssh1t.github.io/The-most-common-on-premise-vulnerabilities-and-misconfigurations/](https://s3cur3th1ssh1t.github.io/The-most-common-on-premise-vulnerabilities-and-misconfigurations/)
+
+...
+<!--more-->

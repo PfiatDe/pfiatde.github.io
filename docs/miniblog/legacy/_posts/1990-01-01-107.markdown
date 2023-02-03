@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "File URL Handler in Windows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# File URL Handler in Windows
+[https://twitter.com/wdormann/status/1437605355404644353](https://twitter.com/wdormann/status/1437605355404644353)
+
+...
+<!--more-->

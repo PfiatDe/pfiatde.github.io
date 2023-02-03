@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Linux sudo Heap Overflow < 1.9.4p2"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Linux sudo Heap Overflow < 1.9.4p2
+[https://www.kalmarunionen.dk/writeups/sudo/](https://www.kalmarunionen.dk/writeups/sudo/)
+[https://github.com/blasty/CVE-2021-3156](https://github.com/blasty/CVE-2021-3156)
+
+...
+<!--more-->

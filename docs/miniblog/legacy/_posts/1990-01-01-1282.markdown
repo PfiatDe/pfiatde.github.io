@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Response Smuggling: Pwning HTTP/1.1 Connections"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Response Smuggling: Pwning HTTP/1.1 Connections
+[https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Martin%20Doyhenard%20-%20Response%20Smuggling-%20Pwning%20HTTP-1.1%20Connections.pdf](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Martin%20Doyhenard%20-%20Response%20Smuggling-%20Pwning%20HTTP-1.1%20Connections.pdf)
+[https://defcon.org/html/defcon-29/dc-29-speakers.html#doyhenard](https://defcon.org/html/defcon-29/dc-29-speakers.html#doyhenard)
+
+...
+<!--more-->

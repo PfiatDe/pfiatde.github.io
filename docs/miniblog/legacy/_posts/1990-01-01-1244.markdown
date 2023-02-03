@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "CVE-2021-26084 Remote Code Execution on Confluence Servers"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-26084 Remote Code Execution on Confluence Servers
+[https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md](https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md)
+[https://www.exploit-db.com/exploits/50243](https://www.exploit-db.com/exploits/50243)
+[https://twitter.com/wvuuuuuuuuuuuuu/status/1432918959389614083](https://twitter.com/wvuuuuuuuuuuuuu/status/1432918959389614083)
+[http://127.0.0.1:8090/pages/doenterpagevariables.action?queryString=foo%5cu0027%2b%5cu0027bar](http://127.0.0.1:8090/pages/doenterpagevariables.action?queryString=foo%5cu0027%2b%5cu0027bar)
+
+...
+<!--more-->

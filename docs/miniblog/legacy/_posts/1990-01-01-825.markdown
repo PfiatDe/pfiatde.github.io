@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Advanced-Process-Injection-Workshop by CyberWarFare Labs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Advanced-Process-Injection-Workshop by CyberWarFare Labs
+[https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
+
+...
+<!--more-->

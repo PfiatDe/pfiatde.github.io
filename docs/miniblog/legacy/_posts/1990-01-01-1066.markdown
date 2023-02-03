@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Microsoft Windows Shift F10 Bypass and Autopilot privilge escalation"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Microsoft Windows Shift F10 Bypass and Autopilot privilge escalation
+[https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html](https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html)
+
+...
+<!--more-->

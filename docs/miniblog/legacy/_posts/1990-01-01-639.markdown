@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Windows 11 enthält kein WMIC mehr"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows 11 enthält kein WMIC mehr
+[https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-killing-off-wmic-in-windows-will-thwart-attacks/](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-killing-off-wmic-in-windows-will-thwart-attacks/)
+
+...
+<!--more-->

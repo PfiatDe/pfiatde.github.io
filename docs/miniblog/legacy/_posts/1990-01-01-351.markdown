@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Cisco Hyperflex: How We Got RCE Through Login Form and Other Findings"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Cisco Hyperflex: How We Got RCE Through Login Form and Other Findings
+[https://swarm.ptsecurity.com/cisco-hyperflex-how-we-got-rce-through-login-form-and-other-findings/](https://swarm.ptsecurity.com/cisco-hyperflex-how-we-got-rce-through-login-form-and-other-findings/)
+
+...
+<!--more-->

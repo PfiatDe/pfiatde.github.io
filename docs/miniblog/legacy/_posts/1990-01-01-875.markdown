@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ACSESSED: Cross-tenant network bypass in Azure Cognitive Search"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ACSESSED: Cross-tenant network bypass in Azure Cognitive Search
+[https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/](https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/)
+[https://msrc.microsoft.com/update-guide/acknowledgement/online](https://msrc.microsoft.com/update-guide/acknowledgement/online)
+
+...
+<!--more-->

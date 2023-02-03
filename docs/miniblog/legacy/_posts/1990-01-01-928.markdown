@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Zyxel authentication bypass patch analysis (CVE-2022-0342)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Zyxel authentication bypass patch analysis (CVE-2022-0342)
+[https://security.humanativaspa.it/zyxel-authentication-bypass-patch-analysis-cve-2022-0342/](https://security.humanativaspa.it/zyxel-authentication-bypass-patch-analysis-cve-2022-0342/)
+
+...
+<!--more-->

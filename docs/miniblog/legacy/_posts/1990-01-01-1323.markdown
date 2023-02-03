@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Citrix SSON Credential Leak"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Citrix SSON Credential Leak
+[https://www.borncity.com/blog/2022/12/06/schwachstelle-in-citrix-workspace-app-for-windows-ermglicht-passwort-klau/](https://www.borncity.com/blog/2022/12/06/schwachstelle-in-citrix-workspace-app-for-windows-ermglicht-passwort-klau/)
+[https://twitter.com/gentilkiwi/status/1600213497383903233](https://twitter.com/gentilkiwi/status/1600213497383903233)
+
+...
+<!--more-->

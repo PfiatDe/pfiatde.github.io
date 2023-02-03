@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Breaking Kerberos' RC4 Cipher and Spoofing Windows PACs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Breaking Kerberos' RC4 Cipher and Spoofing Windows PACs
+[https://i.blackhat.com/EU-22/Thursday-Briefings/EU-22-Tervoort-Breaking-Kerberos-RC4-Cipher-and-Spoofing-Windows-PACs.pdf](https://i.blackhat.com/EU-22/Thursday-Briefings/EU-22-Tervoort-Breaking-Kerberos-RC4-Cipher-and-Spoofing-Windows-PACs.pdf)
+
+...
+<!--more-->

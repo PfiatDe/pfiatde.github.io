@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Issue 2128: Windows Containers: AppSilo Object Manager Root Directory EoP"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Issue 2128: Windows Containers: AppSilo Object Manager Root Directory EoP
+[https://bugs.chromium.org/p/project-zero/issues/detail?id=2128](https://bugs.chromium.org/p/project-zero/issues/detail?id=2128)
+
+...
+<!--more-->

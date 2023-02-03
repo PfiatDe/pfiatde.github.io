@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Common Conditional Access Misconfigurations and Bypasses in Azure"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Common Conditional Access Misconfigurations and Bypasses in Azure
+[https://www.trustedsec.com/blog/common-conditional-access-misconfigurations-and-bypasses-in-azure/](https://www.trustedsec.com/blog/common-conditional-access-misconfigurations-and-bypasses-in-azure/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Why is Exposing the Docker Socket a Really Bad Idea?"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Why is Exposing the Docker Socket a Really Bad Idea?
+[https://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html](https://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html)
+
+...
+<!--more-->

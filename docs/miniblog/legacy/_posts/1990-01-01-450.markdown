@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Agent 007: Pre-Auth Takeover of Build Pipelines in GoCD"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Agent 007: Pre-Auth Takeover of Build Pipelines in GoCD
+[https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover](https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover)
+[https://attackerkb.com/topics/ShpnUFlqDz/pre-auth-takeover-of-build-pipelines-in-gocd?referrer=home](https://attackerkb.com/topics/ShpnUFlqDz/pre-auth-takeover-of-build-pipelines-in-gocd?referrer=home)
+
+...
+<!--more-->

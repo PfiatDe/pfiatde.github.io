@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2020-28018: Exim Use-after-free (UAF) leading to RCE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2020-28018: Exim Use-after-free (UAF) leading to RCE
+[https://twitter.com/lockedbyte/status/1393441739407515649](https://twitter.com/lockedbyte/status/1393441739407515649)
+[https://github.com/lockedbyte/CVE-Exploits/tree/master/CVE-2020-28018](https://github.com/lockedbyte/CVE-Exploits/tree/master/CVE-2020-28018)
+
+...
+<!--more-->

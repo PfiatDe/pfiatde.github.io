@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Repurposing Real TTPs for use on Red Team Engagements"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Repurposing Real TTPs for use on Red Team Engagements
+[https://labs.nettitude.com/blog/repurposing-real-ttps-for-use-on-red-team-engagements/](https://labs.nettitude.com/blog/repurposing-real-ttps-for-use-on-red-team-engagements/)
+[https://github.com/Allevon412/BreadBear](https://github.com/Allevon412/BreadBear)
+
+...
+<!--more-->

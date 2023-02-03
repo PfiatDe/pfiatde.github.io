@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "FindUncommonShares - AD SMB enumeration"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# FindUncommonShares - AD SMB enumeration
+[https://github.com/p0dalirius/FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares)
+[https://github.com/SySS-Research/smbcrawler](https://github.com/SySS-Research/smbcrawler)
+[https://github.com/AdrianVollmer/PowerSploit/blob/master/Recon/PowerView.ps1](https://github.com/AdrianVollmer/PowerSploit/blob/master/Recon/PowerView.ps1)
+[https://github.com/SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler)
+
+...
+<!--more-->

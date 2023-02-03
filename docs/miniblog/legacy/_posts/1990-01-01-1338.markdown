@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "How Docker Made Me More Capable and the Host Less Secure - CVE-2021-41091"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# How Docker Made Me More Capable and the Host Less Secure - CVE-2021-41091
+[https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure](https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure)
+
+...
+<!--more-->

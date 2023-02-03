@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Researchers Demonstrate How EDR and Antivirus Can Be Weaponized Against Users"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Researchers Demonstrate How EDR and Antivirus Can Be Weaponized Against Users
+[https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html](https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html)
+[https://www.safebreach.com/resources/blog/safebreach-labs-researcher-discovers-multiple-zero-day-vulnerabilities/](https://www.safebreach.com/resources/blog/safebreach-labs-researcher-discovers-multiple-zero-day-vulnerabilities/)
+
+...
+<!--more-->

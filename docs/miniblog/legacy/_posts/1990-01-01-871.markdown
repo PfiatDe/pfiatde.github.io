@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Stealing Chrome cookies without a password"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Stealing Chrome cookies without a password
+[https://mango.pdf.zone/stealing-chrome-cookies-without-a-password](https://mango.pdf.zone/stealing-chrome-cookies-without-a-password)
+[https://twitter.com/an0n_r0/status/1605714291717554185](https://twitter.com/an0n_r0/status/1605714291717554185)
+[https://github.com/defaultnamehere/cookie_crimes](https://github.com/defaultnamehere/cookie_crimes)
+
+...
+<!--more-->

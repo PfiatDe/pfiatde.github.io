@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE Farming through Software Center – A group effort to flush out zero-day privilege escalations"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE Farming through Software Center – A group effort to flush out zero-day privilege escalations
+[https://blog.nviso.eu/2022/05/31/cve-farming-through-software-center-a-group-effort-to-flush-out-zero-day-privilege-escalations/](https://blog.nviso.eu/2022/05/31/cve-farming-through-software-center-a-group-effort-to-flush-out-zero-day-privilege-escalations/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Horde Webmail 5.2.22 - Account Takeover via Email"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Horde Webmail 5.2.22 - Account Takeover via Email
+[https://blog.sonarsource.com/horde-webmail-account-takeover-via-email](https://blog.sonarsource.com/horde-webmail-account-takeover-via-email)
+
+...
+<!--more-->

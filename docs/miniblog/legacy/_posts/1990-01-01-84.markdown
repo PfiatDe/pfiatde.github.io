@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2022-26113: FortiClient Arbitrary File Write As SYSTEM"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-26113: FortiClient Arbitrary File Write As SYSTEM
+[https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/](https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/)
+
+...
+<!--more-->

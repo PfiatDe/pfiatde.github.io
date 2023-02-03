@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Exploits Explained: 5 Unusual Authentication Bypass Techniques"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Exploits Explained: 5 Unusual Authentication Bypass Techniques
+[https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/](https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/)
+
+...
+<!--more-->

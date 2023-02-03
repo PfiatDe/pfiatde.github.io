@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HTB: Nunchucks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Nunchucks
+[https://0xdf.gitlab.io/2021/11/02/htb-nunchucks.html](https://0xdf.gitlab.io/2021/11/02/htb-nunchucks.html)
+[https://bugs.launchpad.net/apparmor/+bug/1911431](https://bugs.launchpad.net/apparmor/+bug/1911431)
+
+...
+<!--more-->

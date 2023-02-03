@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "How I Met Your Beacon - x33fcon - Domchell"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# How I Met Your Beacon - x33fcon - Domchell
+[https://github.com/mdsecresearch/Publications/raw/master/presentations/How%20I%20Met%20Your%20Beacon%20-%20x33fcon.pdf](https://github.com/mdsecresearch/Publications/raw/master/presentations/How%20I%20Met%20Your%20Beacon%20-%20x33fcon.pdf)
+[https://www.mdsec.co.uk/2022/07/part-1-how-i-met-your-beacon-overview/](https://www.mdsec.co.uk/2022/07/part-1-how-i-met-your-beacon-overview/)
+
+...
+<!--more-->

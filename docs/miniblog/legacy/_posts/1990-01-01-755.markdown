@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A Confused Deputy Vulnerability in AWS AppSync"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A Confused Deputy Vulnerability in AWS AppSync
+[https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/](https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/)
+
+...
+<!--more-->

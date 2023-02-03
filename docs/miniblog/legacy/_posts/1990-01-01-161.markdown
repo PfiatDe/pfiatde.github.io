@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Abusing forgotten permissions on computer objects in Active Directory"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Abusing forgotten permissions on computer objects in Active Directory
+[https://dirkjanm.io/abusing-forgotten-permissions-on-precreated-computer-objects-in-active-directory/](https://dirkjanm.io/abusing-forgotten-permissions-on-precreated-computer-objects-in-active-directory/)
+
+...
+<!--more-->

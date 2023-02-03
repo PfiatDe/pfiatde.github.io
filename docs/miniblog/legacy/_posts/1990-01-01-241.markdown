@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "It’s all in the details: The curious case of an lsass dumper gone undetected"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# It’s all in the details: The curious case of an lsass dumper gone undetected
+[https://dec0ne.github.io/research/2022-11-14-Undetected-Lsass-Dump-Workflow/](https://dec0ne.github.io/research/2022-11-14-Undetected-Lsass-Dump-Workflow/)
+
+...
+<!--more-->

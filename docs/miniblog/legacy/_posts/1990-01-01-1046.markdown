@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Certipy 4.0: ESC9 & ESC10, BloodHound GUI, New Authentication and Request Methods — and more!"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Certipy 4.0: ESC9 & ESC10, BloodHound GUI, New Authentication and Request Methods — and more!
+[https://research.ifcr.dk/certipy-4-0-esc9-esc10-bloodhound-gui-new-authentication-and-request-methods-and-more-7237d88061f7](https://research.ifcr.dk/certipy-4-0-esc9-esc10-bloodhound-gui-new-authentication-and-request-methods-and-more-7237d88061f7)
+
+...
+<!--more-->

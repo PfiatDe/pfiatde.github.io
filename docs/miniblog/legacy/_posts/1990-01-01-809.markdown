@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "LOG4J2-3201 - Limit the protocols JNDI can use by default."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# LOG4J2-3201 - Limit the protocols JNDI can use by default.
+[https://github.com/apache/logging-log4j2/commit/d82b47c](https://github.com/apache/logging-log4j2/commit/d82b47c)
+[https://www.lunasec.io/docs/blog/log4j-zero-day/](https://www.lunasec.io/docs/blog/log4j-zero-day/)
+[https://github.com/tangxiaofeng7/apache-log4j-poc](https://github.com/tangxiaofeng7/apache-log4j-poc)
+[https://www.lunasec.io/docs/blog/log4j-zero-day/#who-is-impacted](https://www.lunasec.io/docs/blog/log4j-zero-day/#who-is-impacted)
+[https://news.ycombinator.com/item?id=29499867](https://news.ycombinator.com/item?id=29499867)
+[https://en.wikipedia.org/wiki/2017_Equifax_data_breach#Data_breach](https://en.wikipedia.org/wiki/2017_Equifax_data_breach#Data_breach)
+[https://github.com/PaperMC/Paper/commit/b475c6a683fa34156b964f751985f36a784ca0e0](https://github.com/PaperMC/Paper/commit/b475c6a683fa34156b964f751985f36a784ca0e0)
+
+...
+<!--more-->

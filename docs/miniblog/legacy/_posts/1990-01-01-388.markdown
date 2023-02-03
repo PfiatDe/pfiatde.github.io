@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pass the Cloud with a Cookie"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Pass the Cloud with a Cookie
+[https://misconfig.io/pass-the-cloud-with-cookie/](https://misconfig.io/pass-the-cloud-with-cookie/)
+
+...
+<!--more-->

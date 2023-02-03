@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The Invisible JavaScript Backdoor"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Invisible JavaScript Backdoor
+[https://certitude.consulting/blog/en/invisible-backdoor/](https://certitude.consulting/blog/en/invisible-backdoor/)
+
+...
+<!--more-->

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "DEF CON 29 - Jacob Baines - Bring Your Own Print Driver Vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# DEF CON 29 - Jacob Baines - Bring Your Own Print Driver Vulnerability
+[https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Jacob%20Baines%20-%20Bring%20Your%20Own%20Print%20Driver%20Vulnerability.pdf](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Jacob%20Baines%20-%20Bring%20Your%20Own%20Print%20Driver%20Vulnerability.pdf)
+[https://www.youtube.com/watch?v=vdesswZYz-8](https://www.youtube.com/watch?v=vdesswZYz-8)
+[https://github.com/jacob-baines/concealed_position](https://github.com/jacob-baines/concealed_position)
+[https://github.com/rapid7/metasploit-framework/pull/15519](https://github.com/rapid7/metasploit-framework/pull/15519)
+[https://github.com/rapid7/metasploit-framework/pull/15520](https://github.com/rapid7/metasploit-framework/pull/15520)
+
+...
+<!--more-->

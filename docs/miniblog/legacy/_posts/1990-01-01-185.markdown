@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Azure Privilege Escalation via Azure API Permissions Abuse"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Azure Privilege Escalation via Azure API Permissions Abuse
+[https://posts.specterops.io/azure-privilege-escalation-via-azure-api-permissions-abuse-74aee1006f48](https://posts.specterops.io/azure-privilege-escalation-via-azure-api-permissions-abuse-74aee1006f48)
+[https://docs.google.com/presentation/d/1wszU85oIX5sYX7iLAvceAFVw-EDVQzB9G1rBSj1OsZY/edit#slide=id.p](https://docs.google.com/presentation/d/1wszU85oIX5sYX7iLAvceAFVw-EDVQzB9G1rBSj1OsZY/edit#slide=id.p)
+[https://twitter.com/_wald0/status/1466143885847973893](https://twitter.com/_wald0/status/1466143885847973893)
+
+...
+<!--more-->

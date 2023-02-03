@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Atom"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Atom
+[https://0xdf.gitlab.io/2021/07/10/htb-atom.html](https://0xdf.gitlab.io/2021/07/10/htb-atom.html)
+
+...
+<!--more-->

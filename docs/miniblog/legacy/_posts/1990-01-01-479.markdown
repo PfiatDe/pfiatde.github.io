@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SynLapse – Technical Details for Critical Azure Synapse Vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SynLapse – Technical Details for Critical Azure Synapse Vulnerability
+[https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/](https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/)
+[https://twitter.com/TzahPahima/status/1536704823722184704](https://twitter.com/TzahPahima/status/1536704823722184704)
+
+...
+<!--more-->

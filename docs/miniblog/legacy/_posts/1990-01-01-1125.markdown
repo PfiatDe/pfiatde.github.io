@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CVE-2022-30781 Gitea RCE über die Migrate Funktion"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-30781 Gitea RCE über die Migrate Funktion
+[https://tttang.com/archive/1607/](https://tttang.com/archive/1607/)
+[https://tttang-com.translate.goog/archive/1607/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp](https://tttang-com.translate.goog/archive/1607/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
+[https://github.com/wuhan005/CVE-2022-30781](https://github.com/wuhan005/CVE-2022-30781)
+
+...
+<!--more-->

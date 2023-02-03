@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Google Chrome 0day/1day"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Google Chrome 0day/1day
+[https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160](https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160)
+[https://therecord.media/security-researcher-drops-chrome-and-edge-zero-day-on-twitter/](https://therecord.media/security-researcher-drops-chrome-and-edge-zero-day-on-twitter/)
+
+...
+<!--more-->

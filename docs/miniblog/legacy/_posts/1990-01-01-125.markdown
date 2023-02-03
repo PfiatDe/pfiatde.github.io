@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "SATisfying our way into remote code execution in the OPC UA industrial stack"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SATisfying our way into remote code execution in the OPC UA industrial stack
+[https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/](https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/)
+
+...
+<!--more-->

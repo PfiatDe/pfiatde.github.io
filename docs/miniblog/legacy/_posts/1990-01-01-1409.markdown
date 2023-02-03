@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Killing AV with SysInternals "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Killing AV with SysInternals 
+[https://github.com/Yaxser/Backstab](https://github.com/Yaxser/Backstab)
+
+...
+<!--more-->

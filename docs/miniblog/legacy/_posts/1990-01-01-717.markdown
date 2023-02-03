@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Cache Poisoning at Scale"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Cache Poisoning at Scale
+[https://youst.in/posts/cache-poisoning-at-scale/](https://youst.in/posts/cache-poisoning-at-scale/)
+
+...
+<!--more-->

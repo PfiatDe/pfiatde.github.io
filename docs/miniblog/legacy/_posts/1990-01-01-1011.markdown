@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "horrifying-pdf-experiments"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# horrifying-pdf-experiments
+[https://rawgit.com/osnr/horrifying-pdf-experiments/master/breakout.pdf](https://rawgit.com/osnr/horrifying-pdf-experiments/master/breakout.pdf)
+[https://github.com/osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments)
+
+...
+<!--more-->

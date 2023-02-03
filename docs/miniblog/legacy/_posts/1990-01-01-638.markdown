@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Stealing a few more GitHub Actions secrets"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Stealing a few more GitHub Actions secrets
+[https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html](https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html)
+[https://github.com/not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)
+
+...
+<!--more-->

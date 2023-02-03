@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2021-0090: Intel Driver & Support Assistant (DSA) Elevation of Privilege (EoP)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-0090: Intel Driver & Support Assistant (DSA) Elevation of Privilege (EoP)
+[https://bohops.com/2021/08/07/cve-2021-0090-intel-driver-support-assistant-dsa-elevation-of-privilege-eop/](https://bohops.com/2021/08/07/cve-2021-0090-intel-driver-support-assistant-dsa-elevation-of-privilege-eop/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "DEEPL - Prozess Dumper"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# DEEPL - Prozess Dumper
+[https://twitter.com/ShitSecure/status/1590655082864906240](https://twitter.com/ShitSecure/status/1590655082864906240)
+
+...
+<!--more-->

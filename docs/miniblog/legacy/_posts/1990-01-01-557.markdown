@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ProtectMyTooling – Don’t detect tools, detect techniques"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ProtectMyTooling – Don’t detect tools, detect techniques
+[https://mgeeky.tech/protectmytooling/](https://mgeeky.tech/protectmytooling/)
+[https://github.com/mgeeky/ProtectMyTooling](https://github.com/mgeeky/ProtectMyTooling)
+
+...
+<!--more-->

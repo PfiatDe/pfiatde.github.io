@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Disposable Root Servers"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Disposable Root Servers
+[https://blog.thc.org/disposable-root-servers](https://blog.thc.org/disposable-root-servers)
+
+...
+<!--more-->

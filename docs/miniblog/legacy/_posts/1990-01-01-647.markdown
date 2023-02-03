@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Static"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Static
+[https://0xdf.gitlab.io/2021/12/18/htb-static.html](https://0xdf.gitlab.io/2021/12/18/htb-static.html)
+
+...
+<!--more-->

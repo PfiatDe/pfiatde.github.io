@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Lessons Learned from Cloning Windows Binaries and Code Signing Implants"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Lessons Learned from Cloning Windows Binaries and Code Signing Implants
+[https://captmeelo.com/redteam/maldev/2022/11/07/cloning-signing.html](https://captmeelo.com/redteam/maldev/2022/11/07/cloning-signing.html)
+
+...
+<!--more-->

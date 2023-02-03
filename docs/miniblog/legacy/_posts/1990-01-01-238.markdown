@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "OffensiveVBA"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# OffensiveVBA
+[https://github.com/S3cur3Th1sSh1t/OffensiveVBA](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
+[https://twitter.com/ShitSecure/status/1451263866248249347](https://twitter.com/ShitSecure/status/1451263866248249347)
+
+...
+<!--more-->

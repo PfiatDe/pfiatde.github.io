@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pre-Auth RCE with CodeQL in Under 20 Minutes"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Pre-Auth RCE with CodeQL in Under 20 Minutes
+[https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html](https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html)
+
+...
+<!--more-->

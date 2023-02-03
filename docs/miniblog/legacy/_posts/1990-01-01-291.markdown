@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "AMSI Unchained"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AMSI Unchained
+[https://twitter.com/maorkor/status/1525830047667523585](https://twitter.com/maorkor/status/1525830047667523585)
+[https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Korkos-AMSI-and-Bypass.pdf](https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Korkos-AMSI-and-Bypass.pdf)
+[https://github.com/deepinstinct/AMSI-Unchained](https://github.com/deepinstinct/AMSI-Unchained)
+
+...
+<!--more-->

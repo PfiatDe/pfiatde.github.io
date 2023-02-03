@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ZDI-21-1053: Bypassing Windows Lock Screen"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ZDI-21-1053: Bypassing Windows Lock Screen
+[https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html](https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html)
+[https://www.youtube.com/watch?v=9rXXfWN0h6A](https://www.youtube.com/watch?v=9rXXfWN0h6A)
+
+...
+<!--more-->

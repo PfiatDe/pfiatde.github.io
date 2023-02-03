@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The trouble with Microsoft’s Troubleshooters"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The trouble with Microsoft’s Troubleshooters
+[https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd](https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd)
+[https://blog.0patch.com/2022/06/microsoft-diagnostic-tools-dogwalk.html](https://blog.0patch.com/2022/06/microsoft-diagnostic-tools-dogwalk.html)
+
+...
+<!--more-->

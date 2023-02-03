@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Researching Open Source apps for XSS to RCE flaws"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Researching Open Source apps for XSS to RCE flaws
+[https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/](https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/)
+
+...
+<!--more-->

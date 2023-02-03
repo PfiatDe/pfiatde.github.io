@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Dotnet’s default AES mode is vulnerable to padding oracle attacks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Dotnet’s default AES mode is vulnerable to padding oracle attacks
+[https://pulsesecurity.co.nz/articles/dotnet-padding-oracles](https://pulsesecurity.co.nz/articles/dotnet-padding-oracles)
+[https://github.com/AonCyberLabs/PadBuster](https://github.com/AonCyberLabs/PadBuster)
+
+...
+<!--more-->

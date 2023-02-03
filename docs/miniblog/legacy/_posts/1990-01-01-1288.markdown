@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Yes, fun browser extensions can have vulnerabilities too!"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Yes, fun browser extensions can have vulnerabilities too!
+[https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/](https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/)
+
+...
+<!--more-->

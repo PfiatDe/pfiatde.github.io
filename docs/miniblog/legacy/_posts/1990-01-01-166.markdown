@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Honda bug lets a hacker unlock and start your car via replay attack"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Honda bug lets a hacker unlock and start your car via replay attack
+[https://www.bleepingcomputer.com/news/security/honda-bug-lets-a-hacker-unlock-and-start-your-car-via-replay-attack/](https://www.bleepingcomputer.com/news/security/honda-bug-lets-a-hacker-unlock-and-start-your-car-via-replay-attack/)
+[https://rollingpwn.github.io/rolling-pwn/](https://rollingpwn.github.io/rolling-pwn/)
+[https://github.com/nonamecoder/CVE-2022-27254](https://github.com/nonamecoder/CVE-2022-27254)
+
+...
+<!--more-->

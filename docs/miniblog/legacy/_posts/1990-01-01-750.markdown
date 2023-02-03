@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A phishing document signed by Microsoft – part 1"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A phishing document signed by Microsoft – part 1
+[https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/](https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/)
+
+...
+<!--more-->

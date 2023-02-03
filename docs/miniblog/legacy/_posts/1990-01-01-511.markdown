@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Autodial(DLL)ing Your Way - Lateral Movement Windows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Autodial(DLL)ing Your Way - Lateral Movement Windows
+[https://www.mdsec.co.uk/2022/10/autodialdlling-your-way/](https://www.mdsec.co.uk/2022/10/autodialdlling-your-way/)
+[https://github.com/mdsecactivebreach/DragonCastle](https://github.com/mdsecactivebreach/DragonCastle)
+
+...
+<!--more-->

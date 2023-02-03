@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Convert ldapdomaindump to Bloodhound"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Convert ldapdomaindump to Bloodhound
+[https://whynotsecurity.com/blog/ldd2bh/](https://whynotsecurity.com/blog/ldd2bh/)
+[https://github.com/blurbdust/ldd2bh](https://github.com/blurbdust/ldd2bh)
+
+...
+<!--more-->

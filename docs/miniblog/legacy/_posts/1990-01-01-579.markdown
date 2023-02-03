@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Microsoft Intune - Bypassing conditional access by faking device compliance."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Microsoft Intune - Bypassing conditional access by faking device compliance.
+[https://o365blog.com/post/mdm/](https://o365blog.com/post/mdm/)
+
+...
+<!--more-->

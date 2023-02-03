@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Phishing With Google's Domain"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Phishing With Google's Domain
+[https://mrd0x.com/phishing-with-google-domain/](https://mrd0x.com/phishing-with-google-domain/)
+[https://www-syss-de.translate.goog/?_x_tr_sl=en&_x_tr_tl=en&_x_tr_hl](https://www-syss-de.translate.goog/?_x_tr_sl=en&_x_tr_tl=en&_x_tr_hl)
+[https://sitereview.bluecoat.com/#/lookup-result/https%253A%252F%252Fwww-syss-de.translate.goog%252F%253F_x_tr_sl%253Den%2526_x_tr_tl%253Den%2526_x_tr_hl](https://sitereview.bluecoat.com/#/lookup-result/https%253A%252F%252Fwww-syss-de.translate.goog%252F%253F_x_tr_sl%253Den%2526_x_tr_tl%253Den%2526_x_tr_hl)
+
+...
+<!--more-->

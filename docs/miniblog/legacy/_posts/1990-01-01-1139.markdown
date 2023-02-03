@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Outdated JavaScript engine leads to RCE in Foxit PDF Reader"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Outdated JavaScript engine leads to RCE in Foxit PDF Reader
+[https://sec-consult.com/vulnerability-lab/advisory/outdated-javascript-engine-leads-to-rce-in-foxit-pdf-reader/](https://sec-consult.com/vulnerability-lab/advisory/outdated-javascript-engine-leads-to-rce-in-foxit-pdf-reader/)
+
+...
+<!--more-->

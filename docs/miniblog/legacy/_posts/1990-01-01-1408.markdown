@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Bypass #2 .."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Bypass #2 ..
+[https://twitter.com/wdormann/status/1577667670048120833](https://twitter.com/wdormann/status/1577667670048120833)
+
+...
+<!--more-->

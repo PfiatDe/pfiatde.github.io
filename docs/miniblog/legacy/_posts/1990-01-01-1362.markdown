@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The Dirty Pipe Vulnerability¶"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Dirty Pipe Vulnerability¶
+[https://dirtypipe.cm4all.com/#the-dirty-pipe-vulnerability](https://dirtypipe.cm4all.com/#the-dirty-pipe-vulnerability)
+[https://dirtypipe.cm4all.com/](https://dirtypipe.cm4all.com/)
+[https://twitter.com/bl4sty/status/1500812285358530561](https://twitter.com/bl4sty/status/1500812285358530561)
+[https://lore.kernel.org/stable/1645618039140207@kroah.com/](https://lore.kernel.org/stable/1645618039140207@kroah.com/)
+[https://lore.kernel.org/stable/164561803311588@kroah.com/](https://lore.kernel.org/stable/164561803311588@kroah.com/)
+[https://lore.kernel.org/stable/164561802556115@kroah.com/](https://lore.kernel.org/stable/164561802556115@kroah.com/)
+
+...
+<!--more-->

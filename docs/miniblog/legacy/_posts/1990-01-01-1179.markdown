@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Ich habe deutsche Kommunen auf Schwachstellen überprüft"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Ich habe deutsche Kommunen auf Schwachstellen überprüft
+[https://renerehme.dev/blog/informationssicherheit-in-den-kommunen?s=09](https://renerehme.dev/blog/informationssicherheit-in-den-kommunen?s=09)
+
+...
+<!--more-->

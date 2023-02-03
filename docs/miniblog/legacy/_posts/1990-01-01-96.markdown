@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Seventh Inferno vulnerability (some NETGEAR smart switches)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Seventh Inferno vulnerability (some NETGEAR smart switches)
+[https://gynvael.coldwind.pl/?id=742](https://gynvael.coldwind.pl/?id=742)
+
+...
+<!--more-->

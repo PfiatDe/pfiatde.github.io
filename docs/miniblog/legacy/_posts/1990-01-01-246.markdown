@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "MSDT DLL Hijack UAC bypass"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# MSDT DLL Hijack UAC bypass
+[https://blog.sevagas.com/?MSDT-DLL-Hijack-UAC-bypass](https://blog.sevagas.com/?MSDT-DLL-Hijack-UAC-bypass)
+
+...
+<!--more-->

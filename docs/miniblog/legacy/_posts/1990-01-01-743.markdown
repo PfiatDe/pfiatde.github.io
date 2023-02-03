@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CertPotato – Using ADCS to privesc from virtual and network service accounts to local system"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CertPotato – Using ADCS to privesc from virtual and network service accounts to local system
+[https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/](https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/)
+
+...
+<!--more-->

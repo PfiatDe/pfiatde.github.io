@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "DIVD-2021-00011 - Kaseya VSA Limited Disclosure"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# DIVD-2021-00011 - Kaseya VSA Limited Disclosure
+[https://csirt.divd.nl/cases/DIVD-2021-00011/](https://csirt.divd.nl/cases/DIVD-2021-00011/)
+
+...
+<!--more-->

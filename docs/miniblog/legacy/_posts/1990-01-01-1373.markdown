@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Fun with PowerShell – Executing commands with DNS requests"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Fun with PowerShell – Executing commands with DNS requests
+[https://www.thecyberidiots.com/post/fun-with-powershell-executing-commands-with-dns-requests](https://www.thecyberidiots.com/post/fun-with-powershell-executing-commands-with-dns-requests)
+
+...
+<!--more-->

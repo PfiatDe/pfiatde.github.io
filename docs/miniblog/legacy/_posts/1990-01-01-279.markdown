@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Solving DOM XSS Puzzles"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Solving DOM XSS Puzzles
+[https://spaceraccoon.dev/solving-dom-xss-puzzles](https://spaceraccoon.dev/solving-dom-xss-puzzles)
+
+...
+<!--more-->

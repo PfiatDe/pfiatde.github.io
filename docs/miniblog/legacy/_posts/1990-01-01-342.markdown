@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "‘Demon’s Cries’ authentication bypass patched in Netgear switches"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ‘Demon’s Cries’ authentication bypass patched in Netgear switches
+[https://therecord.media/demons-cries-authentication-bypass-patched-in-netgear-switches/](https://therecord.media/demons-cries-authentication-bypass-patched-in-netgear-switches/)
+[https://gynvael.coldwind.pl/?id=740](https://gynvael.coldwind.pl/?id=740)
+[https://gynvael.coldwind.pl/?id=741](https://gynvael.coldwind.pl/?id=741)
+
+...
+<!--more-->

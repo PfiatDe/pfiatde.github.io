@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to Bug Hunter University"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Welcome to Bug Hunter University
+[https://bughunters.google.com/learn](https://bughunters.google.com/learn)
+
+...
+<!--more-->

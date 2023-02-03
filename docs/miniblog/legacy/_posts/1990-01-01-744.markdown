@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Multiple Vulnerabilities in Proxmox VE & Proxmox Mail Gateway"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Multiple Vulnerabilities in Proxmox VE & Proxmox Mail Gateway
+[https://starlabs.sg/blog/2022/12-multiple-vulnerabilites-in-proxmox-ve--proxmox-mail-gateway/](https://starlabs.sg/blog/2022/12-multiple-vulnerabilites-in-proxmox-ve--proxmox-mail-gateway/)
+
+...
+<!--more-->

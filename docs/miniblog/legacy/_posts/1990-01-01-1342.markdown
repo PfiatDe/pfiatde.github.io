@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Chrome 0.5day - RCE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Chrome 0.5day - RCE
+[https://github.com/avboy1337/1195777-chrome0day](https://github.com/avboy1337/1195777-chrome0day)
+[https://docs.microsoft.com/de-de/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview](https://docs.microsoft.com/de-de/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview)
+
+...
+<!--more-->

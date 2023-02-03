@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "BRAKTOOTH: Causing Havoc on Bluetooth Link Manager"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# BRAKTOOTH: Causing Havoc on Bluetooth Link Manager
+[https://asset-group.github.io/disclosures/braktooth/](https://asset-group.github.io/disclosures/braktooth/)
+
+...
+<!--more-->

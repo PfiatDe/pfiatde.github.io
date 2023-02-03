@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "GitLab Critical Security Release: 14.9.2, 14.8.5, and 14.7.7 - CVE-2022-1162."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# GitLab Critical Security Release: 14.9.2, 14.8.5, and 14.7.7 - CVE-2022-1162.
+[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1162](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1162)
+[https://about.gitlab.com/releases/2022/03/31/critical-security-release-gitlab-14-9-2-released/](https://about.gitlab.com/releases/2022/03/31/critical-security-release-gitlab-14-9-2-released/)
+[https://news.ycombinator.com/item?id=30872415](https://news.ycombinator.com/item?id=30872415)
+[https://gitlab.com/gitlab-org/gitlab/-/commit/e2fb87ec5d4e235d6b83454980cec9c049849a1c#f4d654b98cc11d931e3f77ee61318adc95a52f12](https://gitlab.com/gitlab-org/gitlab/-/commit/e2fb87ec5d4e235d6b83454980cec9c049849a1c#f4d654b98cc11d931e3f77ee61318adc95a52f12)
+[https://gitlab.com/gitlab-org/gitlab/-/merge_requests/76318](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/76318)
+[https://gitlab.com/gitlab-org/gitlab/-/merge_requests/76318/diffs#diff-content-f4d654b98cc11d931e3f77ee61318adc95a52f12](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/76318/diffs#diff-content-f4d654b98cc11d931e3f77ee61318adc95a52f12)
+
+...
+<!--more-->

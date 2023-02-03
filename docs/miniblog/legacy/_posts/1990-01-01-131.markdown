@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2021-3929-3947 - QEMU VM Escape"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-3929-3947 - QEMU VM Escape
+[https://github.com/QiuhaoLi/CVE-2021-3929-3947](https://github.com/QiuhaoLi/CVE-2021-3929-3947)
+[https://qiuhao.org/Matryoshka_Trap.pdf](https://qiuhao.org/Matryoshka_Trap.pdf)
+
+...
+<!--more-->

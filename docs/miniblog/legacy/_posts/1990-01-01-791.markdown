@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "rundll32.exe keymgr.dll, KRShowKeyMgr - Read stored credentials"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# rundll32.exe keymgr.dll, KRShowKeyMgr - Read stored credentials
+[https://twitter.com/NinjaParanoid/status/1516442028963659777](https://twitter.com/NinjaParanoid/status/1516442028963659777)
+[https://twitter.com/0gtweet/status/1415671356239216653](https://twitter.com/0gtweet/status/1415671356239216653)
+[https://www.nirsoft.net/utils/credentials_file_view.html](https://www.nirsoft.net/utils/credentials_file_view.html)
+
+...
+<!--more-->

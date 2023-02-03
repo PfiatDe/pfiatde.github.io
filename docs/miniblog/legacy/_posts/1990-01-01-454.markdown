@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Introducing iHide – A New Jailbreak Detection Bypass Tool"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Introducing iHide – A New Jailbreak Detection Bypass Tool
+[https://www.trustedsec.com/blog/introducing-ihide-a-new-jailbreak-detection-bypass-tool/](https://www.trustedsec.com/blog/introducing-ihide-a-new-jailbreak-detection-bypass-tool/)
+[https://github.com/Kc57/iHide](https://github.com/Kc57/iHide)
+
+...
+<!--more-->

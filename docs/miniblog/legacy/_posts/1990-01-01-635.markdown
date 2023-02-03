@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Identifying Bugs in Router Firmware at Scale with Taint Analysis"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Identifying Bugs in Router Firmware at Scale with Taint Analysis
+[https://starlabs.sg/blog/2021/08/identifying-bugs-in-router-firmware-at-scale-with-taint-analysis/](https://starlabs.sg/blog/2021/08/identifying-bugs-in-router-firmware-at-scale-with-taint-analysis/)
+
+...
+<!--more-->

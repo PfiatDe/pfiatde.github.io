@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "From NtObjectManager to PetitPotam"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# From NtObjectManager to PetitPotam
+[https://clearbluejar.github.io/posts/from-ntobjectmanager-to-petitpotam/](https://clearbluejar.github.io/posts/from-ntobjectmanager-to-petitpotam/)
+[https://itm4n.github.io/from-rpcview-to-petitpotam/](https://itm4n.github.io/from-rpcview-to-petitpotam/)
+[https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html)
+
+...
+<!--more-->

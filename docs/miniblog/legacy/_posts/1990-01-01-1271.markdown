@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Fingerprint cloning: Myth or reality?"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Fingerprint cloning: Myth or reality?
+[https://blog.talosintelligence.com/2020/04/fingerprint-research.html](https://blog.talosintelligence.com/2020/04/fingerprint-research.html)
+
+...
+<!--more-->

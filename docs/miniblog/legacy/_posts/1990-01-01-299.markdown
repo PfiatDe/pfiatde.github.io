@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "An Introduction to Fault Injection (Part 1/3)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# An Introduction to Fault Injection (Part 1/3)
+[https://research.nccgroup.com/2021/07/07/an-introduction-to-fault-injection-part-1-3/](https://research.nccgroup.com/2021/07/07/an-introduction-to-fault-injection-part-1-3/)
+
+...
+<!--more-->

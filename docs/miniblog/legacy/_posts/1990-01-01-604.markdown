@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "#printnightmare 4.x"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# #printnightmare 4.x
+[https://twitter.com/gentilkiwi/status/1420896231648288772](https://twitter.com/gentilkiwi/status/1420896231648288772)
+[https://github.com/gentilkiwi/mimikatz/tree/master/mimispool#readme](https://github.com/gentilkiwi/mimikatz/tree/master/mimispool#readme)
+[https://video.twimg.com/tweet_video/E7gJZZ6WYAIZQqC.mp4](https://video.twimg.com/tweet_video/E7gJZZ6WYAIZQqC.mp4)
+
+...
+<!--more-->

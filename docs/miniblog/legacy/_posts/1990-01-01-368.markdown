@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Abusing Weak ACL on Certificate Templates."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Abusing Weak ACL on Certificate Templates.
+[https://github.com/daem0nc0re/Abusing_Weak_ACL_on_Certificate_Templates](https://github.com/daem0nc0re/Abusing_Weak_ACL_on_Certificate_Templates)
+
+...
+<!--more-->

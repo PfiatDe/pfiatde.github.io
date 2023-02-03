@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond
+[https://www.intruder.io/research/practical-http-header-smuggling](https://www.intruder.io/research/practical-http-header-smuggling)
+
+...
+<!--more-->

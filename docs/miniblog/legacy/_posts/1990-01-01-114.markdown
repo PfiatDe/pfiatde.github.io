@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Spying on users using Remote Desktop Shadowing - Living off the Land"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Spying on users using Remote Desktop Shadowing - Living off the Land
+[https://bitsadm.in/blog/spying-on-users-using-rdp-shadowing](https://bitsadm.in/blog/spying-on-users-using-rdp-shadowing)
+
+...
+<!--more-->

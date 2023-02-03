@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "DirSync: Leveraging Replication Get-Changes and Get-Changes-In-Filtered-Set"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# DirSync: Leveraging Replication Get-Changes and Get-Changes-In-Filtered-Set
+[https://simondotsh.com/infosec/2022/07/11/dirsync.html](https://simondotsh.com/infosec/2022/07/11/dirsync.html)
+[https://github.com/simondotsh/DirSync](https://github.com/simondotsh/DirSync)
+[https://docs.microsoft.com/en-us/windows/win32/adschema/r-ds-replication-get-changes](https://docs.microsoft.com/en-us/windows/win32/adschema/r-ds-replication-get-changes)
+[https://docs.microsoft.com/en-us/windows/win32/adschema/r-ds-replication-get-changes-in-filtered-set](https://docs.microsoft.com/en-us/windows/win32/adschema/r-ds-replication-get-changes-in-filtered-set)
+[https://github.com/BloodHoundAD/BloodHound/issues/555](https://github.com/BloodHoundAD/BloodHound/issues/555)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "LPE - RHEL 8.1, 8.2, and 8.3"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# LPE - RHEL 8.1, 8.2, and 8.3
+[https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.12-linux-iscsi](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.12-linux-iscsi)
+
+...
+<!--more-->

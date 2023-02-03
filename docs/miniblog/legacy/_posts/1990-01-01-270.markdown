@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HOWTO: Microsoft Teams Proxy DLL Hijacking(Tutorial)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HOWTO: Microsoft Teams Proxy DLL Hijacking(Tutorial)
+[https://milosilo.com/hacking/microsoft-teams-proxy-dll-hijacking/](https://milosilo.com/hacking/microsoft-teams-proxy-dll-hijacking/)
+
+...
+<!--more-->

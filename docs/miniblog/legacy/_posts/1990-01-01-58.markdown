@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hunt for the gMSA secrets - WIndows AD"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Hunt for the gMSA secrets - WIndows AD
+[https://o365blog.com/post/gmsa/](https://o365blog.com/post/gmsa/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Restoring (Recovering) PowerShell Scripts from Event Logs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Restoring (Recovering) PowerShell Scripts from Event Logs
+[https://evotec.xyz/restoring-recovering-powershell-scripts-from-event-logs/](https://evotec.xyz/restoring-recovering-powershell-scripts-from-event-logs/)
+
+...
+<!--more-->

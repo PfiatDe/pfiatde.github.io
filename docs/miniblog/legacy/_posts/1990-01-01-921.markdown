@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Branch History Injection - SpectreV2-BHI"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Branch History Injection - SpectreV2-BHI
+[https://www.vusec.net/projects/bhi-spectre-bhb/](https://www.vusec.net/projects/bhi-spectre-bhb/)
+[https://twitter.com/vu5ec/status/1501256481097883648](https://twitter.com/vu5ec/status/1501256481097883648)
+[https://github.com/vusec/bhi-spectre-bhb](https://github.com/vusec/bhi-spectre-bhb)
+
+...
+<!--more-->

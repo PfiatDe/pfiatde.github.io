@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Windows Containers: Host Registry Virtual Registry Provider Bypass EoP - CVE-2021-26864"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows Containers: Host Registry Virtual Registry Provider Bypass EoP - CVE-2021-26864
+[https://bugs.chromium.org/p/project-zero/issues/detail?id=2129](https://bugs.chromium.org/p/project-zero/issues/detail?id=2129)
+
+...
+<!--more-->

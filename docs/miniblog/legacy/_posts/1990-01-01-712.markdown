@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "How to mimic Kerberos protocol transition using reflective RBCD"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# How to mimic Kerberos protocol transition using reflective RBCD
+[https://medium.com/tenable-techblog/how-to-mimic-kerberos-protocol-transition-using-reflective-rbcd-a4984bb7c4cb](https://medium.com/tenable-techblog/how-to-mimic-kerberos-protocol-transition-using-reflective-rbcd-a4984bb7c4cb)
+
+...
+<!--more-->

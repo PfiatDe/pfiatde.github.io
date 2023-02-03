@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Introducing the Windows 10 SMB Shadow Attack: Direct SMB Session Takeover"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Introducing the Windows 10 SMB Shadow Attack: Direct SMB Session Takeover
+[https://strontium.io/blog/introducing-windows-10-smb-shadow-attack](https://strontium.io/blog/introducing-windows-10-smb-shadow-attack)
+[https://github.com/usiegl00/smbshadow](https://github.com/usiegl00/smbshadow)
+[https://github.com/rapid7/metasploit-framework/pull/15903](https://github.com/rapid7/metasploit-framework/pull/15903)
+
+...
+<!--more-->

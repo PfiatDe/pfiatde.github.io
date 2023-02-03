@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Notepad++ Plugins for Persistence"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Notepad++ Plugins for Persistence
+[https://offensivedefence.co.uk/posts/notepad++/](https://offensivedefence.co.uk/posts/notepad++/)
+
+...
+<!--more-->

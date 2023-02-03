@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "SAML XML Injection"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SAML XML Injection
+[https://research.nccgroup.com/2021/03/29/saml-xml-injection/](https://research.nccgroup.com/2021/03/29/saml-xml-injection/)
+
+...
+<!--more-->

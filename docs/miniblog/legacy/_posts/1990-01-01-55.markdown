@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2022-1040 Sophos XG Firewall Authentication bypass"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-1040 Sophos XG Firewall Authentication bypass
+[https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/](https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/)
+[https://attackerkb.com/topics/cdXl2NL3cR/cve-2022-1040](https://attackerkb.com/topics/cdXl2NL3cR/cve-2022-1040)
+
+...
+<!--more-->

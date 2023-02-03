@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Don't Ruck Us Too Hard - Owning Ruckus AP devices"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Don't Ruck Us Too Hard - Owning Ruckus AP devices
+[https://alephsecurity.com/2020/01/14/ruckus-wireless/](https://alephsecurity.com/2020/01/14/ruckus-wireless/)
+
+...
+<!--more-->

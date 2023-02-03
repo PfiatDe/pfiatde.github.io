@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Do You Really Know About LSA Protection (RunAsPPL)?"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Do You Really Know About LSA Protection (RunAsPPL)?
+[https://itm4n.github.io/lsass-runasppl/](https://itm4n.github.io/lsass-runasppl/)
+
+...
+<!--more-->

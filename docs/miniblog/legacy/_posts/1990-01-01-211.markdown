@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A Diamond in the Ruff - Kerberos Diamond Tickets"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A Diamond in the Ruff - Kerberos Diamond Tickets
+[https://www.trustedsec.com/blog/a-diamond-in-the-ruff/](https://www.trustedsec.com/blog/a-diamond-in-the-ruff/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pentest tale - Dumping cleartext credentials from antivirus"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Pentest tale - Dumping cleartext credentials from antivirus
+[https://www.exandroid.dev/2021/11/20/pentest-tale-dumping-cleartext-credentials-from-antivirus/](https://www.exandroid.dev/2021/11/20/pentest-tale-dumping-cleartext-credentials-from-antivirus/)
+
+...
+<!--more-->

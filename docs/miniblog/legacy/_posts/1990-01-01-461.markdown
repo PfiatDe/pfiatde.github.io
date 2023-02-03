@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Breaking GitHub Private Pages for $35k"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Breaking GitHub Private Pages for $35k
+[https://robertchen.cc/blog/2021/04/03/github-pages-xss](https://robertchen.cc/blog/2021/04/03/github-pages-xss)
+
+...
+<!--more-->

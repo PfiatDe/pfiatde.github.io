@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps
+[https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
+
+...
+<!--more-->

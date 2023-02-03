@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Fixing the Unfixable: Story of a Google Cloud SSRF"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Fixing the Unfixable: Story of a Google Cloud SSRF
+[https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/](https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/)
+[https://feed.bugs.xdavidhu.me/bugs/0008](https://feed.bugs.xdavidhu.me/bugs/0008)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Dropping Files on a Domain Controller Using CVE-2021-43893"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Dropping Files on a Domain Controller Using CVE-2021-43893
+[https://www.rapid7.com/blog/post/2022/02/14/dropping-files-on-a-domain-controller-using-cve-2021-43893/](https://www.rapid7.com/blog/post/2022/02/14/dropping-files-on-a-domain-controller-using-cve-2021-43893/)
+
+...
+<!--more-->

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "🔥 urlscan.io's SOAR spot: Chatty security tools leaking private data 🔥"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# 🔥 urlscan.io's SOAR spot: Chatty security tools leaking private data 🔥
+[https://positive.security/blog/urlscan-data-leaks](https://positive.security/blog/urlscan-data-leaks)
+[https://www.paloaltonetworks.com/cortex/cortex-xsoar](https://www.paloaltonetworks.com/cortex/cortex-xsoar)
+[https://swimlane.com/](https://swimlane.com/)
+[https://www.ibm.com/products/qradar-soar](https://www.ibm.com/products/qradar-soar)
+[https://docs.splunk.com/Documentation/Phantom/4.10.7/User/Intro](https://docs.splunk.com/Documentation/Phantom/4.10.7/User/Intro)
+[https://www.dimensiondata.com/en-gb/solutions/intelligent-security/](https://www.dimensiondata.com/en-gb/solutions/intelligent-security/)
+
+...
+<!--more-->

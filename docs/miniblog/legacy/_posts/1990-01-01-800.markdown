@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "QNAP removes backdoor account in NAS backup, disaster recovery app"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# QNAP removes backdoor account in NAS backup, disaster recovery app
+[https://www.bleepingcomputer.com/news/security/qnap-removes-backdoor-account-in-nas-backup-disaster-recovery-app/](https://www.bleepingcomputer.com/news/security/qnap-removes-backdoor-account-in-nas-backup-disaster-recovery-app/)
+
+...
+<!--more-->

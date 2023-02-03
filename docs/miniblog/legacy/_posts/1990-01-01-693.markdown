@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The JNDI Strikes Back – Unauthenticated RCE in H2 Database Console"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The JNDI Strikes Back – Unauthenticated RCE in H2 Database Console
+[https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/](https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/)
+
+...
+<!--more-->

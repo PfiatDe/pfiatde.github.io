@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ABC-Code Execution for Veeam | CVE-2022-26503 , CVE-2022-26504, CVE-2022-26500"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ABC-Code Execution for Veeam | CVE-2022-26503 , CVE-2022-26504, CVE-2022-26500
+[https://www.mdsec.co.uk/2022/03/abc-code-execution-for-veeam/](https://www.mdsec.co.uk/2022/03/abc-code-execution-for-veeam/)
+[https://y4er.com/post/cve-2022-26500-veeam-backup-replication-rce/](https://y4er.com/post/cve-2022-26500-veeam-backup-replication-rce/)
+
+...
+<!--more-->

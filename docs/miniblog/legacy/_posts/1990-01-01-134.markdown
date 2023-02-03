@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Shibboleth"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Shibboleth
+[https://0xdf.gitlab.io/2022/04/02/htb-shibboleth.html](https://0xdf.gitlab.io/2022/04/02/htb-shibboleth.html)
+
+...
+<!--more-->

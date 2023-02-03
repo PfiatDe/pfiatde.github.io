@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Windows installer LPE 0day"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows installer LPE 0day
+[https://twitter.com/KLINIX5/status/1462597892066136069](https://twitter.com/KLINIX5/status/1462597892066136069)
+[https://github.com/klinix5/InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver)
+[https://twitter.com/wdormann/status/1462607586272976901](https://twitter.com/wdormann/status/1462607586272976901)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Remote Code Execution in pfSense <= 2.5.2"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Remote Code Execution in pfSense <= 2.5.2
+[https://www.shielder.it/advisories/pfsense-remote-command-execution/](https://www.shielder.it/advisories/pfsense-remote-command-execution/)
+
+...
+<!--more-->

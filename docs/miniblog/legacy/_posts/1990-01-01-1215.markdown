@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "No Logs? No Problem! Incident Response without Windows Event Logs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# No Logs? No Problem! Incident Response without Windows Event Logs
+[https://labs.jumpsec.com/no-logs-no-problem-incident-response-without-windows-event-logs/](https://labs.jumpsec.com/no-logs-no-problem-incident-response-without-windows-event-logs/)
+
+...
+<!--more-->

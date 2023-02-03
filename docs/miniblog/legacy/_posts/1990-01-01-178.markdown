@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Remote code execution in cdnjs of Cloudflare"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Remote code execution in cdnjs of Cloudflare
+[https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/)
+
+...
+<!--more-->

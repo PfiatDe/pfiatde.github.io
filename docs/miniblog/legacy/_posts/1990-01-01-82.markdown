@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTTP/3 connection contamination: an upcoming threat?"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTTP/3 connection contamination: an upcoming threat?
+[https://portswigger.net/research/http-3-connection-contamination](https://portswigger.net/research/http-3-connection-contamination)
+
+...
+<!--more-->

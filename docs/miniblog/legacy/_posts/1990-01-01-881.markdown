@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Missing Bricks: Finding Security Holes in LEGO APIs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Missing Bricks: Finding Security Holes in LEGO APIs
+[https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis](https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis)
+
+...
+<!--more-->

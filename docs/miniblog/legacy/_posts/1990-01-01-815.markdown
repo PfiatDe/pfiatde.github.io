@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Named-Pipe-PTH - Lokale User impersonierung"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Named-Pipe-PTH - Lokale User impersonierung
+[https://s3cur3th1ssh1t.github.io/Named-Pipe-PTH/](https://s3cur3th1ssh1t.github.io/Named-Pipe-PTH/)
+[https://github.com/S3cur3Th1sSh1t/NamedPipePTH](https://github.com/S3cur3Th1sSh1t/NamedPipePTH)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Gitlab: Clipboard DOM-based XSS."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Gitlab: Clipboard DOM-based XSS.
+[https://hackerone.com/reports/1196958](https://hackerone.com/reports/1196958)
+
+...
+<!--more-->

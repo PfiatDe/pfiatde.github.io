@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "RCE in Visual Studio Code's Remote WSL for Fun and Negative Profit"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# RCE in Visual Studio Code's Remote WSL for Fun and Negative Profit
+[https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/](https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/)
+[https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-43907](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-43907)
+
+...
+<!--more-->

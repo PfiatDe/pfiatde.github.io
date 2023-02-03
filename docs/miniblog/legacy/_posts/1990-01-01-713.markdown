@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hijacking GitHub Repositories by Deleting and Restoring Them"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Hijacking GitHub Repositories by Deleting and Restoring Them
+[https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/](https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Retbleed: Arbitrary Speculative Code Execution with Return Instructions"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Retbleed: Arbitrary Speculative Code Execution with Return Instructions
+[https://comsec.ethz.ch/research/microarch/retbleed/](https://comsec.ethz.ch/research/microarch/retbleed/)
+[https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html](https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ConPtyShell - Windows Reverse-Shell"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ConPtyShell - Windows Reverse-Shell
+[https://github.com/antonioCoco/ConPtyShell/tree/master](https://github.com/antonioCoco/ConPtyShell/tree/master)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "macOS Sandbox Escape vulnerability via Terminal"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# macOS Sandbox Escape vulnerability via Terminal
+[https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/](https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/)
+
+...
+<!--more-->

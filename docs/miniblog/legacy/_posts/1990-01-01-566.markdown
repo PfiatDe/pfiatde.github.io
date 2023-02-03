@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2021-22205 - Gitlab RCE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-22205 - Gitlab RCE
+[https://attackerkb.com/topics/D41jRUXCiJ/cve-2021-22205/rapid7-analysis](https://attackerkb.com/topics/D41jRUXCiJ/cve-2021-22205/rapid7-analysis)
+[https://hackerone.com/reports/1154542](https://hackerone.com/reports/1154542)
+
+...
+<!--more-->

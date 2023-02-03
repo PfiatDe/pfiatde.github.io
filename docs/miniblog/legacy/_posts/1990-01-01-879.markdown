@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "StealthHook - A method for hooking a function without modifying memory protection"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# StealthHook - A method for hooking a function without modifying memory protection
+[https://www.x86matthew.com/view_post?id=stealth_hook](https://www.x86matthew.com/view_post?id=stealth_hook)
+
+...
+<!--more-->

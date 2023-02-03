@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NTLM relaying to AD CS - On certificates, printers and a little hippo"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# NTLM relaying to AD CS - On certificates, printers and a little hippo
+[https://dirkjanm.io/ntlm-relaying-to-ad-certificate-services/](https://dirkjanm.io/ntlm-relaying-to-ad-certificate-services/)
+
+...
+<!--more-->

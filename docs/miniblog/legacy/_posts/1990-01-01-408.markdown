@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "How I Found A Vulnerability To Hack iCloud Accounts and How Apple Reacted To It"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# How I Found A Vulnerability To Hack iCloud Accounts and How Apple Reacted To It
+[https://thezerohack.com/apple-vulnerability-bug-bounty](https://thezerohack.com/apple-vulnerability-bug-bounty)
+
+...
+<!--more-->

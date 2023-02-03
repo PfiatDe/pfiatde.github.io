@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Gatekeeper’s Achilles heel: Unearthing a macOS vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Gatekeeper’s Achilles heel: Unearthing a macOS vulnerability
+[https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/](https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/)
+
+...
+<!--more-->

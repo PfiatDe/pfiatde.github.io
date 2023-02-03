@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Kernel Pwning with eBPF: a Love Story"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Kernel Pwning with eBPF: a Love Story
+[https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
+[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3490](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3490)
+[https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)
+
+...
+<!--more-->

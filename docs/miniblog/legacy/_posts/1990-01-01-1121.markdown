@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Windows User Profile Service 0day LPE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows User Profile Service 0day LPE
+[https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html](https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html)
+[https://twitter.com/wdormann/status/1451672354241777667](https://twitter.com/wdormann/status/1451672354241777667)
+
+...
+<!--more-->

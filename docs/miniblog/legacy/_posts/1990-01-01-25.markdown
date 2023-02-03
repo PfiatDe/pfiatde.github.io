@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "A not-so-common and stupid privilege escalation"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A not-so-common and stupid privilege escalation
+[https://decoder.cloud/2022/04/25/a-not-so-common-and-stupid-privilege-escalation/](https://decoder.cloud/2022/04/25/a-not-so-common-and-stupid-privilege-escalation/)
+[https://github.com/Group3r/Group3r](https://github.com/Group3r/Group3r)
+[https://decoder.cloud/2022/04/27/group-policy-folder-redirection-cve-2021-26887/](https://decoder.cloud/2022/04/27/group-policy-folder-redirection-cve-2021-26887/)
+
+...
+<!--more-->

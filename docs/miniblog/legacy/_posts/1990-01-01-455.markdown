@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Anatomy and Disruption of Metasploit Shellcode"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Anatomy and Disruption of Metasploit Shellcode
+[https://blog.nviso.eu/2021/09/02/anatomy-and-disruption-of-metasploit-shellcode/](https://blog.nviso.eu/2021/09/02/anatomy-and-disruption-of-metasploit-shellcode/)
+
+...
+<!--more-->

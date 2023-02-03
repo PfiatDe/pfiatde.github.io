@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "XSS in the AWS Console"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# XSS in the AWS Console
+[https://frichetten.com/blog/xss_in_aws_console/](https://frichetten.com/blog/xss_in_aws_console/)
+
+...
+<!--more-->

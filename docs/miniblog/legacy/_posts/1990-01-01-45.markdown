@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Automatically extracting static antivirus signatures"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Automatically extracting static antivirus signatures
+[https://blog.scrt.ch/2022/04/05/automatically-extracting-static-antivirus-signatures/](https://blog.scrt.ch/2022/04/05/automatically-extracting-static-antivirus-signatures/)
+[https://raw.githubusercontent.com/scrt/avdebugger/master/slides/2022_03_Insomnihack_Antivirus_vmeier.pdf](https://raw.githubusercontent.com/scrt/avdebugger/master/slides/2022_03_Insomnihack_Antivirus_vmeier.pdf)
+[https://github.com/scrt/avdebugger](https://github.com/scrt/avdebugger)
+[https://github.com/rasta-mouse/ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)
+
+...
+<!--more-->

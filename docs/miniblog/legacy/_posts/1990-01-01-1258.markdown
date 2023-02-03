@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "MS Defender Bypass "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# MS Defender Bypass 
+[https://twitter.com/mrd0x/status/1460597833917251595](https://twitter.com/mrd0x/status/1460597833917251595)
+
+...
+<!--more-->

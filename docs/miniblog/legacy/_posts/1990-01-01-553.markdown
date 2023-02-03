@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Local Privilege Escalation in all Windows Versions"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Local Privilege Escalation in all Windows Versions
+[https://www.bleepingcomputer.com/news/security/all-windows-versions-impacted-by-new-lpe-zero-day-vulnerability/](https://www.bleepingcomputer.com/news/security/all-windows-versions-impacted-by-new-lpe-zero-day-vulnerability/)
+[https://github.com/klinix5/ProfSvcLPE/tree/main/DoubleJunctionEoP](https://github.com/klinix5/ProfSvcLPE/tree/main/DoubleJunctionEoP)
+
+...
+<!--more-->

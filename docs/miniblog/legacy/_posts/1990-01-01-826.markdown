@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Shadow Credentials - AD"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Shadow Credentials - AD
+[https://pentestlab.blog/2022/02/07/shadow-credentials/](https://pentestlab.blog/2022/02/07/shadow-credentials/)
+[https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab](https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab)
+
+...
+<!--more-->

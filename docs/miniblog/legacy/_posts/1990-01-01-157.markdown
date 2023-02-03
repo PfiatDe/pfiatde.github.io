@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "RCE in NPM VSCode Extention - CVE2021-26700"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# RCE in NPM VSCode Extention - CVE2021-26700
+[https://github.com/jackadamson/CVE-2021-26700](https://github.com/jackadamson/CVE-2021-26700)
+
+...
+<!--more-->

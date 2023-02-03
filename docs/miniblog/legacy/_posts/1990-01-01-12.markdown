@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "The dark side of Microsoft Remote Procedure Call protocols"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The dark side of Microsoft Remote Procedure Call protocols
+[https://redcanary.com/blog/msrpc-to-attack/](https://redcanary.com/blog/msrpc-to-attack/)
+[https://github.com/jsecurity101/MSRPC-to-ATTACK](https://github.com/jsecurity101/MSRPC-to-ATTACK)
+[https://en.wikipedia.org/wiki/DCE/RPC](https://en.wikipedia.org/wiki/DCE/RPC)
+
+...
+<!--more-->

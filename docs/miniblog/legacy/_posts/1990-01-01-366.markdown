@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A Modern Exploration of Windows Memory Corruption Exploits - Part I: Stack Overflows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A Modern Exploration of Windows Memory Corruption Exploits - Part I: Stack Overflows
+[https://www.forrest-orr.net/post/a-modern-exploration-of-windows-memory-corruption-exploits-part-i-stack-overflows](https://www.forrest-orr.net/post/a-modern-exploration-of-windows-memory-corruption-exploits-part-i-stack-overflows)
+
+...
+<!--more-->

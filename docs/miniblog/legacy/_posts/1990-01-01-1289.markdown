@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "From Backup Operator To Domain Admin"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# From Backup Operator To Domain Admin
+[https://github.com/mpgn/BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA)
+
+...
+<!--more-->

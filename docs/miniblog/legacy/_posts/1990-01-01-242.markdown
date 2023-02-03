@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "[ENG] UUID Shellcode Execution Implementation in C# and DInvoke"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# [ENG] UUID Shellcode Execution Implementation in C# and DInvoke
+[https://blog.sunggwanchoi.com/eng-uuid-shellcode-execution/](https://blog.sunggwanchoi.com/eng-uuid-shellcode-execution/)
+
+...
+<!--more-->

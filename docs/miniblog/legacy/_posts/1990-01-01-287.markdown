@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pwn2Own -> Xxe2Rce - RCE in Rockwell Studio 5000 Logix Designer"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Pwn2Own -> Xxe2Rce - RCE in Rockwell Studio 5000 Logix Designer
+[http://muffsec.com/blog/pwn2own-xxe2rce/](http://muffsec.com/blog/pwn2own-xxe2rce/)
+
+...
+<!--more-->

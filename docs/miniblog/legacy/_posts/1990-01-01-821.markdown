@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2021-26415 - Windows Installer Elevation of Privilege Vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-26415 - Windows Installer Elevation of Privilege Vulnerability
+[https://www.cloaked.pl/2021/04/cve-2021-26415/](https://www.cloaked.pl/2021/04/cve-2021-26415/)
+
+...
+<!--more-->

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Fontuscator - Text Obfuscation with custom Font"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Fontuscator - Text Obfuscation with custom Font
+[https://medium.com/@doctoreww/day-3-next-level-font-obfuscation-7a6cd978c7a5](https://medium.com/@doctoreww/day-3-next-level-font-obfuscation-7a6cd978c7a5)
+[https://doctoreww.github.io/Fontuscator/](https://doctoreww.github.io/Fontuscator/)
+[https://github.com/DoctorEww/Fontuscator](https://github.com/DoctorEww/Fontuscator)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Rapidly Search and Hunt through Windows Event Logs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Rapidly Search and Hunt through Windows Event Logs
+[https://github.com/countercept/chainsaw](https://github.com/countercept/chainsaw)
+[https://labs.f-secure.com/tools/chainsaw/](https://labs.f-secure.com/tools/chainsaw/)
+
+...
+<!--more-->

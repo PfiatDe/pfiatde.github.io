@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "F5 iControl REST Endpoint Authentication Bypass Technical Deep Dive"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# F5 iControl REST Endpoint Authentication Bypass Technical Deep Dive
+[https://www.horizon3.ai/f5-icontrol-rest-endpoint-authentication-bypass-technical-deep-dive/](https://www.horizon3.ai/f5-icontrol-rest-endpoint-authentication-bypass-technical-deep-dive/)
+[https://github.com/horizon3ai/CVE-2022-1388](https://github.com/horizon3ai/CVE-2022-1388)
+
+...
+<!--more-->

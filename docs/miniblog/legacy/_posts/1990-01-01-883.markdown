@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2022-28672 - Foxit PDF Reader - Use after Free - Remote Code Execution Exploit"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-28672 - Foxit PDF Reader - Use after Free - Remote Code Execution Exploit
+[https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672](https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672)
+[https://github.com/hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672)
+
+...
+<!--more-->

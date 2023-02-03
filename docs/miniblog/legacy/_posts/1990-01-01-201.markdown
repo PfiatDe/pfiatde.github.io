@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Allow arbitrary URLs, expect arbitrary code execution"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Allow arbitrary URLs, expect arbitrary code execution
+[https://positive.security/blog/url-open-rce](https://positive.security/blog/url-open-rce)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Office Makros bleiben erhalten"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Office Makros bleiben erhalten
+[https://www.heise.de/news/Microsoft-rudert-beim-Makroschutz-fuer-Office-Nutzer-zurueck-7166085.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag](https://www.heise.de/news/Microsoft-rudert-beim-Makroschutz-fuer-Office-Nutzer-zurueck-7166085.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag)
+
+...
+<!--more-->

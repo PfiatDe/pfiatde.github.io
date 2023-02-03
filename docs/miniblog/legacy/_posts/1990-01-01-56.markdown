@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Part 1 – SingPass RASP Analysis"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Part 1 – SingPass RASP Analysis
+[https://www.romainthomas.fr/post/22-08-singpass-rasp-analysis/](https://www.romainthomas.fr/post/22-08-singpass-rasp-analysis/)
+
+...
+<!--more-->

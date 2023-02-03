@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Write Windows Shellcode in Rust"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Write Windows Shellcode in Rust
+[https://github.com/b1tg/rust-windows-shellcode](https://github.com/b1tg/rust-windows-shellcode)
+
+...
+<!--more-->

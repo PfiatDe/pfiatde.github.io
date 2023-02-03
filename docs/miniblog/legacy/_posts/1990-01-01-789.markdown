@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-0435: A Remote Stack Overflow in The Linux Kernel
+[https://www.openwall.com/lists/oss-security/2022/02/10/1](https://www.openwall.com/lists/oss-security/2022/02/10/1)
+
+...
+<!--more-->

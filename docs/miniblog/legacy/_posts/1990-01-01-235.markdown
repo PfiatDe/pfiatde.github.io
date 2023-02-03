@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "WinRAR’s vulnerable trialware: when free software isn’t free"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# WinRAR’s vulnerable trialware: when free software isn’t free
+[https://swarm.ptsecurity.com/winrars-vulnerable-trialware-when-free-software-isnt-free/](https://swarm.ptsecurity.com/winrars-vulnerable-trialware-when-free-software-isnt-free/)
+
+...
+<!--more-->

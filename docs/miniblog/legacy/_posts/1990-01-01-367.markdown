@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Finden von Windows Registry Hives in virtuellen Festplatten - Needle"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Finden von Windows Registry Hives in virtuellen Festplatten - Needle
+[https://whynotsecurity.com/blog/needle/](https://whynotsecurity.com/blog/needle/)
+[https://github.com/blurbdust/needle](https://github.com/blurbdust/needle)
+
+...
+<!--more-->

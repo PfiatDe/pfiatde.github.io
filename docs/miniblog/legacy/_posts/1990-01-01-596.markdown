@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "LAPSUS$ <-> NVIDA"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# LAPSUS$ <-> NVIDA
+[https://twitter.com/serghei/status/1498779322450169859](https://twitter.com/serghei/status/1498779322450169859)
+[https://www.bleepingcomputer.com/news/security/nvidia-confirms-data-was-stolen-in-recent-cyberattack/](https://www.bleepingcomputer.com/news/security/nvidia-confirms-data-was-stolen-in-recent-cyberattack/)
+[https://twitter.com/S0ufi4n3/status/1497456379665076224](https://twitter.com/S0ufi4n3/status/1497456379665076224)
+
+...
+<!--more-->

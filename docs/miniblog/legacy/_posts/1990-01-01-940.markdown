@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Melting the DNS Iceberg: Taking over your infrastructure Kaminsky style"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Melting the DNS Iceberg: Taking over your infrastructure Kaminsky style
+[https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/](https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/)
+
+...
+<!--more-->

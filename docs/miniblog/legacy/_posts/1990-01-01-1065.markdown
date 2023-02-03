@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "BHIS | Coercions and Relays – The First Cred is the Deepest with Gabriel Prud'homme | 1.5 Hours"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# BHIS | Coercions and Relays – The First Cred is the Deepest with Gabriel Prud'homme | 1.5 Hours
+[https://www.blackhillsinfosec.com/wp-content/uploads/2022/09/Coercions-and-Relays-The-First-Cred-is-the-Deepest.pdf](https://www.blackhillsinfosec.com/wp-content/uploads/2022/09/Coercions-and-Relays-The-First-Cred-is-the-Deepest.pdf)
+[https://www.youtube.com/watch?v=b0lLxLJKaRs](https://www.youtube.com/watch?v=b0lLxLJKaRs)
+
+...
+<!--more-->

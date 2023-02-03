@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2022-22005 Microsoft Sharepoint RCE - authenticated"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-22005 Microsoft Sharepoint RCE - authenticated
+[https://hnd3884.github.io/posts/cve-2022-22005-microsoft-sharepoint-RCE/](https://hnd3884.github.io/posts/cve-2022-22005-microsoft-sharepoint-RCE/)
+
+...
+<!--more-->

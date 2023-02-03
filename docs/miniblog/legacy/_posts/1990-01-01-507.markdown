@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Zoom RCE from Pwn2Own 2021"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Zoom RCE from Pwn2Own 2021
+[https://sector7.computest.nl/post/2021-08-zoom/](https://sector7.computest.nl/post/2021-08-zoom/)
+
+...
+<!--more-->

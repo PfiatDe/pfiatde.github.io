@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Top 10 web hacking techniques of 2021 - nominations open"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Top 10 web hacking techniques of 2021 - nominations open
+[https://portswigger.net/research/top-10-web-hacking-techniques-of-2021-nominations-open](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021-nominations-open)
+
+...
+<!--more-->

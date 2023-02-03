@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Using CVE-2021-40531 for RCE with Sketch - macOS"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Using CVE-2021-40531 for RCE with Sketch - macOS
+[https://jonpalmisc.com/2021/11/22/cve-2021-40531](https://jonpalmisc.com/2021/11/22/cve-2021-40531)
+[https://github.com/jonpalmisc/CVE-2021-40531](https://github.com/jonpalmisc/CVE-2021-40531)
+
+...
+<!--more-->

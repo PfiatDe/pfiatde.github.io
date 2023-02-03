@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "50 Shades of SolarWinds Orion Deserialization (Part 1: CVE-2021–35215)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# 50 Shades of SolarWinds Orion Deserialization (Part 1: CVE-2021–35215)
+[https://testbnull.medium.com/50-shades-of-solarwinds-orion-deserialization-part-1-cve-2021-35215-2e5764e0e4f2](https://testbnull.medium.com/50-shades-of-solarwinds-orion-deserialization-part-1-cve-2021-35215-2e5764e0e4f2)
+[https://www.youtube.com/watch?v=a73rq5zxJYA](https://www.youtube.com/watch?v=a73rq5zxJYA)
+
+...
+<!--more-->

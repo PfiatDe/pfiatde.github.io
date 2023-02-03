@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Controlling the Source: Abusing Source Code Management Systems"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Controlling the Source: Abusing Source Code Management Systems
+[https://securityintelligence.com/posts/abusing-source-code-management-systems/](https://securityintelligence.com/posts/abusing-source-code-management-systems/)
+[https://www.ibm.com/downloads/cas/OG6KNX1E](https://www.ibm.com/downloads/cas/OG6KNX1E)
+[https://github.com/xforcered/SCMKit](https://github.com/xforcered/SCMKit)
+
+...
+<!--more-->

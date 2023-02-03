@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "PART 3: How I Met Your Beacon – Brute Ratel"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# PART 3: How I Met Your Beacon – Brute Ratel
+[https://www.mdsec.co.uk/2022/08/part-3-how-i-met-your-beacon-brute-ratel/](https://www.mdsec.co.uk/2022/08/part-3-how-i-met-your-beacon-brute-ratel/)
+[https://twitter.com/domchell](https://twitter.com/domchell)
+
+...
+<!--more-->

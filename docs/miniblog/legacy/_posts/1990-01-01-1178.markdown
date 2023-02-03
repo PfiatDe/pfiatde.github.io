@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Grafana v8.x Arbitrary File Read - 0day"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Grafana v8.x Arbitrary File Read - 0day
+[https://github.com/projectdiscovery/nuclei-templates/blob/master/vulnerabilities/grafana/grafana-file-read.yaml](https://github.com/projectdiscovery/nuclei-templates/blob/master/vulnerabilities/grafana/grafana-file-read.yaml)
+
+...
+<!--more-->

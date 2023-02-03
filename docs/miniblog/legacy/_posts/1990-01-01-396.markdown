@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Gregor Samsa: Exploiting Java's XML Signature Verification - CVE-2022-34169 CVSS: 7.5"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Gregor Samsa: Exploiting Java's XML Signature Verification - CVE-2022-34169 CVSS: 7.5
+[https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html](https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html)
+[https://bugs.chromium.org/p/project-zero/issues/detail?id=2290&q=reporter%3Ame&can=1](https://bugs.chromium.org/p/project-zero/issues/detail?id=2290&q=reporter%3Ame&can=1)
+
+...
+<!--more-->

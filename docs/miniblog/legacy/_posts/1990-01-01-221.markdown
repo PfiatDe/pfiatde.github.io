@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You
+[https://emily.id.au/tailscale](https://emily.id.au/tailscale)
+
+...
+<!--more-->

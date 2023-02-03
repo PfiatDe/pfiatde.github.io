@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Dumping the Sonos One smart speaker"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Dumping the Sonos One smart speaker
+[https://www.synacktiv.com//en/publications/dumping-the-sonos-one-smart-speaker.html](https://www.synacktiv.com//en/publications/dumping-the-sonos-one-smart-speaker.html)
+
+...
+<!--more-->

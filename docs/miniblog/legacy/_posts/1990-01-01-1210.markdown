@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Gobox"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Gobox
+[https://0xdf.gitlab.io/2021/08/30/htb-gobox.html](https://0xdf.gitlab.io/2021/08/30/htb-gobox.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Microsoft Internet Explorer 11 (protected mode off) & Adobe Acrobat Reader DC ActiveX"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Microsoft Internet Explorer 11 (protected mode off) & Adobe Acrobat Reader DC ActiveX
+[https://github.com/j00sean/SecBugs/tree/main/CVEs/CVE-2019-7040](https://github.com/j00sean/SecBugs/tree/main/CVEs/CVE-2019-7040)
+
+...
+<!--more-->

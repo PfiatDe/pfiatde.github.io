@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "The Race to Native Code Execution in PLCs: Using RCE to Uncover Siemens SIMATIC S7-1200/1500 Hardcoded Cryptographic Keys"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Race to Native Code Execution in PLCs: Using RCE to Uncover Siemens SIMATIC S7-1200/1500 Hardcoded Cryptographic Keys
+[https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys](https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys)
+[https://cert-portal.siemens.com/productcert/html/ssa-568427.html](https://cert-portal.siemens.com/productcert/html/ssa-568427.html)
+[https://cert-portal.siemens.com/productcert/html/ssb-898115.html](https://cert-portal.siemens.com/productcert/html/ssb-898115.html)
+
+...
+<!--more-->

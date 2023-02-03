@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Phishing for NetNTLM Hashes"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Phishing for NetNTLM Hashes
+[https://pwnshift.github.io/2021/08/12/hashes.html](https://pwnshift.github.io/2021/08/12/hashes.html)
+
+...
+<!--more-->

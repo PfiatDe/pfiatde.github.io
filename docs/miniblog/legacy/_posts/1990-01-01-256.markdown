@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Php-Internalog, Introspection Applied to 0day Research"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Php-Internalog, Introspection Applied to 0day Research
+[https://thinkloveshare.com/hacking/php-internalog-introspection-for-0day-research/](https://thinkloveshare.com/hacking/php-internalog-introspection-for-0day-research/)
+
+...
+<!--more-->

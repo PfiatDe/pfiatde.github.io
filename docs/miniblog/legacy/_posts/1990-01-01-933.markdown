@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Untangling KNOTWEED: European private-sector offensive actor using 0-day exploits"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Untangling KNOTWEED: European private-sector offensive actor using 0-day exploits
+[https://www.microsoft.com/security/blog/2022/07/27/untangling-knotweed-european-private-sector-offensive-actor-using-0-day-exploits/](https://www.microsoft.com/security/blog/2022/07/27/untangling-knotweed-european-private-sector-offensive-actor-using-0-day-exploits/)
+[https://thehackernews.com/2022/07/microsoft-uncover-austrian-company.html](https://thehackernews.com/2022/07/microsoft-uncover-austrian-company.html)
+[https://www.golem.de/news/microsoft-staatstrojaner-aus-oesterreich-nutzt-zero-day-luecken-2207-167220.html](https://www.golem.de/news/microsoft-staatstrojaner-aus-oesterreich-nutzt-zero-day-luecken-2207-167220.html)
+
+...
+<!--more-->

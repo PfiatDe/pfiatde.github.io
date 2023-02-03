@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Notice of Recent Security Incident - Lastpass"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Notice of Recent Security Incident - Lastpass
+[https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
+
+...
+<!--more-->

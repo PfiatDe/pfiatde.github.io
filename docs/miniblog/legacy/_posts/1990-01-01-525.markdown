@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Seamlessly Discovering Netgear Universal Plug-and-Pwn (UPnP) 0-days"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Seamlessly Discovering Netgear Universal Plug-and-Pwn (UPnP) 0-days
+[https://blog.grimm-co.com/2021/11/seamlessly-discovering-netgear.html](https://blog.grimm-co.com/2021/11/seamlessly-discovering-netgear.html)
+[https://kb.netgear.com/000064361/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Multiple-Products-PSV-2021-0168](https://kb.netgear.com/000064361/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Multiple-Products-PSV-2021-0168)
+
+...
+<!--more-->

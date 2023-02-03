@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Abusing Google Drive's Email File Functionality"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Abusing Google Drive's Email File Functionality
+[https://mrd0x.com/abusing-google-drives-email-file-functionality/?no-cache=1](https://mrd0x.com/abusing-google-drives-email-file-functionality/?no-cache=1)
+
+...
+<!--more-->

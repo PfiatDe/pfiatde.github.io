@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Bypass Bitlocker Preboot Authentication mit physischem Zugriff auf das Gerät"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Bypass Bitlocker Preboot Authentication mit physischem Zugriff auf das Gerät
+[https://twitter.com/SecurityJon/status/1445020885472235524](https://twitter.com/SecurityJon/status/1445020885472235524)
+[https://threadreaderapp.com/thread/1445020885472235524.html](https://threadreaderapp.com/thread/1445020885472235524.html)
+[https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network](https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network)
+
+...
+<!--more-->

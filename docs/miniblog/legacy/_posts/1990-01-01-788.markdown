@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Firejail: private-cwd leaks access to the entire filesystem #4780"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Firejail: private-cwd leaks access to the entire filesystem #4780
+[https://github.com/netblue30/firejail/issues/4780](https://github.com/netblue30/firejail/issues/4780)
+
+...
+<!--more-->

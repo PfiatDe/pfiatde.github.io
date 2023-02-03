@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Object Overloading - Windows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Object Overloading - Windows
+[https://www.trustedsec.com/blog/object-overloading/](https://www.trustedsec.com/blog/object-overloading/)
+[https://github.com/xpn/ObjectOverloadingPOC](https://github.com/xpn/ObjectOverloadingPOC)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Regexploit: DoS-able Regular Expressions"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Regexploit: DoS-able Regular Expressions
+[https://blog.doyensec.com/2021/03/11/regexploit.html](https://blog.doyensec.com/2021/03/11/regexploit.html)
+
+...
+<!--more-->

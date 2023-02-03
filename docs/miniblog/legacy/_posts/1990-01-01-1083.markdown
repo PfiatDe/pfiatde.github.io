@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Phreaking 2.0Abusing Microsoft Teams Direct Routing"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Phreaking 2.0Abusing Microsoft Teams Direct Routing
+[https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Moritz%20Abrell%20-%20Phreaking%202.0%20-%20Abusing%20Microsoft%20Teams%20Direct%20Routing.pdf](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Moritz%20Abrell%20-%20Phreaking%202.0%20-%20Abusing%20Microsoft%20Teams%20Direct%20Routing.pdf)
+
+...
+<!--more-->

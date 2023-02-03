@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "HTB: Gobox"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Gobox
+[https://0xdf.gitlab.io/2021/08/30/htb-gobox.html](https://0xdf.gitlab.io/2021/08/30/htb-gobox.html)
+[https://twitter.com/hackthebox_eu](https://twitter.com/hackthebox_eu)
+[https://twitter.com/HackingEsports](https://twitter.com/HackingEsports)
+[https://twitter.com/ippsec](https://twitter.com/ippsec)
+
+...
+<!--more-->

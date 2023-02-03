@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CISCO anyconnect EoP - CVE-2021-1366"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CISCO anyconnect EoP - CVE-2021-1366
+[https://www.coresecurity.com/core-labs/articles/analysis-cisco-anyconnect-posture-hostscan-local-privilege-escalation-cve-2021](https://www.coresecurity.com/core-labs/articles/analysis-cisco-anyconnect-posture-hostscan-local-privilege-escalation-cve-2021)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "the XSS Rat - Course Material"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# the XSS Rat - Course Material
+[https://twitter.com/theXSSrat/status/1391472518624686086](https://twitter.com/theXSSrat/status/1391472518624686086)
+[https://twitter.com/theXSSrat](https://twitter.com/theXSSrat)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Critical Samba bug could let anyone become Domain Admin – patch now!"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Critical Samba bug could let anyone become Domain Admin – patch now!
+[https://nakedsecurity.sophos.com/2022/07/27/critical-samba-bug-could-let-anyone-become-domain-admin-patch-now/](https://nakedsecurity.sophos.com/2022/07/27/critical-samba-bug-could-let-anyone-become-domain-admin-patch-now/)
+
+...
+<!--more-->

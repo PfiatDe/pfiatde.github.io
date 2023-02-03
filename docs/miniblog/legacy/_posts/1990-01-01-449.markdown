@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Binary File Write via Microsoft Speech API"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Binary File Write via Microsoft Speech API
+[https://red.0xbad53c.com/red-team-operations/initial-access/macro-attacks/binary-file-write-via-microsoft-speech-api](https://red.0xbad53c.com/red-team-operations/initial-access/macro-attacks/binary-file-write-via-microsoft-speech-api)
+
+...
+<!--more-->

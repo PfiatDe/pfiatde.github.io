@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Breaking Bitbucket: Pre Auth Remote Command Execution (CVE-2022-36804)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Breaking Bitbucket: Pre Auth Remote Command Execution (CVE-2022-36804)
+[https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/](https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/)
+
+...
+<!--more-->

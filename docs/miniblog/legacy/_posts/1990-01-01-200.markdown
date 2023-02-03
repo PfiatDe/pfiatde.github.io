@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Fetch Defender exclusions from Intune managed devices as non-admin user: "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Fetch Defender exclusions from Intune managed devices as non-admin user: 
+[https://twitter.com/theluemmel/status/1592772221201616896](https://twitter.com/theluemmel/status/1592772221201616896)
+
+...
+<!--more-->

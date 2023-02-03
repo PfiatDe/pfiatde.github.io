@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Windows - Infoleak (CVE-2021-24084)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows - Infoleak (CVE-2021-24084)
+[https://halove23.blogspot.com/2021/06/CVE-2021-24084-Unpatched-ID.html](https://halove23.blogspot.com/2021/06/CVE-2021-24084-Unpatched-ID.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "SysWhispers is dead, long live SysWhispers!"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SysWhispers is dead, long live SysWhispers!
+[https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/](https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/)
+
+...
+<!--more-->

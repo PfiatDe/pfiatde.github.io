@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Okta says its GitHub account hacked, source code stolen"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Okta says its GitHub account hacked, source code stolen
+[https://www.bleepingcomputer.com/news/security/okta-says-its-github-account-hacked-source-code-stolen/](https://www.bleepingcomputer.com/news/security/okta-says-its-github-account-hacked-source-code-stolen/)
+
+...
+<!--more-->

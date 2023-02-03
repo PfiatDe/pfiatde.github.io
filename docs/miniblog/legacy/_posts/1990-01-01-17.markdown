@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Recreating an ISO Payload for Fun and No Profit"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Recreating an ISO Payload for Fun and No Profit
+[https://blog.sunggwanchoi.com/recreating-an-iso-payload-for-fun-and-no-profit/](https://blog.sunggwanchoi.com/recreating-an-iso-payload-for-fun-and-no-profit/)
+[https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/](https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2021-40444 - Microsoft MSHTML Remote Code Execution Vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-40444 - Microsoft MSHTML Remote Code Execution Vulnerability
+[https://twitter.com/GossiTheDog/status/1435331464170704896](https://twitter.com/GossiTheDog/status/1435331464170704896)
+[https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40444](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40444)
+
+...
+<!--more-->

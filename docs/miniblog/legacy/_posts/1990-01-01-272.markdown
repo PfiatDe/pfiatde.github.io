@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HTB: Intelligence"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Intelligence
+[https://0xdf.gitlab.io/2021/11/27/htb-intelligence.html](https://0xdf.gitlab.io/2021/11/27/htb-intelligence.html)
+[https://github.com/micahvandeusen/gMSADumper](https://github.com/micahvandeusen/gMSADumper)
+
+...
+<!--more-->

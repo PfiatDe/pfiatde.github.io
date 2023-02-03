@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Phishing Course"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Phishing Course
+[https://www.youtube.com/watch?v=QU55YGVyedk](https://www.youtube.com/watch?v=QU55YGVyedk)
+
+...
+<!--more-->

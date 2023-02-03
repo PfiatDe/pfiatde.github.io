@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CONTInuing the Bazar Ransomware Story"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CONTInuing the Bazar Ransomware Story
+[https://thedfirreport.com/2021/11/29/continuing-the-bazar-ransomware-story/](https://thedfirreport.com/2021/11/29/continuing-the-bazar-ransomware-story/)
+
+...
+<!--more-->

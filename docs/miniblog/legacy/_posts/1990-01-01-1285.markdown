@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Rubeus 2.0"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Rubeus 2.0
+[https://twitter.com/exploitph/status/1422614542853545988](https://twitter.com/exploitph/status/1422614542853545988)
+[https://github.com/GhostPack/Rubeus/blob/master/CHANGELOG.md#200---2021-08-04](https://github.com/GhostPack/Rubeus/blob/master/CHANGELOG.md#200---2021-08-04)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Fuzzing Microsoft's RDP Client using Virtual Channels: Overview & Methodology"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Fuzzing Microsoft's RDP Client using Virtual Channels: Overview & Methodology
+[https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/#results](https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/#results)
+[https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-38666](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-38666)
+
+...
+<!--more-->

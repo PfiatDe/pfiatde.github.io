@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "%appdata% is a mistake – Introducing Invoke-DLLClone"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# %appdata% is a mistake – Introducing Invoke-DLLClone
+[https://redteamer.tips/appdata-is-a-mistake-introducing-invoke-dllclone/](https://redteamer.tips/appdata-is-a-mistake-introducing-invoke-dllclone/)
+
+...
+<!--more-->

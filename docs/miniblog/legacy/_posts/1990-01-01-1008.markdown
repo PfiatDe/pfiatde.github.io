@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "WannaCry 2.0 incoming..."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# WannaCry 2.0 incoming...
+[https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "2021.1 IPU - Intel® VT-d Advisory"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# 2021.1 IPU - Intel® VT-d Advisory
+[https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00442.html](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00442.html)
+[https://blog.fefe.de/?ts=9e3f94c5](https://blog.fefe.de/?ts=9e3f94c5)
+
+...
+<!--more-->

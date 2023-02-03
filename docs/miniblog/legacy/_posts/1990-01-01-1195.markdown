@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Certificates and Pwnage and Patches, Oh My!"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Certificates and Pwnage and Patches, Oh My!
+[https://posts.specterops.io/certificates-and-pwnage-and-patches-oh-my-8ae0f4304c1d](https://posts.specterops.io/certificates-and-pwnage-and-patches-oh-my-8ae0f4304c1d)
+
+...
+<!--more-->

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CVE-2021-43240 - NTFS Set Short Name Elevation of Privilege Vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-43240 - NTFS Set Short Name Elevation of Privilege Vulnerability
+[https://twitter.com/splinter_code/status/1470916120207151117/photo/1](https://twitter.com/splinter_code/status/1470916120207151117/photo/1)
+[https://twitter.com/tiraniddo/status/1455215871358423041](https://twitter.com/tiraniddo/status/1455215871358423041)
+[https://twitter.com/jonasLyk/status/1438339949330317314](https://twitter.com/jonasLyk/status/1438339949330317314)
+
+...
+<!--more-->

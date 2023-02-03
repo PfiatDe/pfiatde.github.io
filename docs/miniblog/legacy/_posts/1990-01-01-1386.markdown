@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Securing Developer Tools: Argument Injection in Visual Studio Code"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Securing Developer Tools: Argument Injection in Visual Studio Code
+[https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/](https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/)
+
+...
+<!--more-->

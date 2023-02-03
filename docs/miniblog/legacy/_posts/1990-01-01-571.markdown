@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Gitlab Project Import RCE Analysis (CVE-2022-2185)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Gitlab Project Import RCE Analysis (CVE-2022-2185)
+[https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/](https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/)
+[https://about.gitlab.com/releases/2022/06/30/critical-security-release-gitlab-15-1-1-released/](https://about.gitlab.com/releases/2022/06/30/critical-security-release-gitlab-15-1-1-released/)
+
+...
+<!--more-->

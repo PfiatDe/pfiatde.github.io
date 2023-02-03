@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Azure AD Pass The Certificate - Lateral Movement in Azure"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Azure AD Pass The Certificate - Lateral Movement in Azure
+[https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597](https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597)
+
+...
+<!--more-->

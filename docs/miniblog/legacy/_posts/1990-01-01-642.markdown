@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "INFRA:HALT"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# INFRA:HALT
+[https://www.forescout.com/resources/infrahalt-discovering-mitigating-large-scale-ot-vulnerabilities/](https://www.forescout.com/resources/infrahalt-discovering-mitigating-large-scale-ot-vulnerabilities/)
+[https://jfrog.com/blog/infrahalt-14-new-security-vulnerabilities-found-in-nichestack/](https://jfrog.com/blog/infrahalt-14-new-security-vulnerabilities-found-in-nichestack/)
+[https://www.heise.de/news/INFRA-HALT-Neue-Schwachstellen-im-TCP-IP-Stack-von-Industriegeraeten-entdeckt-6154631.html](https://www.heise.de/news/INFRA-HALT-Neue-Schwachstellen-im-TCP-IP-Stack-von-Industriegeraeten-entdeckt-6154631.html)
+
+...
+<!--more-->

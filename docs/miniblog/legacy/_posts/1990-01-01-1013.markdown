@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ZDI-CAN-18333 aka ProxyNotShell— the story of the claimed zero day in Microsoft Exchange"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ZDI-CAN-18333 aka ProxyNotShell— the story of the claimed zero day in Microsoft Exchange
+[https://doublepulsar.com/proxynotshell-the-story-of-the-claimed-zero-day-in-microsoft-exchange-5c63d963a9e9](https://doublepulsar.com/proxynotshell-the-story-of-the-claimed-zero-day-in-microsoft-exchange-5c63d963a9e9)
+[https://gteltsc.vn/blog/warning-new-attack-campaign-utilized-a-new-0day-rce-vulnerability-on-microsoft-exchange-server-12715.html](https://gteltsc.vn/blog/warning-new-attack-campaign-utilized-a-new-0day-rce-vulnerability-on-microsoft-exchange-server-12715.html)
+[https://twitter.com/GossiTheDog/status/1575580072961982464](https://twitter.com/GossiTheDog/status/1575580072961982464)
+
+...
+<!--more-->

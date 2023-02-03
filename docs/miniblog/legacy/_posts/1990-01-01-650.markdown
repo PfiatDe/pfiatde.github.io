@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A physical graffiti of LSASS: getting credentials from physical memory for fun and learning"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# A physical graffiti of LSASS: getting credentials from physical memory for fun and learning
+[https://adepts.of0x.cc/physical-graffiti-lsass/](https://adepts.of0x.cc/physical-graffiti-lsass/)
+[https://github.com/Adepts-Of-0xCC/SnoopyOwl](https://github.com/Adepts-Of-0xCC/SnoopyOwl)
+
+...
+<!--more-->

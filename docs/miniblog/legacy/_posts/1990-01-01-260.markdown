@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Technical Advisory – Arbitrary File Read in Dell Wyse Management Suite (CVE-2021-21586, CVE-2021-21587)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Technical Advisory – Arbitrary File Read in Dell Wyse Management Suite (CVE-2021-21586, CVE-2021-21587)
+[https://research.nccgroup.com/2021/07/06/technical-advisory-arbitrary-file-read-in-dell-wyse-management-suite-cve-2021-21586-cve-2021-21587/](https://research.nccgroup.com/2021/07/06/technical-advisory-arbitrary-file-read-in-dell-wyse-management-suite-cve-2021-21586-cve-2021-21587/)
+
+...
+<!--more-->

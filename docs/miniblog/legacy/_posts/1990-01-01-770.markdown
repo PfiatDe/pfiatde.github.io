@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Visual Studio Code: Remote Code Execution"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Visual Studio Code: Remote Code Execution
+[https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m](https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m)
+
+...
+<!--more-->

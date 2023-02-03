@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "RBCD on SPN-less users"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# RBCD on SPN-less users
+[https://www.thehacker.recipes/ad/movement/kerberos/delegations/rbcd#rbcd-on-spn-less-users](https://www.thehacker.recipes/ad/movement/kerberos/delegations/rbcd#rbcd-on-spn-less-users)
+[https://twitter.com/_nwodtuhs/status/1574163051019911168](https://twitter.com/_nwodtuhs/status/1574163051019911168)
+[https://github.com/GhostPack/Rubeus/pull/137](https://github.com/GhostPack/Rubeus/pull/137)
+[https://github.com/SecureAuthCorp/impacket/pull/1201](https://github.com/SecureAuthCorp/impacket/pull/1201)
+[https://github.com/SecureAuthCorp/impacket/pull/1202](https://github.com/SecureAuthCorp/impacket/pull/1202)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Windows LPE - Windows 10 1909 to 20H2 and Server Core 2004/20H2 (CVE-2021-33739)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows LPE - Windows 10 1909 to 20H2 and Server Core 2004/20H2 (CVE-2021-33739)
+[https://github.com/mavillon1/CVE-2021-33739-POC](https://github.com/mavillon1/CVE-2021-33739-POC)
+
+...
+<!--more-->

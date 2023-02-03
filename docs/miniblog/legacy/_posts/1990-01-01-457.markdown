@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Attacking With WebView2 Applications"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Attacking With WebView2 Applications
+[https://mrd0x.com/attacking-with-webview2-applications/?no-cache=1](https://mrd0x.com/attacking-with-webview2-applications/?no-cache=1)
+[https://github.com/mrd0x/WebView2-Cookie-Stealer](https://github.com/mrd0x/WebView2-Cookie-Stealer)
+
+...
+<!--more-->

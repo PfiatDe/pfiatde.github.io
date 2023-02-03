@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Disrupting a PyPI Software Supply Chain Threat Actor"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Disrupting a PyPI Software Supply Chain Threat Actor
+[https://blog.phylum.io/disrupting-a-software-supply-chain-threat-actor-building-a-botnet](https://blog.phylum.io/disrupting-a-software-supply-chain-threat-actor-building-a-botnet)
+
+...
+<!--more-->

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "AD CS"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AD CS
+[https://twitter.com/harmj0y/status/1423068145472901121](https://twitter.com/harmj0y/status/1423068145472901121)
+[https://twitter.com/tifkin_](https://twitter.com/tifkin_)
+[https://github.com/GhostPack/Certify](https://github.com/GhostPack/Certify)
+[https://github.com/GhostPack/ForgeCert](https://github.com/GhostPack/ForgeCert)
+
+...
+<!--more-->

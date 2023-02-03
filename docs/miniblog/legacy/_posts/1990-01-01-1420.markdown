@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The Unavoidable Pain Of Backups — Security Deep-Dive Into The Internals Of NetBackup"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Unavoidable Pain Of Backups — Security Deep-Dive Into The Internals Of NetBackup
+[https://airbus-seclab.github.io/netbackup/Hexacon2022-The_unavoidable_pain_of_backups_security_deep-dive_into_the_internals_of_NetBackup.pdf](https://airbus-seclab.github.io/netbackup/Hexacon2022-The_unavoidable_pain_of_backups_security_deep-dive_into_the_internals_of_NetBackup.pdf)
+
+...
+<!--more-->

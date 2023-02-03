@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Tentacle"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Tentacle
+[https://0xdf.gitlab.io/2021/06/19/htb-tentacle.html](https://0xdf.gitlab.io/2021/06/19/htb-tentacle.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "monomorph - MD5 Hash Collision"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# monomorph - MD5 Hash Collision
+[https://github.com/DavidBuchanan314/monomorph](https://github.com/DavidBuchanan314/monomorph)
+
+...
+<!--more-->

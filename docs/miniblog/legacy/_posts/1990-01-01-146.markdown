@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances
+[https://unit42.paloaltonetworks.com/azure-container-instances/](https://unit42.paloaltonetworks.com/azure-container-instances/)
+
+...
+<!--more-->

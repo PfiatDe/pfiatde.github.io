@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Improving the exploit for CVE-2021-26708 in the Linux kernel to bypass LKRG"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Improving the exploit for CVE-2021-26708 in the Linux kernel to bypass LKRG
+[https://a13xp0p0v.github.io/2021/08/25/lkrg-bypass.html](https://a13xp0p0v.github.io/2021/08/25/lkrg-bypass.html)
+[https://a13xp0p0v.github.io/2021/02/09/CVE-2021-26708.html](https://a13xp0p0v.github.io/2021/02/09/CVE-2021-26708.html)
+
+...
+<!--more-->

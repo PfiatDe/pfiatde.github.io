@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Microsoft Office Online Server Remote Code Execution"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Microsoft Office Online Server Remote Code Execution
+[https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/](https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/)
+
+...
+<!--more-->

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Microsoft is making it harder to steal Windows passwords from memory"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Microsoft is making it harder to steal Windows passwords from memory
+[https://www.bleepingcomputer.com/news/microsoft/microsoft-is-making-it-harder-to-steal-windows-passwords-from-memory/](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-making-it-harder-to-steal-windows-passwords-from-memory/)
+[https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-credential-stealing-from-the-windows-local-security-authority-subsystem](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-credential-stealing-from-the-windows-local-security-authority-subsystem)
+[https://github.com/commial/experiments/tree/master/windows-defender/ASR](https://github.com/commial/experiments/tree/master/windows-defender/ASR)
+[https://blog.sevagas.com/IMG/pdf/bypass_windows_defender_attack_surface_reduction.pdf](https://blog.sevagas.com/IMG/pdf/bypass_windows_defender_attack_surface_reduction.pdf)
+
+...
+<!--more-->

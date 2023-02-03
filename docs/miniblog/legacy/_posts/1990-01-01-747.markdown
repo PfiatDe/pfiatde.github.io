@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Debugging Protected Processes"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Debugging Protected Processes
+[https://itm4n.github.io/debugging-protected-processes/](https://itm4n.github.io/debugging-protected-processes/)
+[https://github.com/itm4n/PPLcontrol](https://github.com/itm4n/PPLcontrol)
+
+...
+<!--more-->

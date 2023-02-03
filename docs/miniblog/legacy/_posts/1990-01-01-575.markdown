@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Attack Surface Analysis - Part 2 - Custom Protocol Handlers"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Attack Surface Analysis - Part 2 - Custom Protocol Handlers
+[https://parsiya.net/blog/2021-03-17-attack-surface-analysis-part-2-custom-protocol-handlers/](https://parsiya.net/blog/2021-03-17-attack-surface-analysis-part-2-custom-protocol-handlers/)
+
+...
+<!--more-->

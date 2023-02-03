@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Undermining Microsoft Teams Security by Mining Tokens"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Undermining Microsoft Teams Security by Mining Tokens
+[https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens?utm_campaign=22Q3%20-%20%5BC%5D%20-%20WW%20-%20DR%20-%20Mining%20Tokens%20-%20blogblast%20-%20English&utm_medium=email&_hsmi=226732503&_hsenc=p2ANqtz--VhckYyitR9XjB2zci4omT2AxIXgmucKTRcv5iCKEQLlg0DvUSHo9xzybgcIIgAoRGGUg4sC8_ck5QWrE1eTvDl4NYiA&utm_content=226732503&utm_source=hs_email](https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens?utm_campaign=22Q3%20-%20%5BC%5D%20-%20WW%20-%20DR%20-%20Mining%20Tokens%20-%20blogblast%20-%20English&utm_medium=email&_hsmi=226732503&_hsenc=p2ANqtz--VhckYyitR9XjB2zci4omT2AxIXgmucKTRcv5iCKEQLlg0DvUSHo9xzybgcIIgAoRGGUg4sC8_ck5QWrE1eTvDl4NYiA&utm_content=226732503&utm_source=hs_email)
+
+...
+<!--more-->

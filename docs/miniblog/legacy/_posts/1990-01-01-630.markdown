@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Blackhat: Diving in to spooler: Discovering LPE and RCE Vulnerabilities in Windows Printer."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Blackhat: Diving in to spooler: Discovering LPE and RCE Vulnerabilities in Windows Printer.
+[https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Diving-Into-Spooler-Discovering-Lpe-And-Rce-Vulnerabilities-In-Windows-Printer.pdf](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Diving-Into-Spooler-Discovering-Lpe-And-Rce-Vulnerabilities-In-Windows-Printer.pdf)
+
+...
+<!--more-->

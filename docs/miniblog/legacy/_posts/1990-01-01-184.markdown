@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Former Ubiquiti employee charged with hacking and extorting company"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Former Ubiquiti employee charged with hacking and extorting company
+[https://therecord.media/former-ubiquiti-employee-charged-with-hacking-and-extorting-company/](https://therecord.media/former-ubiquiti-employee-charged-with-hacking-and-extorting-company/)
+[https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/](https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/)
+
+...
+<!--more-->

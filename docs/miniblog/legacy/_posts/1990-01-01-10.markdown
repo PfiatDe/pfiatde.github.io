@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Zero-Day Disclosure: Palo Alto Networks GlobalProtect VPN CVE-2021-3064"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Zero-Day Disclosure: Palo Alto Networks GlobalProtect VPN CVE-2021-3064
+[https://www.randori.com/blog/cve-2021-3064/](https://www.randori.com/blog/cve-2021-3064/)
+[https://www.randori.com/platform/](https://www.randori.com/platform/)
+
+...
+<!--more-->

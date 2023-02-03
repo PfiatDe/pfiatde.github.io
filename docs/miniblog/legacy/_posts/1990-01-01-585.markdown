@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Catching bugs in VMware: Carbon Black Cloud Workload Appliance and vRealize Operations Manager"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Catching bugs in VMware: Carbon Black Cloud Workload Appliance and vRealize Operations Manager
+[https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/](https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/)
+
+...
+<!--more-->

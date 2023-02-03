@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Responder and IPv6 attacks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Responder and IPv6 attacks
+[https://g-laurent.blogspot.com/2021/12/responder-and-ipv6-attacks.html](https://g-laurent.blogspot.com/2021/12/responder-and-ipv6-attacks.html)
+
+...
+<!--more-->

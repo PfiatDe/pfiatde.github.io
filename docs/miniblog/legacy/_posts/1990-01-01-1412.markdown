@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV
+[https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/)
+
+...
+<!--more-->

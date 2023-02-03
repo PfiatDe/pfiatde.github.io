@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Honeysploit: Exploiting the Exploiters"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Honeysploit: Exploiting the Exploiters
+[https://curtbraz.medium.com/exploiting-the-exploiters-46fd0d620fd8](https://curtbraz.medium.com/exploiting-the-exploiters-46fd0d620fd8)
+[https://patrickriggs.com/blog/a-tale-of-two-pocs-or-how-i-learned-to-stop-worrying-and-love-the-honeypot/](https://patrickriggs.com/blog/a-tale-of-two-pocs-or-how-i-learned-to-stop-worrying-and-love-the-honeypot/)
+
+...
+<!--more-->

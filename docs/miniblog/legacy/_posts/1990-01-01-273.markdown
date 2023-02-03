@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Go away BitLocker, you´re drunk"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Go away BitLocker, you´re drunk
+[https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/](https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/)
+
+...
+<!--more-->

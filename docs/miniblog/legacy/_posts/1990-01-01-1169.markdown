@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "They See Me Roaming: Following APT29 by Taking a Deeper Look at Windows Credential Roaming"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# They See Me Roaming: Following APT29 by Taking a Deeper Look at Windows Credential Roaming
+[https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming](https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming)
+
+...
+<!--more-->

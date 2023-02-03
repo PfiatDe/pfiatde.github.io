@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "BitLocker touch-device lockscreen bypass"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# BitLocker touch-device lockscreen bypass
+[https://secret.club/2021/01/29/touch-lockscreen-bypass.html](https://secret.club/2021/01/29/touch-lockscreen-bypass.html)
+
+...
+<!--more-->

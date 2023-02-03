@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Harvesting Active Directory credentials via HTTP Request Smuggling"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Harvesting Active Directory credentials via HTTP Request Smuggling
+[https://northwave-security.com/harvesting-active-directory-credentials-via-http-request-smuggling/](https://northwave-security.com/harvesting-active-directory-credentials-via-http-request-smuggling/)
+
+...
+<!--more-->

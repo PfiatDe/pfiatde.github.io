@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Internet Explorer 0-day exploited by North Korean actor APT37"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Internet Explorer 0-day exploited by North Korean actor APT37
+[https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/](https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/)
+[https://thehackernews.com/2022/12/google-warns-of-internet-explorer-zero.html](https://thehackernews.com/2022/12/google-warns-of-internet-explorer-zero.html)
+[https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2022/CVE-2022-41128.html](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2022/CVE-2022-41128.html)
+[https://github.com/blackorbird/APT_REPORT/tree/master/group123/IEexploit202212sample](https://github.com/blackorbird/APT_REPORT/tree/master/group123/IEexploit202212sample)
+
+...
+<!--more-->

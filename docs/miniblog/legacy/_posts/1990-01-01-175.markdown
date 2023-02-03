@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Vulnerability Spotlight: Multiple vulnerabilities in D-LINK DIR-3040"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Vulnerability Spotlight: Multiple vulnerabilities in D-LINK DIR-3040
+[https://blog.talosintelligence.com/2021/07/vuln-spotlight-d-link.html](https://blog.talosintelligence.com/2021/07/vuln-spotlight-d-link.html)
+[https://talosintelligence.com/vulnerability_reports/TALOS-2021-1285](https://talosintelligence.com/vulnerability_reports/TALOS-2021-1285)
+
+...
+<!--more-->

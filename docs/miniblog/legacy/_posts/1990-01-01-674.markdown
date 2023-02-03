@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE-2021-20038 - SonicWall VPN RCE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-20038 - SonicWall VPN RCE
+[https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038/rapid7-analysis](https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038/rapid7-analysis)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Assessing Standalone Managed Service Accounts"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Assessing Standalone Managed Service Accounts
+[https://simondotsh.com/infosec/2022/12/12/assessing-smsa.html](https://simondotsh.com/infosec/2022/12/12/assessing-smsa.html)
+
+...
+<!--more-->

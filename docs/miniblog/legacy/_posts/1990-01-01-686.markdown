@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Issue 1252074: Security: ChromeOS root command persistence"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Issue 1252074: Security: ChromeOS root command persistence
+[https://bugs.chromium.org/p/chromium/issues/detail?id=1252074](https://bugs.chromium.org/p/chromium/issues/detail?id=1252074)
+
+...
+<!--more-->

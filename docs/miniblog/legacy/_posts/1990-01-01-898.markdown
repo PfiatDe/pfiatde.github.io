@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Get root on macOS 13.0.1 with CVE-2022-46689 - macOS Dirty Cow bug"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Get root on macOS 13.0.1 with CVE-2022-46689 - macOS Dirty Cow bug
+[https://github.com/zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo)
+[https://worthdoingbadly.com/macdirtycow/](https://worthdoingbadly.com/macdirtycow/)
+[https://github.com/Neo23x0/signature-base/blob/master/yara/expl_macos_switcharoo_dec22.yar](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_macos_switcharoo_dec22.yar)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Scavenger: Misuse Error Handling Leading To QEMU/KVM Escape"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Scavenger: Misuse Error Handling Leading To QEMU/KVM Escape
+[https://github.com/hustdebug/scavenger](https://github.com/hustdebug/scavenger)
+[https://raw.githubusercontent.com/hustdebug/scavenger/main/as-21-Pan-Scavenger-Misuse-Error-Handling-Leading-To-QEMU-KVM-Escape.pdf](https://raw.githubusercontent.com/hustdebug/scavenger/main/as-21-Pan-Scavenger-Misuse-Error-Handling-Leading-To-QEMU-KVM-Escape.pdf)
+
+...
+<!--more-->

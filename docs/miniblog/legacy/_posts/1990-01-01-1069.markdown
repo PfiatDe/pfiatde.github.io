@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Sacrificing Suspended Processes"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Sacrificing Suspended Processes
+[https://www.optiv.com/insights/source-zero/blog/sacrificing-suspended-processes](https://www.optiv.com/insights/source-zero/blog/sacrificing-suspended-processes)
+[https://github.com/optiv/Freeze](https://github.com/optiv/Freeze)
+
+...
+<!--more-->

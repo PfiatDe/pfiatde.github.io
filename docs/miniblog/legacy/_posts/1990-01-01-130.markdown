@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Unmanaged Code Execution with .NET Dynamic PInvoke"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Unmanaged Code Execution with .NET Dynamic PInvoke
+[https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/](https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/)
+
+...
+<!--more-->

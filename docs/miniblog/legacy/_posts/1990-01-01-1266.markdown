@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Kerberos Relaying"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Kerberos Relaying
+[https://twitter.com/_xpn_/status/1461460037101146114/photo/1](https://twitter.com/_xpn_/status/1461460037101146114/photo/1)
+[https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html](https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html)
+
+...
+<!--more-->

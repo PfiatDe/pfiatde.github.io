@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Microsoft 365 OAuth Device Code Flow and Phishing"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Microsoft 365 OAuth Device Code Flow and Phishing
+[https://www.optiv.com/insights/source-zero/blog/microsoft-365-oauth-device-code-flow-and-phishing](https://www.optiv.com/insights/source-zero/blog/microsoft-365-oauth-device-code-flow-and-phishing)
+
+...
+<!--more-->

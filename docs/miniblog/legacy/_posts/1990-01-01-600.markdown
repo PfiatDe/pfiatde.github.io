@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2021-1499 - Cisco HyperFlex HX Data Platform RCE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-1499 - Cisco HyperFlex HX Data Platform RCE
+[https://attackerkb.com/topics/Z2MeUsvSlT/cve-2021-1499?referrer=home](https://attackerkb.com/topics/Z2MeUsvSlT/cve-2021-1499?referrer=home)
+[https://attackerkb.com/topics/mDqlWhQovO/cve-2021-1497?referrer=home](https://attackerkb.com/topics/mDqlWhQovO/cve-2021-1497?referrer=home)
+
+...
+<!--more-->

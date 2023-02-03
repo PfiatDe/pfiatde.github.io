@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "How to Hack APIs in 2021"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# How to Hack APIs in 2021
+[https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+
+...
+<!--more-->

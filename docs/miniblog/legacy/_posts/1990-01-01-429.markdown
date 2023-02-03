@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "How I Got Pwned by My Cloud Costs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# How I Got Pwned by My Cloud Costs
+[https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+
+...
+<!--more-->

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Linux kernel: Heap buffer overflow in fs_context.c since version 5.1"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Linux kernel: Heap buffer overflow in fs_context.c since version 5.1
+[https://seclists.org/oss-sec/2022/q1/54](https://seclists.org/oss-sec/2022/q1/54)
+[https://www.heise.de/news/Rechenfehler-im-Linux-Kernel-erlaubt-Rechteausweitung-6333365.html](https://www.heise.de/news/Rechenfehler-im-Linux-Kernel-erlaubt-Rechteausweitung-6333365.html)
+[https://twitter.com/ryaagard/status/1483592308352294917](https://twitter.com/ryaagard/status/1483592308352294917)
+[https://www.willsroot.io/2022/01/cve-2022-0185.html](https://www.willsroot.io/2022/01/cve-2022-0185.html)
+[https://www.openwall.com/lists/oss-security/2022/01/25/14](https://www.openwall.com/lists/oss-security/2022/01/25/14)
+
+...
+<!--more-->

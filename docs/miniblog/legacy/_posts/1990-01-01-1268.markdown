@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "CVE-2022-21970 - HTML Smuggeling Edge / Chrome"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-21970 - HTML Smuggeling Edge / Chrome
+[https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21970](https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21970)
+[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-21970](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-21970)
+[https://github.com/jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js)
+[https://github.com/eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js)
+
+...
+<!--more-->

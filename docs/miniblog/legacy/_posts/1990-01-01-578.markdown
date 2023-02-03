@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "malware_training_vol1"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# malware_training_vol1
+[https://github.com/hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "LPE Windows 10 - CVE-2021-1732"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# LPE Windows 10 - CVE-2021-1732
+[https://github.com/rapid7/metasploit-framework/pull/14907](https://github.com/rapid7/metasploit-framework/pull/14907)
+[https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/](https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/)
+
+...
+<!--more-->

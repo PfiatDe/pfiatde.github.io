@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Chromium: Same Origin Policy bypass within a single site a.k.a. "Google Roulette""
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Chromium: Same Origin Policy bypass within a single site a.k.a. "Google Roulette"
+[https://www.bentkowski.info/2022/11/google-roulette/](https://www.bentkowski.info/2022/11/google-roulette/)
+
+...
+<!--more-->

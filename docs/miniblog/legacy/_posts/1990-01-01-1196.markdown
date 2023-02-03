@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "PRINTING SHELLZ : HP Printer RCE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# PRINTING SHELLZ : HP Printer RCE
+[https://labs.f-secure.com/assets/BlogFiles/Printing-Shellz.pdf](https://labs.f-secure.com/assets/BlogFiles/Printing-Shellz.pdf)
+[https://www.golem.de/news/it-sicherheit-sicherheitsluecken-in-150-buero-druckern-von-hp-entdeckt-2111-161474.html](https://www.golem.de/news/it-sicherheit-sicherheitsluecken-in-150-buero-druckern-von-hp-entdeckt-2111-161474.html)
+
+...
+<!--more-->

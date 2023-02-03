@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bluffy the AV Slayer - Convert shellcode into different formats."
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Bluffy the AV Slayer - Convert shellcode into different formats.
+[https://ad-995.group/posts/bluffy/](https://ad-995.group/posts/bluffy/)
+[https://github.com/ad-995/bluffy](https://github.com/ad-995/bluffy)
+
+...
+<!--more-->

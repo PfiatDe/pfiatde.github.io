@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Anatomy of how you get pwned"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Anatomy of how you get pwned
+[https://blog.erratasec.com/2021/04/anatomy-of-how-you-get-pwned.html](https://blog.erratasec.com/2021/04/anatomy-of-how-you-get-pwned.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "OWASSRF: CrowdStrike Identifies New Exploit Method for Exchange Bypassing ProxyNotShell Mitigations"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# OWASSRF: CrowdStrike Identifies New Exploit Method for Exchange Bypassing ProxyNotShell Mitigations
+[https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/](https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/)
+
+...
+<!--more-->

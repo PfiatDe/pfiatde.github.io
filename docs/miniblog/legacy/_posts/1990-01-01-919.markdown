@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Put an io_uring on it: Exploiting the Linux Kernel - CVE-2021-41073"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Put an io_uring on it: Exploiting the Linux Kernel - CVE-2021-41073
+[https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
+[https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073](https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073)
+
+...
+<!--more-->

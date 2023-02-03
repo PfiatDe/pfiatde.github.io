@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Blackswan Technical Writeup (PDF) - Windows LPE "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Blackswan Technical Writeup (PDF) - Windows LPE 
+[https://hello.fieldeffect.com/hubfs/Blackswan/Blackswan_Technical_Write%20Up_Field_Effect.pdf](https://hello.fieldeffect.com/hubfs/Blackswan/Blackswan_Technical_Write%20Up_Field_Effect.pdf)
+[https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26442](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26442)
+
+...
+<!--more-->

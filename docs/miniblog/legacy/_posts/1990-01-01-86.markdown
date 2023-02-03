@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CVE-2022-21907 - HTTP Protocol Stack Remote Code Execution Vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-21907 - HTTP Protocol Stack Remote Code Execution Vulnerability
+[https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21907](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21907)
+[https://github.com/antx-code/CVE-2022-21907](https://github.com/antx-code/CVE-2022-21907)
+[https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907)
+
+...
+<!--more-->

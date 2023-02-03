@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Exploiting CVE-2021-43267 - Remote Linux Kernel Heap Overflow | TIPC Module Allows Arbitrary Code Execution"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Exploiting CVE-2021-43267 - Remote Linux Kernel Heap Overflow | TIPC Module Allows Arbitrary Code Execution
+[https://haxx.in/posts/pwning-tipc/](https://haxx.in/posts/pwning-tipc/)
+[https://haxx.in/files/blasty-vs-tipc.c](https://haxx.in/files/blasty-vs-tipc.c)
+[https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/](https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/)
+[https://twitter.com/i/status/1463527698756689921](https://twitter.com/i/status/1463527698756689921)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: StreamIO"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: StreamIO
+[https://0xdf.gitlab.io/2022/09/17/htb-streamio.html](https://0xdf.gitlab.io/2022/09/17/htb-streamio.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sitecore Experience Platform Pre-Auth RCE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Sitecore Experience Platform Pre-Auth RCE
+[https://blog.assetnote.io/2021/11/02/sitecore-rce/](https://blog.assetnote.io/2021/11/02/sitecore-rce/)
+
+...
+<!--more-->

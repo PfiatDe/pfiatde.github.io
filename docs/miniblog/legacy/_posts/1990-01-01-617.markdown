@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "AWS ECR Public Vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AWS ECR Public Vulnerability
+[https://blog.lightspin.io/aws-ecr-public-vulnerability](https://blog.lightspin.io/aws-ecr-public-vulnerability)
+
+...
+<!--more-->

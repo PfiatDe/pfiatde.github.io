@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Escalating from Logic App Contributor to Root Owner in Azure"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Escalating from Logic App Contributor to Root Owner in Azure
+[https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-logic-app-contributor-escalation-to-root-owner/](https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-logic-app-contributor-escalation-to-root-owner/)
+
+...
+<!--more-->

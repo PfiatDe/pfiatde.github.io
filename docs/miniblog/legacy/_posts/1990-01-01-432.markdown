@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "unauth RCE Western Digital PR4100 NAS - Your vulnerability is in another OEM! "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# unauth RCE Western Digital PR4100 NAS - Your vulnerability is in another OEM! 
+[https://www.synacktiv.com/publications/your-vulnerability-is-in-another-oem.html](https://www.synacktiv.com/publications/your-vulnerability-is-in-another-oem.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Universal Privilege Escalation and Persistence – Printer"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Universal Privilege Escalation and Persistence – Printer
+[https://pentestlab.blog/2021/08/02/universal-privilege-escalation-and-persistence-printer/](https://pentestlab.blog/2021/08/02/universal-privilege-escalation-and-persistence-printer/)
+
+...
+<!--more-->

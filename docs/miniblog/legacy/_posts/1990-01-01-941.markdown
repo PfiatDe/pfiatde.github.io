@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Killing Microsoft Defender for Endpoint - via MsMpLics.dll"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Killing Microsoft Defender for Endpoint - via MsMpLics.dll
+[https://securitybuffor.com/killing_defender_for_endpoint_1.html](https://securitybuffor.com/killing_defender_for_endpoint_1.html)
+[https://twitter.com/jonasLyk/status/1571771017919438851](https://twitter.com/jonasLyk/status/1571771017919438851)
+
+...
+<!--more-->

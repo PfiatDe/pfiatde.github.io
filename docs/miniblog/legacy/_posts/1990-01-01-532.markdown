@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CVE-2021-42321 - Exchange RCE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-42321 - Exchange RCE
+[https://gist.github.com/testanull/0188c1ae847f37a70fe536123d14f398](https://gist.github.com/testanull/0188c1ae847f37a70fe536123d14f398)
+[https://twitter.com/testanull/status/1462363736815988744](https://twitter.com/testanull/status/1462363736815988744)
+[https://peterjson.medium.com/some-notes-about-microsoft-exchange-deserialization-rce-cve-2021-42321-110d04e8852](https://peterjson.medium.com/some-notes-about-microsoft-exchange-deserialization-rce-cve-2021-42321-110d04e8852)
+
+...
+<!--more-->

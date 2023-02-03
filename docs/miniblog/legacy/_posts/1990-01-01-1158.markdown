@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "PrivEsc: Windows 7, Windows Server 2008R2, Windows 8, and Windows Server 2012"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# PrivEsc: Windows 7, Windows Server 2008R2, Windows 8, and Windows Server 2012
+[https://github.com/itm4n/Perfusion](https://github.com/itm4n/Perfusion)
+[https://itm4n.github.io/windows-registry-rpceptmapper-eop/](https://itm4n.github.io/windows-registry-rpceptmapper-eop/)
+
+...
+<!--more-->

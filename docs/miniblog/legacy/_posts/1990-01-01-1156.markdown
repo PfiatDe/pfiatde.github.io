@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "RCE für Windows via TTF"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# RCE für Windows via TTF
+[https://bugs.chromium.org/p/project-zero/issues/detail?id=2123](https://bugs.chromium.org/p/project-zero/issues/detail?id=2123)
+
+...
+<!--more-->

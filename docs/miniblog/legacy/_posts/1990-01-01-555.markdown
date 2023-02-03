@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Zooming in on Zero-click Exploits"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Zooming in on Zero-click Exploits
+[https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html](https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html)
+
+...
+<!--more-->

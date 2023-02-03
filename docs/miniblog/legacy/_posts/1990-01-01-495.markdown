@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "SharpSystemTriggers - Cross User DCOM Authentication Trigger"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SharpSystemTriggers - Cross User DCOM Authentication Trigger
+[https://twitter.com/cube0x0/status/1452029656115392516](https://twitter.com/cube0x0/status/1452029656115392516)
+[https://github.com/cube0x0/SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers)
+[https://github.com/antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
+
+...
+<!--more-->

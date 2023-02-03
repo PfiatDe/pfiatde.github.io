@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Enumeration and lateral movement in GCP environments"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Enumeration and lateral movement in GCP environments
+[https://securityshenanigans.medium.com/enumeration-and-lateral-movement-in-gcp-environments-c3b82d342794](https://securityshenanigans.medium.com/enumeration-and-lateral-movement-in-gcp-environments-c3b82d342794)
+[https://medium.com/@tomaszwybraniec/google-cloud-platform-pentest-notes-service-accounts-b960dc59d93a](https://medium.com/@tomaszwybraniec/google-cloud-platform-pentest-notes-service-accounts-b960dc59d93a)
+[https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/)
+
+...
+<!--more-->

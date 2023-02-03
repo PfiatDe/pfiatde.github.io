@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Introducing BloodHound 4.2 — The Azure Refactor"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Introducing BloodHound 4.2 — The Azure Refactor
+[https://posts.specterops.io/introducing-bloodhound-4-2-the-azure-refactor-1cff734938bd](https://posts.specterops.io/introducing-bloodhound-4-2-the-azure-refactor-1cff734938bd)
+[https://twitter.com/_dirkjan/status/1554895057957920768](https://twitter.com/_dirkjan/status/1554895057957920768)
+[https://github.com/fox-it/BloodHound.py](https://github.com/fox-it/BloodHound.py)
+
+...
+<!--more-->

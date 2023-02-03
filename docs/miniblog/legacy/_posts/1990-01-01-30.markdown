@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Coercing NTLM Authentication from SCCM"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Coercing NTLM Authentication from SCCM
+[https://posts.specterops.io/coercing-ntlm-authentication-from-sccm-e6e23ea8260a](https://posts.specterops.io/coercing-ntlm-authentication-from-sccm-e6e23ea8260a)
+[https://github.com/Mayyhem/SharpSCCM](https://github.com/Mayyhem/SharpSCCM)
+
+...
+<!--more-->

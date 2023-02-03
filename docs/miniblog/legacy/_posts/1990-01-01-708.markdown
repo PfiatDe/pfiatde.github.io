@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Converting C# Tools to PowerShell"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Converting C# Tools to PowerShell
+[https://icyguider.github.io/2022/01/03/Convert-CSharp-Tools-To-PowerShell.html](https://icyguider.github.io/2022/01/03/Convert-CSharp-Tools-To-PowerShell.html)
+[https://github.com/cfalta/PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury)
+[https://github.com/LuemmelSec/Pentest-Tools-Collection/blob/main/tools/convert_c%23_to_ps1.ps1](https://github.com/LuemmelSec/Pentest-Tools-Collection/blob/main/tools/convert_c%23_to_ps1.ps1)
+
+...
+<!--more-->

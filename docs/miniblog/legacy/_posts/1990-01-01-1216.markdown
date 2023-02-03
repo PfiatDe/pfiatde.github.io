@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Spoofing Calendar Invites Using .ics Files"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Spoofing Calendar Invites Using .ics Files
+[https://mrd0x.com/spoofing-calendar-invites-using-ics-files/](https://mrd0x.com/spoofing-calendar-invites-using-ics-files/)
+
+...
+<!--more-->

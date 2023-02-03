@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Rogue Assembly Hunter"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Rogue Assembly Hunter
+[https://github.com/bohops/RogueAssemblyHunter](https://github.com/bohops/RogueAssemblyHunter)
+[https://bohops.com/](https://bohops.com/)
+
+...
+<!--more-->

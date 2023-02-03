@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The Mac Malware of 2021 👾"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Mac Malware of 2021 👾
+[https://objective-see.com/blog/blog_0x6B.html](https://objective-see.com/blog/blog_0x6B.html)
+
+...
+<!--more-->

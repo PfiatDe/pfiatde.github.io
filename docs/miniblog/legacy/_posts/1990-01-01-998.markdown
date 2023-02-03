@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Certifried: Active Directory Domain Privilege Escalation (CVE-2022–26923)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Certifried: Active Directory Domain Privilege Escalation (CVE-2022–26923)
+[https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26923](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26923)
+[https://research.ifcr.dk/certifried-active-directory-domain-privilege-escalation-cve-2022-26923-9e098fe298f4](https://research.ifcr.dk/certifried-active-directory-domain-privilege-escalation-cve-2022-26923-9e098fe298f4)
+
+...
+<!--more-->

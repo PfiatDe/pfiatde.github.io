@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Mind the Gap"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Mind the Gap
+[https://googleprojectzero.blogspot.com/2022/11/mind-the-gap.html](https://googleprojectzero.blogspot.com/2022/11/mind-the-gap.html)
+
+...
+<!--more-->

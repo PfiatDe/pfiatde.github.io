@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Monitors"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Monitors
+[https://0xdf.gitlab.io/2021/10/09/htb-monitors.html](https://0xdf.gitlab.io/2021/10/09/htb-monitors.html)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Curious Case of the Password Database"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Curious Case of the Password Database
+[https://www.trustedsec.com/blog/the-curious-case-of-the-password-database/](https://www.trustedsec.com/blog/the-curious-case-of-the-password-database/)
+[https://github.com/trustedsec/Zoinks](https://github.com/trustedsec/Zoinks)
+
+...
+<!--more-->

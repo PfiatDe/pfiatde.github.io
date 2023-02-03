@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "MySQL Windows EoP"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# MySQL Windows EoP
+[https://www.kb.cert.org/vuls/id/567764](https://www.kb.cert.org/vuls/id/567764)
+
+...
+<!--more-->

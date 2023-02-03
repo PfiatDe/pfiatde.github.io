@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2022-3236: Sophos Firewall User Portal and Web Admin Code Injection"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-3236: Sophos Firewall User Portal and Web Admin Code Injection
+[https://www.zerodayinitiative.com/blog/2022/10/19/cve-2022-3236-sophos-firewall-user-portal-and-web-admin-code-injection](https://www.zerodayinitiative.com/blog/2022/10/19/cve-2022-3236-sophos-firewall-user-portal-and-web-admin-code-injection)
+[https://www.sophos.com/en-us/security-advisories/sophos-sa-20220923-sfos-rce](https://www.sophos.com/en-us/security-advisories/sophos-sa-20220923-sfos-rce)
+
+...
+<!--more-->

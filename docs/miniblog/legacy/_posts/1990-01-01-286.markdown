@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Kerberoast with OpSec"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Kerberoast with OpSec
+[https://m365internals.com/2021/11/08/kerberoast-with-opsec/](https://m365internals.com/2021/11/08/kerberoast-with-opsec/)
+
+...
+<!--more-->

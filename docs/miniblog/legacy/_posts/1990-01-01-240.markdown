@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Stealing passwords from infosec Mastodon - without bypassing CSP"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Stealing passwords from infosec Mastodon - without bypassing CSP
+[https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
+
+...
+<!--more-->

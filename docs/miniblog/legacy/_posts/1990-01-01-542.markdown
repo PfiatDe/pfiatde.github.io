@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "critical: Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.49 and 2.4.50 (incomplete fix of CVE-2021-41773) (CVE-2021-42013)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# critical: Path Traversal and Remote Code Execution in Apache HTTP Server 2.4.49 and 2.4.50 (incomplete fix of CVE-2021-41773) (CVE-2021-42013)
+[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42013](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42013)
+[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42013](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42013)
+[https://hackerone.com/reports/1400238](https://hackerone.com/reports/1400238)
+
+...
+<!--more-->

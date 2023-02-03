@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Managed Identity Attack Paths, Part 1: Automation Accounts"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Managed Identity Attack Paths, Part 1: Automation Accounts
+[https://posts.specterops.io/managed-identity-attack-paths-part-1-automation-accounts-82667d17187a](https://posts.specterops.io/managed-identity-attack-paths-part-1-automation-accounts-82667d17187a)
+
+...
+<!--more-->

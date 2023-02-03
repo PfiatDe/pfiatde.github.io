@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Reflective Code Loading in Linux — A New Defense Evasion Technique in MITRE ATT&CK v10"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Reflective Code Loading in Linux — A New Defense Evasion Technique in MITRE ATT&CK v10
+[https://medium.com/confluera-engineering/reflective-code-loading-in-linux-a-new-defense-evasion-technique-in-mitre-att-ck-v10-da7da34ed301](https://medium.com/confluera-engineering/reflective-code-loading-in-linux-a-new-defense-evasion-technique-in-mitre-att-ck-v10-da7da34ed301)
+
+...
+<!--more-->

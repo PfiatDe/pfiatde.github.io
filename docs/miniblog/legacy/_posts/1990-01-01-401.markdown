@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Anubis"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Anubis
+[https://0xdf.gitlab.io/2022/01/29/htb-anubis.html](https://0xdf.gitlab.io/2022/01/29/htb-anubis.html)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Save the Environment (Variable) - Windows DLL Highjacking"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Save the Environment (Variable) - Windows DLL Highjacking
+[https://www.wietzebeukema.nl/blog/save-the-environment-variables](https://www.wietzebeukema.nl/blog/save-the-environment-variables)
+
+...
+<!--more-->

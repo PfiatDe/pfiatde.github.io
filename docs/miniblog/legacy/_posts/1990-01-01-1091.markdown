@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Living-Off-the-Blindspot - Operating into EDRs’ blindspot"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Living-Off-the-Blindspot - Operating into EDRs’ blindspot
+[https://www.naksyn.com/edr%20evasion/2022/09/01/operating-into-EDRs-blindspot.html](https://www.naksyn.com/edr%20evasion/2022/09/01/operating-into-EDRs-blindspot.html)
+[https://github.com/naksyn/Pyramid](https://github.com/naksyn/Pyramid)
+[https://www.python.org/ftp/python/3.10.4/python-3.10.4-embed-amd64.zip](https://www.python.org/ftp/python/3.10.4/python-3.10.4-embed-amd64.zip)
+
+...
+<!--more-->

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "OfflineSAM Modification - Offline Attack Windows (Fremdbooten)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# OfflineSAM Modification - Offline Attack Windows (Fremdbooten)
+[https://twitter.com/0gtweet/status/1492997152792006661](https://twitter.com/0gtweet/status/1492997152792006661)
+[https://github.com/gtworek/PSBits/tree/master/OfflineSAM](https://github.com/gtworek/PSBits/tree/master/OfflineSAM)
+[https://www.youtube.com/watch?v=YHcwbrJoryE](https://www.youtube.com/watch?v=YHcwbrJoryE)
+
+...
+<!--more-->

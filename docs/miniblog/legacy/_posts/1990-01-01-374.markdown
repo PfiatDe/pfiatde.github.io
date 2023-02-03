@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "UDP Technology IP Camera vulnerabilities"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# UDP Technology IP Camera vulnerabilities
+[https://www.randorisec.fr/fr/udp-technology-ip-camera-vulnerabilities/](https://www.randorisec.fr/fr/udp-technology-ip-camera-vulnerabilities/)
+
+...
+<!--more-->

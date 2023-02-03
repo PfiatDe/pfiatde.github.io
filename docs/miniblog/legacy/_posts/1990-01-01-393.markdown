@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Pwn2Own’ing the TP-Link Archer A7 - CVE-2021-27246"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Pwn2Own’ing the TP-Link Archer A7 - CVE-2021-27246
+[https://www.synacktiv.com/sites/default/files/2021-08/Pwn2Owning_the_TP-Link_Archer_A7.pdf](https://www.synacktiv.com/sites/default/files/2021-08/Pwn2Owning_the_TP-Link_Archer_A7.pdf)
+[https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020](https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020)
+
+...
+<!--more-->

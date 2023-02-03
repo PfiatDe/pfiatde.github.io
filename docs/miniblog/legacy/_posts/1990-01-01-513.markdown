@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Creating Fully Undetectable Payload (FUD) with C"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Creating Fully Undetectable Payload (FUD) with C
+[https://medium.com/@lsecqt/creating-fully-undetectable-payload-fud-with-c-46a734837d1c](https://medium.com/@lsecqt/creating-fully-undetectable-payload-fud-with-c-46a734837d1c)
+
+...
+<!--more-->

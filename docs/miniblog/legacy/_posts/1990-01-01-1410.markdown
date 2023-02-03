@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Decrypt Kerberos/NTLM “encrypted stub data” in Wireshark"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Decrypt Kerberos/NTLM “encrypted stub data” in Wireshark
+[https://medium.com/tenable-techblog/decrypt-encrypted-stub-data-in-wireshark-deb132c076e7](https://medium.com/tenable-techblog/decrypt-encrypted-stub-data-in-wireshark-deb132c076e7)
+
+...
+<!--more-->

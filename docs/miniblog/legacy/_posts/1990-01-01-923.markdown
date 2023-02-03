@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Traitor - Linux LPE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Traitor - Linux LPE
+[https://github.com/liamg/traitor](https://github.com/liamg/traitor)
+[https://gtfobins.github.io/](https://gtfobins.github.io/)
+
+...
+<!--more-->

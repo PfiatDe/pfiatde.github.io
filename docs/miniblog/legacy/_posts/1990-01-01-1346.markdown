@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Group3r - AD GPO Enumeration Tool"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Group3r - AD GPO Enumeration Tool
+[https://github.com/Group3r/Group3r](https://github.com/Group3r/Group3r)
+
+...
+<!--more-->

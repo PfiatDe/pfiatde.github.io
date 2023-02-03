@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Nexus Dashboard Fabric Controller (aka DCNM) again w/ unauth web-to-root chain"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Nexus Dashboard Fabric Controller (aka DCNM) again w/ unauth web-to-root chain
+[https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md](https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md)
+
+...
+<!--more-->

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "KrbRelay - Kerberos relaying C#"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# KrbRelay - Kerberos relaying C#
+[https://github.com/cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay)
+[https://twitter.com/cube0x0/status/1493147701051072521](https://twitter.com/cube0x0/status/1493147701051072521)
+[https://raw.githubusercontent.com/cube0x0/KrbRelay/main/Images/demo.mp4](https://raw.githubusercontent.com/cube0x0/KrbRelay/main/Images/demo.mp4)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Obfuscating Malicious, Macro-Enabled Word Docs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Obfuscating Malicious, Macro-Enabled Word Docs
+[https://depthsecurity.com/blog/obfuscating-malicious-macro-enabled-word-docs](https://depthsecurity.com/blog/obfuscating-malicious-macro-enabled-word-docs)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Backdoor .NET assemblies with… dnSpy 🤔  "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Backdoor .NET assemblies with… dnSpy 🤔  
+[https://rastamouse.me/backdoor-net-assemblies-with-dnspy-%f0%9f%a4%94/](https://rastamouse.me/backdoor-net-assemblies-with-dnspy-%f0%9f%a4%94/)
+[https://github.com/dnSpyEx/dnSpy).](https://github.com/dnSpyEx/dnSpy).)
+
+...
+<!--more-->

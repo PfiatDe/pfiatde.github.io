@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "You Have One New Appwntment: Exploiting iCalendar Properties in Enterprise Applications"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# You Have One New Appwntment: Exploiting iCalendar Properties in Enterprise Applications
+[https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/](https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/)
+
+...
+<!--more-->

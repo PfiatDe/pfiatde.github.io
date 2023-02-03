@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Resource based constrained Delegation (RBCD) WebClient attack"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Resource based constrained Delegation (RBCD) WebClient attack
+[https://www.bussink.net/rbcd-webclient-attack/](https://www.bussink.net/rbcd-webclient-attack/)
+
+...
+<!--more-->

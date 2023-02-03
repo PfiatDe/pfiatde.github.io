@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Attacking Azure & Azure AD, Part II"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Attacking Azure & Azure AD, Part II
+[https://hausec.com/2021/10/26/attacking-azure-azure-ad-part-ii/](https://hausec.com/2021/10/26/attacking-azure-azure-ad-part-ii/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Breaking electron-store's encryption"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Breaking electron-store's encryption
+[https://blog.jse.li/posts/electron-store-encryption/](https://blog.jse.li/posts/electron-store-encryption/)
+
+...
+<!--more-->

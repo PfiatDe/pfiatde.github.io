@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The secrets of Schneider Electric’s UMAS protocol"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The secrets of Schneider Electric’s UMAS protocol
+[https://ics-cert.kaspersky.com/publications/reports/2022/09/29/the-secrets-of-schneider-electrics-umas-protocol/](https://ics-cert.kaspersky.com/publications/reports/2022/09/29/the-secrets-of-schneider-electrics-umas-protocol/)
+
+...
+<!--more-->

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Critical Remote Code Execution Vulnerability in SPNEGO Extended Negotiation Security Mechanism"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Critical Remote Code Execution Vulnerability in SPNEGO Extended Negotiation Security Mechanism
+[https://securityintelligence.com/posts/critical-remote-code-execution-vulnerability-spnego-extended-negotiation-security-mechanism/](https://securityintelligence.com/posts/critical-remote-code-execution-vulnerability-spnego-extended-negotiation-security-mechanism/)
+[https://twitter.com/chompie1337/status/1602757336908660736](https://twitter.com/chompie1337/status/1602757336908660736)
+[https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37958](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37958)
+
+...
+<!--more-->

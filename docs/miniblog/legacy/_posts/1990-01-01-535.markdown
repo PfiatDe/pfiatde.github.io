@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "TPM sniffing"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# TPM sniffing
+[https://blog.scrt.ch/2021/11/15/tpm-sniffing/](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)
+
+...
+<!--more-->

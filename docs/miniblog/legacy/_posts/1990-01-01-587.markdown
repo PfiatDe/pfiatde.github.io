@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Intro to Embedded RE Part 1: Tools and Series Overview"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Intro to Embedded RE Part 1: Tools and Series Overview
+[https://voidstarsec.com/blog//2022/01/17/intro-to-embedded-part-1](https://voidstarsec.com/blog//2022/01/17/intro-to-embedded-part-1)
+[https://voidstarsec.com/blog//2022/01/27/uart-uboot-and-usb](https://voidstarsec.com/blog//2022/01/27/uart-uboot-and-usb)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Fantastic Windows Logon types and Where to Find Credentials in Them"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Fantastic Windows Logon types and Where to Find Credentials in Them
+[https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
+
+...
+<!--more-->

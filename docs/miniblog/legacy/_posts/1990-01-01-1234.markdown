@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "PrintNightmare (CVE-2021-1675): Remote code execution in Windows Spooler Service"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# PrintNightmare (CVE-2021-1675): Remote code execution in Windows Spooler Service
+[https://twitter.com/blackorbird/status/1409794227731460100](https://twitter.com/blackorbird/status/1409794227731460100)
+[https://github.com/blackorbird/PrintNightmare](https://github.com/blackorbird/PrintNightmare)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Apache Tapestry - CVE-2021-27850 Exploit"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Apache Tapestry - CVE-2021-27850 Exploit
+[https://github.com/kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC)
+[https://github.com/apache/tapestry-5](https://github.com/apache/tapestry-5)
+
+...
+<!--more-->

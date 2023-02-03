@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Security issues related to the npm registry"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Security issues related to the npm registry
+[https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/)
+[https://bounty.github.com/](https://bounty.github.com/)
+
+...
+<!--more-->

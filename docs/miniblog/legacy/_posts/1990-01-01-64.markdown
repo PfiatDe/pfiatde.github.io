@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Follina — a Microsoft Office code execution vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Follina — a Microsoft Office code execution vulnerability
+[https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e](https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e)
+[https://github.com/JohnHammond/msdt-follina](https://github.com/JohnHammond/msdt-follina)
+[https://github.com/chvancooten/follina.py](https://github.com/chvancooten/follina.py)
+[https://twitter.com/an0n_r0/status/1531270512319528960](https://twitter.com/an0n_r0/status/1531270512319528960)
+[https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/](https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/)
+[https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug](https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "GoSecure Investigates Abusing Windows Server Update Services (WSUS) to Enable NTLM Relaying Attacks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# GoSecure Investigates Abusing Windows Server Update Services (WSUS) to Enable NTLM Relaying Attacks
+[https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/](https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/)
+[https://github.com/GoSecure/ldap-scanner](https://github.com/GoSecure/ldap-scanner)
+
+...
+<!--more-->

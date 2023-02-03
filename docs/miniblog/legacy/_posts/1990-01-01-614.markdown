@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Microsoft Wont-Fix-List"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Microsoft Wont-Fix-List
+[https://github.com/cfalta/MicrosoftWontFixList/blob/main/README.md](https://github.com/cfalta/MicrosoftWontFixList/blob/main/README.md)
+
+...
+<!--more-->

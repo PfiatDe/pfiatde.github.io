@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HTB: Ransom"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Ransom
+[https://0xdf.gitlab.io/2022/03/15/htb-ransom.html](https://0xdf.gitlab.io/2022/03/15/htb-ransom.html)
+[https://medium.com/@whickey000/how-i-cracked-conti-ransomware-groups-leaked-source-code-zip-file-e15d54663a8](https://medium.com/@whickey000/how-i-cracked-conti-ransomware-groups-leaked-source-code-zip-file-e15d54663a8)
+
+...
+<!--more-->

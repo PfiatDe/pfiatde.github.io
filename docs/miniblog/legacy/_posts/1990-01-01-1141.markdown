@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The Cyber Plumber's Handbook"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Cyber Plumber's Handbook
+[https://github.com/opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
+
+...
+<!--more-->

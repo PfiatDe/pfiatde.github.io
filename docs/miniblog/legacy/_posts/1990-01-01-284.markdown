@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Windows Quiz: Medium IL to High IL"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows Quiz: Medium IL to High IL
+[https://twitter.com/splinter_code/status/1457589164002643971](https://twitter.com/splinter_code/status/1457589164002643971)
+[https://www.youtube.com/watch?v=Or21ECvvOKs](https://www.youtube.com/watch?v=Or21ECvvOKs)
+[https://github.com/diversenok/TokenUniverse](https://github.com/diversenok/TokenUniverse)
+
+...
+<!--more-->

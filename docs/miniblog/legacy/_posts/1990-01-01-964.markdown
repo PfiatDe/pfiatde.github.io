@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "McAfee Agent könnte als Schlupfloch für Schadcode dienen"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# McAfee Agent könnte als Schlupfloch für Schadcode dienen
+[https://www.heise.de/news/McAfee-Agent-koennte-als-Schlupfloch-fuer-Schadcode-dienen-7193732.html](https://www.heise.de/news/McAfee-Agent-koennte-als-Schlupfloch-fuer-Schadcode-dienen-7193732.html)
+[https://kcm.trellix.com/corporate/index?page=content&id=SB10385](https://kcm.trellix.com/corporate/index?page=content&id=SB10385)
+
+...
+<!--more-->

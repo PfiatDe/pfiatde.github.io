@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Giving JuicyPotato a second chance: JuicyPotatoNG"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Giving JuicyPotato a second chance: JuicyPotatoNG
+[https://decoder.cloud/2022/09/21/giving-juicypotato-a-second-chance-juicypotatong/](https://decoder.cloud/2022/09/21/giving-juicypotato-a-second-chance-juicypotatong/)
+[https://github.com/antonioCoco/JuicyPotatoNG](https://github.com/antonioCoco/JuicyPotatoNG)
+
+...
+<!--more-->

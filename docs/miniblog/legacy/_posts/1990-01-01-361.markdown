@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Windows - PowerShell Jobs"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows - PowerShell Jobs
+[https://labs.jumpsec.com/powershell-jobs/](https://labs.jumpsec.com/powershell-jobs/)
+[https://labs.jumpsec.com/running-once-running-twice-pwned-windows-registry-run-keys/)](https://labs.jumpsec.com/running-once-running-twice-pwned-windows-registry-run-keys/))
+
+...
+<!--more-->

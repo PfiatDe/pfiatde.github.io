@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Exploit Development: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Exploit Development: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG
+[https://connormcgarr.github.io/hvci/](https://connormcgarr.github.io/hvci/)
+
+...
+<!--more-->

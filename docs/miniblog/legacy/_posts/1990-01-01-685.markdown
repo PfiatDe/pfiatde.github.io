@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit
+[https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/](https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/)
+[https://gist.github.com/D4stiny/4fd437bad4233856a7cebd42fb3057e5](https://gist.github.com/D4stiny/4fd437bad4233856a7cebd42fb3057e5)
+[https://github.com/rapid7/metasploit-framework/pull/15742](https://github.com/rapid7/metasploit-framework/pull/15742)
+
+...
+<!--more-->

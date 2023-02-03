@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Automated 0-day discovery in 2021: Squashing the low-hanging fruit in widespread embedded software"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Automated 0-day discovery in 2021: Squashing the low-hanging fruit in widespread embedded software
+[https://conference.hitb.org/hitbsecconf2021sin/materials/D2T1%20-%20Automated%200-day%20Discovery%20in%202021%20-%20%20Squashing%20the%20Low-hanging%20Fruit%20in%20Embedded%20Software%20-%20Daniel%20dos%20Santos%20&%20Shachar%20Menashe.pdf](https://conference.hitb.org/hitbsecconf2021sin/materials/D2T1%20-%20Automated%200-day%20Discovery%20in%202021%20-%20%20Squashing%20the%20Low-hanging%20Fruit%20in%20Embedded%20Software%20-%20Daniel%20dos%20Santos%20&%20Shachar%20Menashe.pdf)
+[http://example.org/path/to/file?param42](http://example.org/path/to/file?param42)
+
+...
+<!--more-->

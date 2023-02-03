@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "The Art of Bypassing Kerberoast Detections with Orpheus"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Art of Bypassing Kerberoast Detections with Orpheus
+[https://www.trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus/](https://www.trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus/)
+[https://github.com/trustedsec/orpheus](https://github.com/trustedsec/orpheus)
+[https://m365internals.com/2021/11/08/kerberoast-with-opsec/](https://m365internals.com/2021/11/08/kerberoast-with-opsec/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Capturing Detection Ideas to Improve Their Impact"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Capturing Detection Ideas to Improve Their Impact
+[https://cyb3rops.medium.com/capturing-detection-ideas-to-improve-their-impact-311cf4e1c7a8](https://cyb3rops.medium.com/capturing-detection-ideas-to-improve-their-impact-311cf4e1c7a8)
+
+...
+<!--more-->

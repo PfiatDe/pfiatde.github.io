@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "tinkershell - LPE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# tinkershell - LPE
+[https://github.com/stealth/tinkershell](https://github.com/stealth/tinkershell)
+
+...
+<!--more-->

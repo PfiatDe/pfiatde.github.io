@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "An EPYC escape: Case-study of a KVM breakout - CVE-2021-29657"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# An EPYC escape: Case-study of a KVM breakout - CVE-2021-29657
+[https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html](https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html)
+[https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a58d9166a756a0f4a6618e4f593232593d6df134](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a58d9166a756a0f4a6618e4f593232593d6df134)
+
+...
+<!--more-->

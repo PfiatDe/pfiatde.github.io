@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Weaponizing and Abusing Hidden FunctionalitiesContained in Office Document Properties"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Weaponizing and Abusing Hidden FunctionalitiesContained in Office Document Properties
+[https://www.offensive-security.com/offsec/macro-weaponization/](https://www.offensive-security.com/offsec/macro-weaponization/)
+
+...
+<!--more-->

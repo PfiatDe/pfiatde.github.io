@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NAME:WRECK - IoT DNS Exploits"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# NAME:WRECK - IoT DNS Exploits
+[https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations/](https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations/)
+
+...
+<!--more-->

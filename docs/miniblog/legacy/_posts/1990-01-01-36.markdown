@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Malicious Python Script Behaving Like a Rubber Ducky"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Malicious Python Script Behaving Like a Rubber Ducky
+[https://isc.sans.edu/diary/Malicious+Python+Script+Behaving+Like+a+Rubber+Ducky/28860](https://isc.sans.edu/diary/Malicious+Python+Script+Behaving+Like+a+Rubber+Ducky/28860)
+[https://pypi.org/project/PyAutoGUI/](https://pypi.org/project/PyAutoGUI/)
+
+...
+<!--more-->

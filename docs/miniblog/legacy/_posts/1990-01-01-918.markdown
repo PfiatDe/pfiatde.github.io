@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "TLStorm - Three critical vulnerabilities discovered in APC Smart-UPS devices"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# TLStorm - Three critical vulnerabilities discovered in APC Smart-UPS devices
+[https://www.armis.com/research/tlstorm/](https://www.armis.com/research/tlstorm/)
+
+...
+<!--more-->

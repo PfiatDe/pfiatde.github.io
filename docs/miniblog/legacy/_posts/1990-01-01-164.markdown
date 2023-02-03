@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Protecting Windows Credentials against Network Attacks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Protecting Windows Credentials against Network Attacks
+[https://securitycafe.ro/2021/12/02/protecting-windows-credentials-against-network-attacks/](https://securitycafe.ro/2021/12/02/protecting-windows-credentials-against-network-attacks/)
+
+...
+<!--more-->

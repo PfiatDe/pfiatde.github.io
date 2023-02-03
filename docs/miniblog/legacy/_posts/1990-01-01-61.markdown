@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Blind exploits to rule WatchGuard firewalls"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Blind exploits to rule WatchGuard firewalls
+[https://www.ambionics.io/blog/hacking-watchguard-firewalls](https://www.ambionics.io/blog/hacking-watchguard-firewalls)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Spoofing Microsoft 365 Like It’s 1995"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Spoofing Microsoft 365 Like It’s 1995
+[https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/](https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/)
+
+...
+<!--more-->

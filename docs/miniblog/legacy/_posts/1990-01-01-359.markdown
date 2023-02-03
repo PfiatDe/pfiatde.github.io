@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Azure AD introduction for red teamers "
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Azure AD introduction for red teamers 
+[https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html)
+
+...
+<!--more-->

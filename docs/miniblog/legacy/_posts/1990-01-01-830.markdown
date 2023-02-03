@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tech-support-scams für infosec"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Tech-support-scams für infosec
+[https://www.bleepingcomputer.com/news/security/hackers-impersonate-cybersecurity-firms-in-callback-phishing-attacks/](https://www.bleepingcomputer.com/news/security/hackers-impersonate-cybersecurity-firms-in-callback-phishing-attacks/)
+
+...
+<!--more-->

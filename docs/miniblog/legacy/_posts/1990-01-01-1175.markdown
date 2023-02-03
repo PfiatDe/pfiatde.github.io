@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Windows 10 RCE: The exploit is in the link"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows 10 RCE: The exploit is in the link
+[https://positive.security/blog/ms-officecmd-rce](https://positive.security/blog/ms-officecmd-rce)
+
+...
+<!--more-->

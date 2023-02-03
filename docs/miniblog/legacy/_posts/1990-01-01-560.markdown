@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "SeeYouCM-Thief: Exploiting common misconfigurations in Cisco phone systems"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SeeYouCM-Thief: Exploiting common misconfigurations in Cisco phone systems
+[https://www.trustedsec.com/blog/seeyoucm-thief-exploiting-common-misconfigurations-in-cisco-phone-systems/](https://www.trustedsec.com/blog/seeyoucm-thief-exploiting-common-misconfigurations-in-cisco-phone-systems/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Issue 2319: Cisco Jabber: XMPP Stanza Smuggling with stream:stream tag - CVE-2022-20917"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Issue 2319: Cisco Jabber: XMPP Stanza Smuggling with stream:stream tag - CVE-2022-20917
+[https://bugs.chromium.org/p/project-zero/issues/detail?id=2319](https://bugs.chromium.org/p/project-zero/issues/detail?id=2319)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Exploiting a Seagate service to create a SYSTEM shell (CVE-2022-40286)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Exploiting a Seagate service to create a SYSTEM shell (CVE-2022-40286)
+[https://www.x86matthew.com/view_post?id=windows_seagate_lpe](https://www.x86matthew.com/view_post?id=windows_seagate_lpe)
+[https://github.com/gabriel-sztejnworcel/pipe-intercept](https://github.com/gabriel-sztejnworcel/pipe-intercept)
+
+...
+<!--more-->

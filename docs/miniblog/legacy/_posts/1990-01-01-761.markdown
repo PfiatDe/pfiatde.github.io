@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Unrestricted file upload in Rocket TRUfusion Enterprise <= 7.9.6.0 - CVE-2022-36431"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Unrestricted file upload in Rocket TRUfusion Enterprise <= 7.9.6.0 - CVE-2022-36431
+[https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf](https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf)
+
+...
+<!--more-->

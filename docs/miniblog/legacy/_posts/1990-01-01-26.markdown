@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "GitHub Actions check-spelling community workflow - GITHUB_TOKEN leakage via advice.txt symlink"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# GitHub Actions check-spelling community workflow - GITHUB_TOKEN leakage via advice.txt symlink
+[https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md](https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md)
+
+...
+<!--more-->

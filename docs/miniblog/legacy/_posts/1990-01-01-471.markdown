@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Building a WebAuthn Click Farm — Are CAPTCHAs Obsolete?"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Building a WebAuthn Click Farm — Are CAPTCHAs Obsolete?
+[https://betterappsec.com/building-a-webauthn-click-farm-are-captchas-obsolete-bfab07bb798c](https://betterappsec.com/building-a-webauthn-click-farm-are-captchas-obsolete-bfab07bb798c)
+
+...
+<!--more-->

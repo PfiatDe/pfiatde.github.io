@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Looting Microsoft Configuration Manager"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Looting Microsoft Configuration Manager
+[https://labs.withsecure.com/publications/looting-microsoft-configuration-manager](https://labs.withsecure.com/publications/looting-microsoft-configuration-manager)
+[https://github.com/1njected/CMLoot](https://github.com/1njected/CMLoot)
+
+...
+<!--more-->

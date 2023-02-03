@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ExifTool 7.44 to 12.23 has a bug in the DjVu module which allows for >arbitrary code execution when parsing malicious images. - CVE-2021-22204"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ExifTool 7.44 to 12.23 has a bug in the DjVu module which allows for >arbitrary code execution when parsing malicious images. - CVE-2021-22204
+[https://www.openwall.com/lists/oss-security/2021/05/10/5](https://www.openwall.com/lists/oss-security/2021/05/10/5)
+[https://github.com/rapid7/metasploit-framework/pull/15185](https://github.com/rapid7/metasploit-framework/pull/15185)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Introducing Pretender - Your New Sidekick for Relaying Attacks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Introducing Pretender - Your New Sidekick for Relaying Attacks
+[https://blog.redteam-pentesting.de/2022/introducing-pretender/](https://blog.redteam-pentesting.de/2022/introducing-pretender/)
+[https://github.com/RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender)
+
+...
+<!--more-->

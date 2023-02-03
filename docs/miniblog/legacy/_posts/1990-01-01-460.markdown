@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "RDCMan v2.8"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# RDCMan v2.8
+[https://docs.microsoft.com/en-us/sysinternals/downloads/rdcman](https://docs.microsoft.com/en-us/sysinternals/downloads/rdcman)
+[https://twitter.com/markrussinovich/status/1407402603458088960](https://twitter.com/markrussinovich/status/1407402603458088960)
+[https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20210622](https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20210622)
+[https://user-images.githubusercontent.com/2307945/122993837-11b56880-d3a8-11eb-970f-670af5e15f06.png](https://user-images.githubusercontent.com/2307945/122993837-11b56880-d3a8-11eb-970f-670af5e15f06.png)
+
+...
+<!--more-->

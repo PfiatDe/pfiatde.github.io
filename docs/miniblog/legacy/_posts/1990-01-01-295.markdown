@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "AMSI-ETW-Patch - 1 Byte Memory patch"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AMSI-ETW-Patch - 1 Byte Memory patch
+[https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch](https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch)
+[https://twitter.com/MrUn1k0d3r/status/1590755697746415616](https://twitter.com/MrUn1k0d3r/status/1590755697746415616)
+
+...
+<!--more-->

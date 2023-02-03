@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Car Hacking - SiriusXM Telemetry"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Car Hacking - SiriusXM Telemetry
+[https://threadreaderapp.com/thread/1597792097175674880.html](https://threadreaderapp.com/thread/1597792097175674880.html)
+
+...
+<!--more-->

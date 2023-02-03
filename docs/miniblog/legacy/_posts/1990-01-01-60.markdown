@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Issue 2254: Zoom: Remote Code Execution with XMPP Stanza Smuggling"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Issue 2254: Zoom: Remote Code Execution with XMPP Stanza Smuggling
+[https://bugs.chromium.org/p/project-zero/issues/detail?id=2254](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
+
+...
+<!--more-->

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Driver-Based Attacks: Past and Present - BYOVD - Windows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Driver-Based Attacks: Past and Present - BYOVD - Windows
+[https://www.rapid7.com/blog/post/2021/12/13/driver-based-attacks-past-and-present/](https://www.rapid7.com/blog/post/2021/12/13/driver-based-attacks-past-and-present/)
+[https://github.com/jbaines-r7/dellicious](https://github.com/jbaines-r7/dellicious)
+[https://attack.mitre.org/techniques/T1068/](https://attack.mitre.org/techniques/T1068/)
+[https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/manage/dell_memory_protect.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/manage/dell_memory_protect.rb)
+
+...
+<!--more-->

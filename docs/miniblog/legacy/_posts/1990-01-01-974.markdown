@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Efficient Infrastructure Testing"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Efficient Infrastructure Testing
+[https://www.pentestpartners.com/security-blog/efficient-infrastructure-testing/](https://www.pentestpartners.com/security-blog/efficient-infrastructure-testing/)
+[https://github.com/ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)
+
+...
+<!--more-->

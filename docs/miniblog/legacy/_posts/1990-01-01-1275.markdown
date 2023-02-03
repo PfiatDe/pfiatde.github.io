@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Little #printnightmare (ep 4.3) upgrade : user-to-system as a service"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Little #printnightmare (ep 4.3) upgrade : user-to-system as a service
+[https://twitter.com/gentilkiwi/status/1420069224106577927](https://twitter.com/gentilkiwi/status/1420069224106577927)
+
+...
+<!--more-->

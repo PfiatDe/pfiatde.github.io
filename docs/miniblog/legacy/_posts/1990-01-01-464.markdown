@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761
+[https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
+
+...
+<!--more-->

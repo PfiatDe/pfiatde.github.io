@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "BumbleBee Roasts Its Way to Domain Admin"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# BumbleBee Roasts Its Way to Domain Admin
+[https://thedfirreport.com/2022/08/08/bumblebee-roasts-its-way-to-domain-admin/](https://thedfirreport.com/2022/08/08/bumblebee-roasts-its-way-to-domain-admin/)
+
+...
+<!--more-->

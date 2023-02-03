@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Build your own WiFi Pineapple Tetra for $7!"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Build your own WiFi Pineapple Tetra for $7!
+[https://samy.link/blog/build-your-own-wifi-pineapple-tetra-for-7](https://samy.link/blog/build-your-own-wifi-pineapple-tetra-for-7)
+
+...
+<!--more-->

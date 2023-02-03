@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Nighthawk Sample removed from VirusTotal because of Copyright"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Nighthawk Sample removed from VirusTotal because of Copyright
+[https://twitter.com/domchell/status/1595129874322448384](https://twitter.com/domchell/status/1595129874322448384)
+
+...
+<!--more-->

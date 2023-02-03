@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "EDR Parallel-asis through Analysis"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# EDR Parallel-asis through Analysis
+[https://www.mdsec.co.uk/2022/01/edr-parallel-asis-through-analysis/](https://www.mdsec.co.uk/2022/01/edr-parallel-asis-through-analysis/)
+[https://github.com/mdsecactivebreach/ParallelSyscalls/](https://github.com/mdsecactivebreach/ParallelSyscalls/)
+[https://github.com/cube0x0/ParallelSyscalls](https://github.com/cube0x0/ParallelSyscalls)
+
+...
+<!--more-->

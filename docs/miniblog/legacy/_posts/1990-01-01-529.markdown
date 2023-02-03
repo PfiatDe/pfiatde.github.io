@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Is exploiting a null pointer deref for LPE just a pipe dream? - WIndows LPE"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Is exploiting a null pointer deref for LPE just a pipe dream? - WIndows LPE
+[https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream](https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream)
+
+...
+<!--more-->

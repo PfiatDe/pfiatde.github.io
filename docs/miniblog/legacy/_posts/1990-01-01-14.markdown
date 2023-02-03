@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "1001 ways to PWN prod - A tale of 60 RCE in 60 minutes"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# 1001 ways to PWN prod - A tale of 60 RCE in 60 minutes
+[https://thinkloveshare.com/hacking/1001_ways_to_pwn_prod/](https://thinkloveshare.com/hacking/1001_ways_to_pwn_prod/)
+
+...
+<!--more-->

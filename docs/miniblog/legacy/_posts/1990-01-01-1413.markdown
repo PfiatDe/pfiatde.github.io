@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "WAM BAM - Recovering Web Tokens From Office"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# WAM BAM - Recovering Web Tokens From Office
+[https://blog.xpnsec.com/wam-bam/](https://blog.xpnsec.com/wam-bam/)
+[https://github.com/xpn/WAMBam](https://github.com/xpn/WAMBam)
+[https://mrd0x.com/stealing-tokens-from-office-applications/](https://mrd0x.com/stealing-tokens-from-office-applications/)
+
+...
+<!--more-->

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CdpSvcLPE - WIndows LPE - Writeable SYSTEM path Dll Hijacking)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CdpSvcLPE - WIndows LPE - Writeable SYSTEM path Dll Hijacking)
+[https://github.com/sailay1996/CdpSvcLPE](https://github.com/sailay1996/CdpSvcLPE)
+[https://www.youtube.com/watch?v=Jfxfsc04H5o&feature=youtu.be](https://www.youtube.com/watch?v=Jfxfsc04H5o&feature=youtu.be)
+[https://gist.github.com/wdormann/eb714d1d935bf454eb419a34be266f6f](https://gist.github.com/wdormann/eb714d1d935bf454eb419a34be266f6f)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Rooting Gryphon Routers via Shared VPN"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Rooting Gryphon Routers via Shared VPN
+[https://medium.com/tenable-techblog/rooting-gryphon-routers-via-shared-vpn-a8b133ec3d58](https://medium.com/tenable-techblog/rooting-gryphon-routers-via-shared-vpn-a8b133ec3d58)
+
+...
+<!--more-->

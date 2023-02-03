@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Process Ghosting - Windows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Process Ghosting - Windows
+[https://pentestlaboratories.com/2021/12/08/process-ghosting/](https://pentestlaboratories.com/2021/12/08/process-ghosting/)
+[https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack](https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack)
+[https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-zwsetinformationfile](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-zwsetinformationfile)
+
+...
+<!--more-->

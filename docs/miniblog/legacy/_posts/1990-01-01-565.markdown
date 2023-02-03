@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "From Zero to Domain Admin - DFIR Report"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# From Zero to Domain Admin - DFIR Report
+[https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/](https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/)
+
+...
+<!--more-->

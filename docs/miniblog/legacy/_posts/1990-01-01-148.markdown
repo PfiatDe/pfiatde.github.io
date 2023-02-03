@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CVE-2020-28243 SaltStack Minion Local Privilege Escalation"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2020-28243 SaltStack Minion Local Privilege Escalation
+[https://sec.stealthcopter.com/cve-2020-28243/](https://sec.stealthcopter.com/cve-2020-28243/)
+[https://github.com/stealthcopter/CVE-2020-28243](https://github.com/stealthcopter/CVE-2020-28243)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Discovering Domains via a Timing Attack on Certificate Transparency"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Discovering Domains via a Timing Attack on Certificate Transparency
+[https://swarm.ptsecurity.com/discovering-domains-via-timing-attack/](https://swarm.ptsecurity.com/discovering-domains-via-timing-attack/)
+
+...
+<!--more-->

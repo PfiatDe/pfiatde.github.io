@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Windows EoP via USB Device"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows EoP via USB Device
+[https://twitter.com/j0nh4t/status/1429049506021138437](https://twitter.com/j0nh4t/status/1429049506021138437)
+[https://twitter.com/UK_Daniel_Card/status/1429412518057988098](https://twitter.com/UK_Daniel_Card/status/1429412518057988098)
+[https://www.blackhat.com/docs/us-15/materials/us-15-Stone-WSUSpect-Compromising-Windows-Enterprise-Via-Windows-Update.pdf](https://www.blackhat.com/docs/us-15/materials/us-15-Stone-WSUSpect-Compromising-Windows-Enterprise-Via-Windows-Update.pdf)
+
+...
+<!--more-->

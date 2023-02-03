@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "CVE-2022-22536 - SAP memory pipes desynchronization vulnerability(MPI) CVE-2022-22536"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-22536 - SAP memory pipes desynchronization vulnerability(MPI) CVE-2022-22536
+[https://github.com/antx-code/CVE-2022-22536](https://github.com/antx-code/CVE-2022-22536)
+[https://thecyphere.com/blog/icmad-sap-vulnerability/](https://thecyphere.com/blog/icmad-sap-vulnerability/)
+[https://www.tenable.com/blog/cve-2022-22536-sap-patches-internet-communication-manager-advanced-desync-icmad](https://www.tenable.com/blog/cve-2022-22536-sap-patches-internet-communication-manager-advanced-desync-icmad)
+[https://www.tenable.com/plugins/nessus/157848](https://www.tenable.com/plugins/nessus/157848)
+
+...
+<!--more-->

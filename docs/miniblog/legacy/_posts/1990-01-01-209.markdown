@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "When Pentest Tools Go Brutal: Red-Teaming Tool Being Abused by Malicious Actors"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# When Pentest Tools Go Brutal: Red-Teaming Tool Being Abused by Malicious Actors
+[https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/](https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/)
+[https://twitter.com/wdormann/status/1544358053914591235](https://twitter.com/wdormann/status/1544358053914591235)
+
+...
+<!--more-->

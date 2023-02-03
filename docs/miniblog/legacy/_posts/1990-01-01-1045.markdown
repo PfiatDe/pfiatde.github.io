@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "QNAP Poisoned XML Command Injection (Silently Patched)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# QNAP Poisoned XML Command Injection (Silently Patched)
+[https://www.rapid7.com/blog/post/2022/08/04/qnap-poisoned-xml-command-injection-silently-patched/](https://www.rapid7.com/blog/post/2022/08/04/qnap-poisoned-xml-command-injection-silently-patched/)
+
+...
+<!--more-->

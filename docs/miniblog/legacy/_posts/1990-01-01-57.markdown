@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Incident Response in AWS"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Incident Response in AWS
+[https://www.chrisfarris.com/post/aws-ir/](https://www.chrisfarris.com/post/aws-ir/)
+
+...
+<!--more-->

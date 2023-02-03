@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "[CVE-2021-42008] Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# [CVE-2021-42008] Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver
+[https://syst3mfailure.io/sixpack-slab-out-of-bounds](https://syst3mfailure.io/sixpack-slab-out-of-bounds)
+[https://syst3mfailure.io/assets/files/cve_2021_42008/6pack_exploit.c](https://syst3mfailure.io/assets/files/cve_2021_42008/6pack_exploit.c)
+
+...
+<!--more-->

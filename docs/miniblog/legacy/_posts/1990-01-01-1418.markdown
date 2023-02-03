@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Perspective"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Perspective
+[https://0xdf.gitlab.io/2022/10/15/htb-perspective.html](https://0xdf.gitlab.io/2022/10/15/htb-perspective.html)
+
+...
+<!--more-->

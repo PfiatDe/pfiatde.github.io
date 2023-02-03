@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Google Chrome NTP XSS via Google Search CSRF"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Google Chrome NTP XSS via Google Search CSRF
+[https://bugs.chromium.org/p/chromium/issues/detail?id=1251541](https://bugs.chromium.org/p/chromium/issues/detail?id=1251541)
+
+...
+<!--more-->

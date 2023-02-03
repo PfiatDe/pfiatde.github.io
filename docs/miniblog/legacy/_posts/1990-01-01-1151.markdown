@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Minion"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Minion
+[https://0xdf.gitlab.io/2022/04/07/htb-minion.html](https://0xdf.gitlab.io/2022/04/07/htb-minion.html)
+
+...
+<!--more-->

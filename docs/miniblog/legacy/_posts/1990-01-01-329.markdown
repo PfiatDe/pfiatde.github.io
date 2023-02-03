@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ELECTRIC CHROME - CVE-2020-6418 on Tesla Model 3"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ELECTRIC CHROME - CVE-2020-6418 on Tesla Model 3
+[https://leethax0.rs/2021/04/ElectricChrome/](https://leethax0.rs/2021/04/ElectricChrome/)
+
+...
+<!--more-->

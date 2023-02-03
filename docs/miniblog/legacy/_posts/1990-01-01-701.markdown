@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "SCCM passwords & #mimikatz"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SCCM passwords & #mimikatz
+[https://twitter.com/hashtag/mimikatz?src=hashtag_click](https://twitter.com/hashtag/mimikatz?src=hashtag_click)
+[https://twitter.com/gentilkiwi/status/1392594113745362946/photo/1](https://twitter.com/gentilkiwi/status/1392594113745362946/photo/1)
+[https://rzander.azurewebsites.net/network-access-accounts-are-evil/](https://rzander.azurewebsites.net/network-access-accounts-are-evil/)
+
+...
+<!--more-->

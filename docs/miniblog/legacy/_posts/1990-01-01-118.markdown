@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sophos UTM Preauth RCE: A Deep Dive into CVE-2020-25223"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Sophos UTM Preauth RCE: A Deep Dive into CVE-2020-25223
+[https://www.atredis.com/blog/2021/8/18/sophos-utm-cve-2020-25223](https://www.atredis.com/blog/2021/8/18/sophos-utm-cve-2020-25223)
+
+...
+<!--more-->

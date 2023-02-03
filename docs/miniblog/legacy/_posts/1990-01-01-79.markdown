@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "I feel a draft. Opening the doors and windows - 0-click RCE on the Tesla Model3"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# I feel a draft. Opening the doors and windows - 0-click RCE on the Tesla Model3
+[https://www.synacktiv.com/sites/default/files/2022-10/tesla_hexacon.pdf](https://www.synacktiv.com/sites/default/files/2022-10/tesla_hexacon.pdf)
+[https://twitter.com/abu_y0ussef/status/1542830142904582147](https://twitter.com/abu_y0ussef/status/1542830142904582147)
+
+...
+<!--more-->

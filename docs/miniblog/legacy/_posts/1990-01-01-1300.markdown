@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Insecure Comments - MS Office"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Insecure Comments - MS Office
+[https://mearegtu.medium.com/insecure-comments-73399193f804](https://mearegtu.medium.com/insecure-comments-73399193f804)
+
+...
+<!--more-->

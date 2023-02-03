@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "VMWare Horizon anfällig für log4shell"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# VMWare Horizon anfällig für log4shell
+[https://www.bleepingcomputer.com/news/security/iranian-hackers-target-vmware-horizon-servers-with-log4j-exploits/](https://www.bleepingcomputer.com/news/security/iranian-hackers-target-vmware-horizon-servers-with-log4j-exploits/)
+
+...
+<!--more-->

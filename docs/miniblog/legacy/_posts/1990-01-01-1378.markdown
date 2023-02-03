@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Detecting and preventing LSASS credential dumping attacks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Detecting and preventing LSASS credential dumping attacks
+[https://www.microsoft.com/security/blog/2022/10/05/detecting-and-preventing-lsass-credential-dumping-attacks/](https://www.microsoft.com/security/blog/2022/10/05/detecting-and-preventing-lsass-credential-dumping-attacks/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "RCE in Adobe Acrobat Reader for android(CVE-2021-40724)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# RCE in Adobe Acrobat Reader for android(CVE-2021-40724)
+[https://hulkvision.github.io/blog/post1/](https://hulkvision.github.io/blog/post1/)
+
+...
+<!--more-->

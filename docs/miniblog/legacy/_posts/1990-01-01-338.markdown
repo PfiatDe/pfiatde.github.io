@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "CVE-2022-44142 - New Samba Bug Allows Remote Attackers to Execute Arbitrary Code as Root"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-44142 - New Samba Bug Allows Remote Attackers to Execute Arbitrary Code as Root
+[https://thehackernews.com/2022/01/new-samba-bug-allows-remote-attackers.html](https://thehackernews.com/2022/01/new-samba-bug-allows-remote-attackers.html)
+[https://thehackernews.com/2022/01/new-samba-bug-allows-remote-attackers.html](https://thehackernews.com/2022/01/new-samba-bug-allows-remote-attackers.html)
+[https://www.samba.org/samba/security/CVE-2021-44142.html](https://www.samba.org/samba/security/CVE-2021-44142.html)
+
+...
+<!--more-->

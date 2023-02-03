@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Account hijacking using "dirty dancing" in sign-in OAuth-flows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Account hijacking using "dirty dancing" in sign-in OAuth-flows
+[https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/](https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/)
+[https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/#how-to-reduce-the-risk](https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/#how-to-reduce-the-risk)
+
+...
+<!--more-->

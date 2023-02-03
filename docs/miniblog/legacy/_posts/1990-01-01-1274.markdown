@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ACHTUNG"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ACHTUNG
+[https://github.com/Hackndo/lsassy/blob/master/lsassy/exec/taskexe.py](https://github.com/Hackndo/lsassy/blob/master/lsassy/exec/taskexe.py)
+
+...
+<!--more-->

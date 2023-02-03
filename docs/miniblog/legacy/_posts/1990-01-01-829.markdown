@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Maelstrom: EDR Kernel Callbacks, Hooks, and Call Stacks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Maelstrom: EDR Kernel Callbacks, Hooks, and Call Stacks
+[https://pre.empt.dev/posts/maelstrom-edr-kernel-callbacks-hooks-and-callstacks/](https://pre.empt.dev/posts/maelstrom-edr-kernel-callbacks-hooks-and-callstacks/)
+[https://twitter.com/ShitSecure/status/1546739757283262466](https://twitter.com/ShitSecure/status/1546739757283262466)
+
+...
+<!--more-->

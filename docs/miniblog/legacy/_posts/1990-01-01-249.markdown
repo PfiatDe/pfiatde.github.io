@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "UNORTHODOX LATERAL MOVEMENT:"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# UNORTHODOX LATERAL MOVEMENT:
+[https://raw.githubusercontent.com/RiccardoAncarani/talks/master/F-Secure/unorthodox-lateral-movement.pdf](https://raw.githubusercontent.com/RiccardoAncarani/talks/master/F-Secure/unorthodox-lateral-movement.pdf)
+
+...
+<!--more-->

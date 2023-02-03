@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Why the best kind of cybersecurity is Open Security"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Why the best kind of cybersecurity is Open Security
+[https://www.elastic.co/blog/why-the-best-kind-of-cybersecurity-is-open-security](https://www.elastic.co/blog/why-the-best-kind-of-cybersecurity-is-open-security)
+[https://twitter.com/GossiTheDog/status/1555094285497810944](https://twitter.com/GossiTheDog/status/1555094285497810944)
+[https://github.com/elastic/protections-artifacts](https://github.com/elastic/protections-artifacts)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The github.dev web-based editor"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The github.dev web-based editor
+[https://docs.github.com/en/codespaces/the-githubdev-web-based-editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
+[https://github.com/klezVirus/SharpSelfDelete](https://github.com/klezVirus/SharpSelfDelete)
+
+...
+<!--more-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "MS Defender Bypass comsvcs - mal wieder"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# MS Defender Bypass comsvcs - mal wieder
+[https://twitter.com/cyb3rops/status/1468185710687567872/photo/1](https://twitter.com/cyb3rops/status/1468185710687567872/photo/1)
+[http://www.hexacorn.com/blog/2020/02/05/stay-positive-lolbins-not/](http://www.hexacorn.com/blog/2020/02/05/stay-positive-lolbins-not/)
+
+...
+<!--more-->

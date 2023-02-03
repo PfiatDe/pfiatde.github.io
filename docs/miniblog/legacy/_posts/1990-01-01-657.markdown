@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "HTB: Attended"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Attended
+[https://0xdf.gitlab.io/2021/05/08/htb-attended.html](https://0xdf.gitlab.io/2021/05/08/htb-attended.html)
+[https://twitter.com/ippsec/status/1391045829792829452](https://twitter.com/ippsec/status/1391045829792829452)
+[https://www.youtube.com/watch?v=ABVR8EgXsQU](https://www.youtube.com/watch?v=ABVR8EgXsQU)
+
+...
+<!--more-->

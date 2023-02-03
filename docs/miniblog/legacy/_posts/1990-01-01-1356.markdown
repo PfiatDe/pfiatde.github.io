@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Security tools showcased at Black Hat USA 2021"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Security tools showcased at Black Hat USA 2021
+[https://therecord.media/security-tools-showcased-at-black-hat-usa-2021/](https://therecord.media/security-tools-showcased-at-black-hat-usa-2021/)
+
+...
+<!--more-->

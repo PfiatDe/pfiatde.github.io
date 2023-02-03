@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "CVE-2022-21882 - LPE Windows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2022-21882 - LPE Windows
+[https://github.com/KaLendsi/CVE-2022-21882](https://github.com/KaLendsi/CVE-2022-21882)
+[https://github.com/L4ys/CVE-2022-21882](https://github.com/L4ys/CVE-2022-21882)
+[https://github.com/sailay1996/cve-2022-21882-poc](https://github.com/sailay1996/cve-2022-21882-poc)
+[https://thehackernews.com/2022/02/cisa-orders-federal-agencies-to-patch.html](https://thehackernews.com/2022/02/cisa-orders-federal-agencies-to-patch.html)
+
+...
+<!--more-->

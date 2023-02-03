@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "AWS WAF's Dangerous Defaults"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AWS WAF's Dangerous Defaults
+[https://osamaelnaggar.com/blog/aws_waf_dangerous_defaults/](https://osamaelnaggar.com/blog/aws_waf_dangerous_defaults/)
+
+...
+<!--more-->

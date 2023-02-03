@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "SMTP Matching Abuse in Azure AD"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SMTP Matching Abuse in Azure AD
+[https://www.semperis.com/blog/smtp-matching-abuse-in-azure-ad/](https://www.semperis.com/blog/smtp-matching-abuse-in-azure-ad/)
+[https://twitter.com/hashtag/AzureAD?src=hashtag_click](https://twitter.com/hashtag/AzureAD?src=hashtag_click)
+[https://twitter.com/hashtag/Cyberattackers?src=hashtag_click](https://twitter.com/hashtag/Cyberattackers?src=hashtag_click)
+
+...
+<!--more-->

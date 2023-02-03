@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Precious Gemstones: The New Generation of Kerberos Attacks"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Precious Gemstones: The New Generation of Kerberos Attacks
+[https://unit42.paloaltonetworks.com/next-gen-kerberos-attacks/](https://unit42.paloaltonetworks.com/next-gen-kerberos-attacks/)
+
+...
+<!--more-->

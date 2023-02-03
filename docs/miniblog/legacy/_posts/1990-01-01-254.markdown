@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Utilizing Programmatic Identifiers (ProgIDs) for UAC Bypasses"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Utilizing Programmatic Identifiers (ProgIDs) for UAC Bypasses
+[https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses](https://v3ded.github.io/redteam/utilizing-programmatic-identifiers-progids-for-uac-bypasses)
+
+...
+<!--more-->

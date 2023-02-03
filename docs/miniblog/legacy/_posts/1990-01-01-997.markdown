@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Relaying PetitPotam/printerbug gegen LDAPS (Resource-based Constrained Delegation)"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Relaying PetitPotam/printerbug gegen LDAPS (Resource-based Constrained Delegation)
+[https://github.com/ly4k/PetitPotam](https://github.com/ly4k/PetitPotam)
+[https://github.com/dirkjanm/krbrelayx/blob/master/printerbug.py](https://github.com/dirkjanm/krbrelayx/blob/master/printerbug.py)
+[https://github.com/SecureAuthCorp/impacket/blob/master/examples/secretsdump.py](https://github.com/SecureAuthCorp/impacket/blob/master/examples/secretsdump.py)
+[https://github.com/ly4k/Certipy#esc8](https://github.com/ly4k/Certipy#esc8)
+[https://github.com/Hackndo/WebclientServiceScanner](https://github.com/Hackndo/WebclientServiceScanner)
+[https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py](https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py)
+[https://twitter.com/tifkin_/status/1418855927575302144](https://twitter.com/tifkin_/status/1418855927575302144)
+
+...
+<!--more-->

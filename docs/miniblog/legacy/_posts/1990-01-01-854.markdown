@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "The OWASSRF + TabShell exploit chain"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The OWASSRF + TabShell exploit chain
+[https://blog.viettelcybersecurity.com/tabshell-owassrf/](https://blog.viettelcybersecurity.com/tabshell-owassrf/)
+[https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-41076](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-41076)
+[https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e](https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e)
+[https://www.youtube.com/watch?v=i4JcvwVuCSU](https://www.youtube.com/watch?v=i4JcvwVuCSU)
+[https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-41076](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-41076)
+
+...
+<!--more-->

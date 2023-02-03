@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "AV Evasion via SysWhispers2 and more"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# AV Evasion via SysWhispers2 and more
+[https://github.com/cribdragg3r/Alaris](https://github.com/cribdragg3r/Alaris)
+
+...
+<!--more-->

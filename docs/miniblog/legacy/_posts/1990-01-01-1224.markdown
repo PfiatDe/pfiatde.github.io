@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ProxyToken: An Authentication Bypass in Microsoft Exchange Server"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# ProxyToken: An Authentication Bypass in Microsoft Exchange Server
+[https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server](https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server)
+
+...
+<!--more-->

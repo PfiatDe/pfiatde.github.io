@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Critical RCE Vulnerability Discovered in Popular Cobalt Strike Hacking Software"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Critical RCE Vulnerability Discovered in Popular Cobalt Strike Hacking Software
+[https://thehackernews.com/2022/10/critical-rce-vulnerability-discovered.html](https://thehackernews.com/2022/10/critical-rce-vulnerability-discovered.html)
+[https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/](https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/)
+[https://github.com/its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197)
+
+...
+<!--more-->

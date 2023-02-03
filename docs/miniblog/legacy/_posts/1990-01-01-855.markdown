@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CentOS 7 webpanel unauthenticated RCE - CVE-2022-44877"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CentOS 7 webpanel unauthenticated RCE - CVE-2022-44877
+[https://gist.github.com/numanturle/c1e82c47f4cba24cff214e904c227386](https://gist.github.com/numanturle/c1e82c47f4cba24cff214e904c227386)
+[https://twitter.com/_0xf4n9x_/status/1612068225046675457](https://twitter.com/_0xf4n9x_/status/1612068225046675457)
+
+...
+<!--more-->

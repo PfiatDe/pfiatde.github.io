@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "D-Link DAP-2020 PreAuthRCE - CVE-2021-27249, CVE-2021-27250"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# D-Link DAP-2020 PreAuthRCE - CVE-2021-27249, CVE-2021-27250
+[https://suid.ch/research/DAP-2020_Preauth_RCE_Chain.html](https://suid.ch/research/DAP-2020_Preauth_RCE_Chain.html)
+
+...
+<!--more-->

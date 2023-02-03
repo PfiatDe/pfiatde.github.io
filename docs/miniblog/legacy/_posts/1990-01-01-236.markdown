@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hacking Unifi Controller Passwords for Fun and WIFI"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Hacking Unifi Controller Passwords for Fun and WIFI
+[https://www.blackhillsinfosec.com/hacking-unifi-controller-passwords-for-fun-and-wifi/](https://www.blackhillsinfosec.com/hacking-unifi-controller-passwords-for-fun-and-wifi/)
+
+...
+<!--more-->

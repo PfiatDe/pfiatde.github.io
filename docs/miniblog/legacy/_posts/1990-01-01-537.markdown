@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "DD-WRT UPnP Buffer Overflow"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# DD-WRT UPnP Buffer Overflow
+[https://ssd-disclosure.com/ssd-advisory-dd-wrt-upnp-buffer-overflow/](https://ssd-disclosure.com/ssd-advisory-dd-wrt-upnp-buffer-overflow/)
+
+...
+<!--more-->

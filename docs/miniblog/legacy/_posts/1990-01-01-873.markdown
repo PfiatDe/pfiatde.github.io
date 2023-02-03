@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Linux Kernel ksmbd Use-After-Free Remote Code Execution Vulnerability"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Linux Kernel ksmbd Use-After-Free Remote Code Execution Vulnerability
+[https://www.zerodayinitiative.com/advisories/ZDI-22-1690/](https://www.zerodayinitiative.com/advisories/ZDI-22-1690/)
+[https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.61](https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.61)
+[http://nvd.nist.gov/cvss.cfm?calculator&version=3.0&vector=(AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H)](http://nvd.nist.gov/cvss.cfm?calculator&version=3.0&vector=(AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H))
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "DeepSurface Security Advisory: LPE in Firefox on Windows"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# DeepSurface Security Advisory: LPE in Firefox on Windows
+[https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/](https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/)
+
+...
+<!--more-->

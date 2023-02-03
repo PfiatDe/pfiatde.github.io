@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Skype for Business Audit Part 2 - SKYPErimeterleak"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Skype for Business Audit Part 2 - SKYPErimeterleak
+[https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html](https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html)
+
+...
+<!--more-->

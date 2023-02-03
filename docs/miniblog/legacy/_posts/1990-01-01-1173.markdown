@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SOCKS5 via RDP Dynamic Virtual Channel"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SOCKS5 via RDP Dynamic Virtual Channel
+[https://www.errno.fr/RDPTunneling.html](https://www.errno.fr/RDPTunneling.html)
+[https://github.com/nccgroup/SocksOverRDP/tree/v1.0](https://github.com/nccgroup/SocksOverRDP/tree/v1.0)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Facebook email disclosure and account takeover"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Facebook email disclosure and account takeover
+[https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9](https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9)
+
+...
+<!--more-->

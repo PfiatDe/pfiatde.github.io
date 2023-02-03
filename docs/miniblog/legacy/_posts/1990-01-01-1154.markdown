@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Executing Code In Context Of A Trusted Agent (Part 1) - Windows Defender Antivirus"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Executing Code In Context Of A Trusted Agent (Part 1) - Windows Defender Antivirus
+[https://halove23.blogspot.com/2021/08/executing-code-in-context-of-trusted.html](https://halove23.blogspot.com/2021/08/executing-code-in-context-of-trusted.html)
+[https://github.com/klinix5/WinDefendInjectPoC.git](https://github.com/klinix5/WinDefendInjectPoC.git)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Microsoft Cybersecurity Reference Architectures"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Microsoft Cybersecurity Reference Architectures
+[https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
+
+...
+<!--more-->

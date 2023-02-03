@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Google Project Zero pubished four Browser RCE 0day POC"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Google Project Zero pubished four Browser RCE 0day POC
+[https://googleprojectzero.github.io/0days-in-the-wild/rca.html](https://googleprojectzero.github.io/0days-in-the-wild/rca.html)
+[https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-21166.html](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-21166.html)
+[https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-30551.html](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-30551.html)
+[https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-33742.html](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-33742.html)
+[https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-1879.html](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-1879.html)
+
+...
+<!--more-->

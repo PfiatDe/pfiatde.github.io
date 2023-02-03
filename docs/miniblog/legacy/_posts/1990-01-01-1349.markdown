@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "BITB - Browser templates for Browser In The Browser (BITB) attack"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# BITB - Browser templates for Browser In The Browser (BITB) attack
+[https://github.com/mrd0x/BITB](https://github.com/mrd0x/BITB)
+
+...
+<!--more-->

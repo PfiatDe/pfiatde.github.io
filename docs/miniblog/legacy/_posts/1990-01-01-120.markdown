@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Elastic Container Project for Security Research"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# The Elastic Container Project for Security Research
+[https://www.elastic.co/security-labs/the-elastic-container-project](https://www.elastic.co/security-labs/the-elastic-container-project)
+[https://github.com/elastic/protections-artifacts](https://github.com/elastic/protections-artifacts)
+
+...
+<!--more-->

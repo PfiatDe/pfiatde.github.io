@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pokémon Shellcode Loader"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Pokémon Shellcode Loader
+[https://techryptic.github.io/2022/07/28/Pokemon-Shellcode-Loader/](https://techryptic.github.io/2022/07/28/Pokemon-Shellcode-Loader/)
+
+...
+<!--more-->

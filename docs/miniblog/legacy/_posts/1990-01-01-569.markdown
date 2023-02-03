@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "EoP - Windows mit Intune via Bitlocker Recovery Key"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# EoP - Windows mit Intune via Bitlocker Recovery Key
+[https://zxsecurity.co.nz/research/all-my-intune-users-are-local-administrators/](https://zxsecurity.co.nz/research/all-my-intune-users-are-local-administrators/)
+
+...
+<!--more-->

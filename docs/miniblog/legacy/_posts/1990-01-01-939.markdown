@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "FreeBSD 11.0-13.0 LPE via aio_aqueue Kernel Refcount Bug - CVE-2022-23090"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# FreeBSD 11.0-13.0 LPE via aio_aqueue Kernel Refcount Bug - CVE-2022-23090
+[https://accessvector.net/2022/freebsd-aio-lpe](https://accessvector.net/2022/freebsd-aio-lpe)
+
+...
+<!--more-->

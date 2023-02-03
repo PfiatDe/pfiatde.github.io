@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Emotet malware is back and rebuilding its botnet via TrickBot"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Emotet malware is back and rebuilding its botnet via TrickBot
+[https://www.bleepingcomputer.com/news/security/emotet-malware-is-back-and-rebuilding-its-botnet-via-trickbot/](https://www.bleepingcomputer.com/news/security/emotet-malware-is-back-and-rebuilding-its-botnet-via-trickbot/)
+[https://urlhaus.abuse.ch/url/1789877/](https://urlhaus.abuse.ch/url/1789877/)
+[https://www.virustotal.com/gui/file/c7574aac7583a5bdc446f813b8e347a768a9f4af858404371eae82ad2d136a01/detection/f-c7574aac7583a5bdc446f813b8e347a768a9f4af858404371eae82ad2d136a01-1637004780](https://www.virustotal.com/gui/file/c7574aac7583a5bdc446f813b8e347a768a9f4af858404371eae82ad2d136a01/detection/f-c7574aac7583a5bdc446f813b8e347a768a9f4af858404371eae82ad2d136a01-1637004780)
+
+...
+<!--more-->

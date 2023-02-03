@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Windows DNS Server unauth RCE - SIGRed - CVE2020-1350"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Windows DNS Server unauth RCE - SIGRed - CVE2020-1350
+[https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred](https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred)
+[https://github.com/chompie1337/SIGRed_RCE_PoC](https://github.com/chompie1337/SIGRed_RCE_PoC)
+
+...
+<!--more-->

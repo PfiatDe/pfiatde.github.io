@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HTB: Armageddon"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# HTB: Armageddon
+[https://0xdf.gitlab.io/2021/07/24/htb-armageddon.html](https://0xdf.gitlab.io/2021/07/24/htb-armageddon.html)
+
+...
+<!--more-->

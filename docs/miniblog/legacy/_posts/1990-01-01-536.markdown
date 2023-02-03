@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "H2C Smuggling in the Wild"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# H2C Smuggling in the Wild
+[https://blog.assetnote.io/2021/03/18/h2c-smuggling/](https://blog.assetnote.io/2021/03/18/h2c-smuggling/)
+
+...
+<!--more-->

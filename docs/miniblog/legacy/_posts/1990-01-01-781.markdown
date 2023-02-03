@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hacking the Furbo Dog Camera: Part I"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Hacking the Furbo Dog Camera: Part I
+[https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1)
+
+...
+<!--more-->

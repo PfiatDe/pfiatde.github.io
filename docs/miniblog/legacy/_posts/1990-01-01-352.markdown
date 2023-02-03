@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SharpImpersonation Release"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# SharpImpersonation Release
+[https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction/](https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction/)
+[https://github.com/S3cur3Th1sSh1t/SharpImpersonation](https://github.com/S3cur3Th1sSh1t/SharpImpersonation)
+
+...
+<!--more-->

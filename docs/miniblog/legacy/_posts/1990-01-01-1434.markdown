@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Making HTTP header injection critical via response queue poisoning"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Making HTTP header injection critical via response queue poisoning
+[https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning](https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning)
+
+...
+<!--more-->

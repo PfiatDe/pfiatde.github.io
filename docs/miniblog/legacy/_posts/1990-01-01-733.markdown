@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "[ENG] Creating a loader PoC using various languages"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# [ENG] Creating a loader PoC using various languages
+[https://blog.sunggwanchoi.com/creating-a-loader-poc-using-various-languages/](https://blog.sunggwanchoi.com/creating-a-loader-poc-using-various-languages/)
+
+...
+<!--more-->

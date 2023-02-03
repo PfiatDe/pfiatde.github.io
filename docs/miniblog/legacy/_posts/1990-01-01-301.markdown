@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Dumping and extracting the SpaceX Starlink User Terminal firmware"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Dumping and extracting the SpaceX Starlink User Terminal firmware
+[https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
+
+...
+<!--more-->

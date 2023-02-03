@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Secret Backdoors Found in German-made Auerswald VoIP System"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Secret Backdoors Found in German-made Auerswald VoIP System
+[https://thehackernews.com/2021/12/secret-backdoors-found-in-german-made.html](https://thehackernews.com/2021/12/secret-backdoors-found-in-german-made.html)
+[https://en.wikipedia.org/wiki/MD5](https://en.wikipedia.org/wiki/MD5)
+[https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-007/-auerswald-compact-multiple-backdoors](https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-007/-auerswald-compact-multiple-backdoors)
+[https://blog.redteam-pentesting.de/2021/inside-a-pbx/](https://blog.redteam-pentesting.de/2021/inside-a-pbx/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NTLMv1 vs NTLMv2: Digging into an NTLM Downgrade Attack"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# NTLMv1 vs NTLMv2: Digging into an NTLM Downgrade Attack
+[https://www.praetorian.com/blog/ntlmv1-vs-ntlmv2/](https://www.praetorian.com/blog/ntlmv1-vs-ntlmv2/)
+
+...
+<!--more-->

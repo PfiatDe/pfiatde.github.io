@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "CVE-2021-21551 - Dell Command Update via DBUtil_2_3"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE-2021-21551 - Dell Command Update via DBUtil_2_3
+[https://github.com/rapid7/metasploit-framework/pull/15190](https://github.com/rapid7/metasploit-framework/pull/15190)
+[https://twitter.com/zeroSteiner/status/1392595616212168706](https://twitter.com/zeroSteiner/status/1392595616212168706)
+[https://github.com/waldo-irc/CVE-2021-21551](https://github.com/waldo-irc/CVE-2021-21551)
+[https://connormcgarr.github.io/cve-2020-21551-sploit/](https://connormcgarr.github.io/cve-2020-21551-sploit/)
+
+...
+<!--more-->

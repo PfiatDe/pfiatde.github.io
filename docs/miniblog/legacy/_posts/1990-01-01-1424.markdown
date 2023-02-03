@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Solving the Unredacter Challenge"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# Solving the Unredacter Challenge
+[https://bishopfox.com/blog/unredacter-winner](https://bishopfox.com/blog/unredacter-winner)
+[https://imageupscaler.com/deblurring/](https://imageupscaler.com/deblurring/)
+
+...
+<!--more-->

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "CVE‑2021‑1079 – NVIDIA GeForce Experience Command Execution"
+date:   1990-01-01 19:55:00 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# CVE‑2021‑1079 – NVIDIA GeForce Experience Command Execution
+[https://voidsec.com/nvidia-geforce-experience-command-execution/](https://voidsec.com/nvidia-geforce-experience-command-execution/)
+
+...
+<!--more-->
