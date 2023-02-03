@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SSD Advisory – Cisco "Secure" Manager Appliance jwt_api_impl Hardcoded JWT Secret Elevation of Privilege"
+title:  "SSD Advisory – Cisco \"Secure\" Manager Appliance jwt_api_impl Hardcoded JWT Secret Elevation of Privilege"
 date:   1990-01-01 19:55:00 +0000
 author: PfiatDe
 excerpt_separator: <!--more-->

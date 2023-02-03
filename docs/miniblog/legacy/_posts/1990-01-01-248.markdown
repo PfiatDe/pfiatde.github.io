@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Account hijacking using "dirty dancing" in sign-in OAuth-flows"
+title:  "Account hijacking using \"dirty dancing\" in sign-in OAuth-flows"
 date:   1990-01-01 19:55:00 +0000
 author: PfiatDe
 excerpt_separator: <!--more-->

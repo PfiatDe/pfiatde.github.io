@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bloodhound "Spotlight""
+title:  "Bloodhound \"Spotlight\""
 date:   1990-01-01 19:55:00 +0000
 author: PfiatDe
 excerpt_separator: <!--more-->
