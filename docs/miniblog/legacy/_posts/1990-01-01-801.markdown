@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HOW TO HACK "THE MAINFRAME" ! (for real)"
+title:  "HOW TO HACK \"THE MAINFRAME\" ! (for real)"
 date:   1990-01-01 19:55:00 +0000
 author: PfiatDe
 excerpt_separator: <!--more-->
