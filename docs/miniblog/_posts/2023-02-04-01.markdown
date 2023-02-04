@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to launch Command Prompt and powershell from MS Paint"
-date:   2023-02-04 12:40:02 +0000
+date:   2023-02-04 12:40:02 +0200
 author: PfiatDe
 excerpt_separator: <!--more-->
 ---
