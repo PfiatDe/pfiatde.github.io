@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "How to launch Command Prompt and powershell from MS Paint"
+date:   2023-02-04 12:40:02 +0000
+author: PfiatDe
+excerpt_separator: <!--more-->
+---
+
+# How to launch Command Prompt and powershell from MS Paint
+[https://tzusec.com/how-to-launch-command-prompt-and-powershell-from-ms-paint/](https://tzusec.com/how-to-launch-command-prompt-and-powershell-from-ms-paint/)
+
+By painting some pixels in MS Paint and then chaning the file extension to .bat it is possible to run a cmd oder powershell. 
+6 pixels need to be saved as bmp and then renamed for a cmd.exe.
+- Red(10), Green(0), Blue(0)
+- Red(13), Green(10), Blue(13)
+- Red(100), Green(109), Blue(99)
+- Red(120), Green(101), Blue(46)
+- Red(0), Green(0), Blue(101)
+- Red(0), Green(0), Blue(0)
+<!--more-->
