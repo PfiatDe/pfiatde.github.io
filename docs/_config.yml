@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Import the theme
+theme: minima
+
 title: BadOption.eu
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -27,8 +30,16 @@ url: "https://badoption.eu" # the base hostname & protocol for your site, e.g. h
 twitter_username: pfiatde
 github_username:  PfiatDe
 
+# the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
+lang: en-US
+
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+timezone: Europe/Berlin
+
+paginate: 1000
+
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
