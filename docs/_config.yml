@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 # Import the theme
-theme: minima
 remote_theme: jekyll/minima
 
 title: BadOption.eu
