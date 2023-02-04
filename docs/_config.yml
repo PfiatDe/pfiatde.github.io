@@ -20,6 +20,7 @@
 
 # Import the theme
 theme: minima
+remote-theme: minima
 
 title: BadOption.eu
 email: your-email@example.com
@@ -43,6 +44,7 @@ timezone: Europe/Berlin
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 
 # Exclude from processing.
