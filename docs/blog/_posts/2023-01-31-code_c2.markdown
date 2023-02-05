@@ -4,7 +4,6 @@ title:  "Let's Go (VS) Code - Red Team style"
 date:   2023-01-31 21:44:17 +0000
 author: PfiatDe
 excerpt_separator: <!--more-->
-permalink: /docs/blog/2023/01/31/code_c2.html
 ---
 
 # Let's Go (VS) Code - Red Team style <br> or the Microsoft signed and hosted Reverse Shell
