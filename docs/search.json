@@ -4,7 +4,7 @@
   {% for post in site.posts %}
     {
 
-      "title"    : "{{ post.title | strip_html | escape }}",
+      "title"    : {{ post.title | strip_html | jsonify }},
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "category" : "{{post.categories | join: ', '}}",
       "tags"     : "{{ post.tags | join: ', ' }}",
