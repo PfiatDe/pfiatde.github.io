@@ -4,6 +4,7 @@ title:  "Let's Go (VS) Code - Red Team style"
 date:   2023-01-31 21:44:17 +0000
 author: PfiatDe
 excerpt_separator: <!--more-->
+permalink: /docs/blog/2023/01/31/code_c2.html
 ---
 
 # Let's Go (VS) Code - Red Team style <br> or the Microsoft signed and hosted Reverse Shell
@@ -21,7 +22,7 @@ Recently I browsed some MS documentation and stumbled across this two pages.
 
 [https://code.visualstudio.com/blogs/2022/12/07/remote-even-better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
 
-![VSCode tunnels Documentation](/docs/assets/media/Code_C2/MS_Doku_1.png){:width="100%"}
+![VSCode tunnels Documentation](/assets/media/Code_C2/MS_Doku_1.png){:width="100%"}
 *VSCode tunnels Documentation*
 
 So what do we have here? VSCode is capable of establishing a connection to a remote system. 
@@ -49,7 +50,7 @@ Lets dive in the steps.
 As the binary is signed from Microsoft, we do not need to take care of Mark-of-the-Web, as it will get ignorred and also we will Bypass Smartscreen. If combined with some tricks seen later, we will also bypass Applocker and Powershell Constrained Language Mode if in default configuration.
 
 The certificate of the binary is as following:
-![Code.exe signed by MS](/docs/assets/media/Code_C2/Code_Cert.png){:width="100%"}
+![Code.exe signed by MS](/assets/media/Code_C2/Code_Cert.png){:width="100%"}
 *Code.exe signed by MS*
 
 - Start the binary on the client.
@@ -70,7 +71,7 @@ To grant access to the server, please log into https://github.com/login/device a
 
 - We follow the instrctions and open the provided url on our attacker system.
 We will see a device code authentication, like known from Azure.
-![Github Device Code Authentication](/docs/assets/media/Code_C2/Code_Tunnel_Step1.png){:width="75%"}
+![Github Device Code Authentication](/assets/media/Code_C2/Code_Tunnel_Step1.png){:width="75%"}
 *Github Device Code Authentication*
 
 - After that, the code tunnel will be established.
@@ -96,7 +97,7 @@ We get a nice Working Project on the victims machine.
 Over the URL, we can control the path, meaning if we just use C: we get access to all files on the system, in the limits of the user permissions.
 So open [https://vscode.dev/tunnel/itsmeC2/C:](https://vscode.dev/tunnel/itsmeC2/C:) and add the C: to the workspace.
 
-![File Browser](/docs/assets/media/Code_C2/Code_C2_1.png){:width="100%"}
+![File Browser](/assets/media/Code_C2/Code_C2_1.png){:width="100%"}
 *File Browser on the target*
 
 Nice, we can browse, read and edit all the files remotly.
@@ -104,7 +105,7 @@ Nice, we can browse, read and edit all the files remotly.
 
 Filebrowsing is nice, but what about Command Execution?
 We just say: Menue -> Terminal -> New Terminal
-![Remote Powershell](/docs/assets/media/Code_C2/Code_C2_2.png){:width="100%"}
+![Remote Powershell](/assets/media/Code_C2/Code_C2_2.png){:width="100%"}
 *Remote Powershell session*
 
 and we get a nice Powershell remote session on the client.
@@ -125,7 +126,7 @@ A nice feature is the installation of extensions on the remote host.
 
 For example, we now can run some python scripts if the Python was installed on the main machine.
 One caveat here is, that we need to save the file to disk, but there might be some ways around it.
-![](/docs/assets/media/Code_C2/Code_C2_5.png){:width="100%"}
+![](/assets/media/Code_C2/Code_C2_5.png){:width="100%"}
 *Running python via an remotly installed extension*
 
 
@@ -187,13 +188,13 @@ The video is showing an example attack chain via a shortcut and gathering the de
 
 If we add some wellknown Applocker bypass paths like C:\Windows\Temp and specify a working directory with `--cli-data-dir` we can also beat a basic Applocker configuration, even with Powershell in Constrained Language Mode (CLM) running by a user without admin privileges.
 
-![](/docs/assets/media/Code_C2/Code_C2_8.png){:width="100%"}
+![](/assets/media/Code_C2/Code_C2_8.png){:width="100%"}
 *Applocker and CLM Bypass*
 
 ## IOCs & Mitigation
 
 The code binary is spawning a nodejs application and some powershell scripts, which could be detected.
-![](/docs/assets/media/Code_C2/Code_C2_Processes.png){:width="100%"}
+![](/assets/media/Code_C2/Code_C2_Processes.png){:width="100%"}
 *Process tree*
 
 The communication is going through `global.rel.tunnels.api.visualstudio.com` as Microsoft stated and via WebSockets, so this can be blocked.
@@ -203,7 +204,7 @@ The communication is going through `global.rel.tunnels.api.visualstudio.com` as 
 
 Starting VSCode in the tunnel mode, will drop some JSON files on the disk. The location of the files is handed over via the `--cli-data-dir` paramter but defaults to:
 `%UserProfile%\.vscode-cli`
-![](/docs/assets/media/Code_C2/Code_C2_7.png){:width="100%"}
+![](/assets/media/Code_C2/Code_C2_7.png){:width="100%"}
 *JSON Files dropped to disk*
 
 So monitoring for the `code_tunnel.json` might be possible.
