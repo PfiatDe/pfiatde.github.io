@@ -9,7 +9,7 @@
       "category" : "{{post.categories | join: ', '}}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "date"     : "{{ post.date }}",
-      "description" : "{{post.description | strip_html | strip_newlines | escape replace "\", "\\\\" }}",
+      "description" : "{{post.description | strip_html | strip_newlines | escape | replace "\", "\\\\" }}",
       "content" : "{{post.content | strip_html | strip_newlines | escape | replace "\", "\\\\" }}"
   
     } {% unless forloop.last %},{% endunless %}
