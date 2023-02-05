@@ -98,6 +98,10 @@ minima:
 #
 # header_pages:
 #   - about.md
+header_pages:
+  - blogs.markdown
+  - itslog.markdown
+  - search.markdown
 
 # Set to `true` to show excerpts on the homepage.
 #
