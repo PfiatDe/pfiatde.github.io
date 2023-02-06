@@ -96,7 +96,7 @@ Save and update the (zip-)file and we are done.
 If we open the file, we can clearly see our spoofed comment as approval. 
 
 ![Initial document](/assets/media/Spoof_Office/Attack_7.png){:width="100%"}
-*Initial document*
+*PoC with a spoofed approval*
 
 As office trusts itself and the data is valid, it will even show profile pictures and Teams status for the spoofed users, the same way as for other users in the tenant.
 
