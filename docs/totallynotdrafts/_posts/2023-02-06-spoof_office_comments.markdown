@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spoofing MS Office comments"
-date:   2023-02-06 21:44:17 +0000
+date:   2023-02-06 18:44:17 +0200
 author: PfiatDe
 excerpt_separator: <!--more-->
 ---
