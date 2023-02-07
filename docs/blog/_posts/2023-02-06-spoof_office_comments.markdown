@@ -39,12 +39,12 @@ Lets have a look what is happening on a file based approach.
 
 ### Create a Document & Analyse
 
-We just create an office document. For the example a `.pptx` will be used, as the file formats differ a little bit and the `.pptx` is quit easy.
+We just create an office document. For the example a `.pptx` will be used, as the file formats differ a little bit and the `.pptx` is quite easy.
 ![Initial document](/assets/media/Spoof_Office/InitDocument.png){:width="100%"}
 *Initial document*
 
 Remember that the new office files are just zip compressed, so we can rename the file or open it with 7-zip directly.
-Under the `Presentation.pptx\ppt\` path we find a folder named `comments` and an `authors.xml`.
+Under the path: `Presentation.pptx\ppt\` we find a folder named `comments` and an `authors.xml` file.
 
 ![Initial document](/assets/media/Spoof_Office/7zip.png){:width="100%"}
 *File structur*
@@ -67,9 +67,9 @@ We can use the external search feature of MS Teams to get the objectID, if the t
 The search is quering the following API:
 `https://teams.microsoft.com/api/mt/part/emea-03/beta/users/searchV2?includeDLs=true&includeBots=true&enableGuest=true&source=allTrue&skypeTeamsInfo=true`
 
-So we can just edit and resend the request with other data to get our neccessary responses. Note: This is only necessary, if you want the objectID from the same tenant, otherwise you can just lookup the original request.
+We can just edit and resend the request with other data to get our neccessary responses. Note: This is only necessary, if you want the objectID from the same tenant, otherwise you can just lookup the original request.
 
-Lets query for the CFO of our target.
+Let's query for the CFO of our target, named Mr. Spoof.
 
 ![Initial document](/assets/media/Spoof_Office/Attack_4.png){:width="100%"}
 *Query the Teams Endpoint directly*
@@ -82,7 +82,7 @@ With the gathered information, we can add another author.
 ![Initial document](/assets/media/Spoof_Office/Attack_5.png){:width="100%"}
 *Add a new author with the collected data*
 
-The `author id` can get incremented, just avoid collisions.
+The `author id` simply can get incremented, just avoid collisions.
 
 Next step is to relink our comment to the new author by editing the comment file. We just change the `author id` to our new value.
 
@@ -107,6 +107,6 @@ A really simple way to spoof some comments. You can directly do this via interce
 
 ## IOCs & Mitigation
 
-There are no real mitigation, beside signing the documents. But even signing, will just stop attackers from editing existing documents. Attackers can simply just create a new unsigned document and do the spoofing there.
+There are no real mitigations, beside signing the documents. But even signing, will just stop attackers from editing existing documents. Attackers can simply just create a new unsigned document and do the spoofing there.
 
 The best chance is to build some awareness on the user side and generally not to trust comments in Office documents.
