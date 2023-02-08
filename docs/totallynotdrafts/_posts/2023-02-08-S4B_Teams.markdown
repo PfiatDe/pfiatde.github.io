@@ -18,7 +18,6 @@ Nothing fancy new here, just some well-known techniques, which work too often an
 * Teams, if external communication is enabled, allows Userenumeration and attacker to send messages directly to employees
 * If an alias address, in the form <<ADUSER>>.company.org, Teams and S4B will happily resolve the AD-User to First and Last Name
 
-![tl;dr Proof-of-Concept](/assets/img/papers/thunderbird-tampering/Thunderbird_tldr-2022-07-19_21.16.46_redacted.gif){:width="100%"} *tl;dr Proof-of-Concept*
 
 # Introduction
 
@@ -108,7 +107,7 @@ Skype will respond in various ways to us.
 
 ## Testtenant
 
-Microsoft offers a possiblities to register a development AAD. https://developer.microsoft.com/en-us/microsoft-365/dev-program
+Microsoft offers a possiblities to register a development AAD. [https://developer.microsoft.com/en-us/microsoft-365/dev-program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 ![Developer-AAD](/assets/media/S4B/Developer-AAD.png){:width="100%"} *Developer-AAD* 
 Sounds great, doesn't it :)
@@ -122,7 +121,9 @@ Sidenote: The TestAAD also allows sending E-Mails. However the score of the outg
 Sometimes Skype does allow communication from external users, meaning from another tenant. By using TEAMS it is also possible to query skype. Therefore we can check from a tenant with access to teams if there is external communication allowed.
 
 If the external Communication is allowed, we can gather the Status of the user (avalible, busy, dnd, Out-of-Office). 
-![Developer-AAD](/assets/media/S4B/Teams_Userenumeration_Status.png){:width="50%"} *User Enumeration* 
+
+![Developer-AAD](/assets/media/S4B/Teams_Userenumeration_Status.png){:width="50%"} 
+*User Enumeration* 
 
 But even if not, we still can verify E-Mails against the company, as Teams will return a different message if the user exists. ![Developer-AAD](/assets/media/S4B/Teams_Userenumeration.png){:width="100%"} *User Enumeration* 
 
@@ -137,7 +138,8 @@ Additional interesting feature is, that the message will be sent as email, if th
 
 With our Developer AAD, we can add users like we want to. For example we can add some user called ithelpdesk@company.com as nickname. Unfortunally we can not simply improve this, by adding a generic company logo as profile picture, as the profile picture is not shared across the tenants.
 
-![Developer-AAD](/assets/media/S4B/Teams_Identity_1.png){:width="100%"} *Showing the Identity* 
+![Developer-AAD](/assets/media/S4B/Teams_Identity_1.png){:width="100%"} 
+*Showing the Identity* 
 
 If we start a group chat instead of a one-to-one chat this is getting even worse. A quite effective attack is attacking two employees at the same time.
 
@@ -220,6 +222,7 @@ Enumerate some subdomains to identify Lync / S4B installations. The most common 
 * lyncdiscover.company.org
 * meet.company.org
 * dialin.company.org
+* lync-fe.company.org
 
 The following script was used:
 
@@ -287,7 +290,4 @@ It is strange, that the security features, which were implemented for email appl
 
 Work and inspiration from others:
 
-* Thunderbird: <https://www.thunderbird.net/>
-* Blog post by exandroid: <https://www.exandroid.dev/2022/03/21/initial-access-right-to-left-override-t1036002/>
-* Tweet by @mariuszbit: <https://twitter.com/mariuszbit/status/1490438231313289216>
-* Blog post by Outflank over MotW: <https://outflank.nl/blog/2020/03/30/mark-of-the-web-from-a-red-teams-perspective/>
+* 
