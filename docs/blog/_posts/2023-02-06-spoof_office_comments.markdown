@@ -98,6 +98,12 @@ If we open the file, we can clearly see our spoofed comment as approval.
 ![Initial document](/assets/media/Spoof_Office/Attack_7.png){:width="100%"}
 *PoC with a spoofed approval*
 
+*UPDATE 08.02.2023:*
+My Azure tenant decided after a while, that it now also want to show the profile picture of the account. The sync of this took several days, however this is just a problem if you set up everything. In a real environment this should not be a point.
+![Initial document](/assets/media/Spoof_Office/Attack_8.png){:width="100%"}
+*Updated PoC*
+
+
 As office trusts itself and the data is valid, it will even show profile pictures and Teams status for the spoofed users, the same way as for other users in the tenant.
 
 ## Conclusion
