@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "How your messanger used for internal communication might compromise your network"
+title:  "How your messenger used for internal communication might compromise your network"
 date:   2023-02-08 18:44:17 +0200
 author: PfiatDe
 excerpt_separator: <!--more-->
 ---
 
-In this blog post some techniques about the messangers Mircrosoft Skype-for-Business (S4B) and Microsoft Teams regarding attacking a company network are shown.
+In this blog post some techniques about the messengers Mircrosoft Skype-for-Business (S4B) and Microsoft Teams regarding attacking a company network are shown.
 
 Nothing fancy new here, just some well-known techniques, which work too often and companies are not aware off.
 
@@ -102,6 +102,12 @@ Skype will respond in various ways to us.
 * If we can login
 
 ![Pew pew pew](/assets/media/S4B/futurama-fry.gif){:width="100%"} *Pew pew pew*
+
+## Got creds?
+S4B does not support MFA by default, so you can login for example under the `/scheduler` endpoint. Here, you have the possibility do some easy user enumeration by using the `check names` feature of a meeting.
+You can upload a few thousand names here and just see which resolves. The endpoint will happily translate the AD User to an E-Mail if there is an account connected.
+
+![Skype scheduler](/assets/media/S4B/Skype_Schedulerpng){:width="100%"} *Skype scheduler*
 
 # Skype / Teams hosted by Microsoft
 
@@ -272,9 +278,20 @@ The results of the checks are a little bit suprising:
 * 35 / 40 use Teams or Teams <-> S4B interaction
 * 10 / 40 allow external tenant communication
 
-## Detection
+## Detection & Mitigation
 
-Defender identity
+It is necessary to differ here.
+The password spraying can get detected by logging the failed attempts. As the lockout policy will likely not trigger, it is important to monitor a bigger timeframe, like five failed attempts for one account in 24h.
+Tools like Microsofts Defender Identity can support here.
+
+There is no protection against the Teams E-Mail enumeration, beside not to use Teams. However, company E-Mail addresses should not be considered as secret, as there are several ways to gather and verify them.
+
+To protect against Tishing, the easiest solution is to block external communication and use the allowlist Feature provided by MS.
+
+Those settings can be made in the Teams administration. Same goes for S4B.
+
+![Developer-AAD](/assets/media/S4B/Teams_External_Settings.png){:width="100%"} *Teams settings for external communication* 
+
 
 ## Outro
 
@@ -290,4 +307,9 @@ It is strange, that the security features, which were implemented for email appl
 
 Work and inspiration from others:
 
-* 
+* [https://mrd0x.com/microsoft-teams-abuse/](https://mrd0x.com/microsoft-teams-abuse/)
+* [https://www.mdsec.co.uk/2017/04/penetration-testing-skype-for-business-exploiting-the-missing-lync/](https://www.mdsec.co.uk/2017/04/penetration-testing-skype-for-business-exploiting-the-missing-lync/)
+* [https://www.trustedsec.com/blog/attacking-self-hosted-skype-businessmicrosoft-lync-installations/](https://www.trustedsec.com/blog/attacking-self-hosted-skype-businessmicrosoft-lync-installations/)
+* [https://github.com/nyxgeek/lyncsmash](https://github.com/nyxgeek/lyncsmash)
+* [https://github.com/insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames)
+* [https://www.sprocketsecurity.com/resources/how-to-bypass-mfa-all-day](https://www.sprocketsecurity.com/resources/how-to-bypass-mfa-all-day)
