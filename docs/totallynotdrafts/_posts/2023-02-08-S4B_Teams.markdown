@@ -94,13 +94,15 @@ Skype will respond in various ways to us.
 * If we have valid credentials, but the account does not have a skype account we well get a message
 * If we can login
 
-![Pew pew pew](/assets/media/S4B/futurama-fry.gif){:width="100%"} *Pew pew pew*
+![Pew pew pew](/assets/media/S4B/futurama-fry.gif){:width="100%"}
+*Pew pew pew*
 
 ## Got creds?
 S4B does not support MFA by default, so you can login for example under the `/scheduler` endpoint. Here, you have the possibility do some easy user enumeration by using the `check names` feature of a meeting.
 You can upload a few thousand names here and just see which resolves. The endpoint will happily translate the AD User to an E-Mail if there is an account connected.
 
-![Skype scheduler](/assets/media/S4B/Skype_Scheduler.png){:width="100%"} *Skype scheduler*
+![Skype scheduler](/assets/media/S4B/Skype_Scheduler.png){:width="100%"}
+*Skype scheduler*
 
 And remember to check [https://aka.ms/mfasetup](https://aka.ms/mfasetup), an attacker controlled added MFA is quite useful.
 
@@ -113,7 +115,8 @@ To attack such a setting, we need an AAD with a Teams account. The free version 
 
 Microsoft offers a possibilities to register a development AAD. [https://developer.microsoft.com/en-us/microsoft-365/dev-program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
-![Developer-AAD](/assets/media/S4B/Developer-AAD.png){:width="100%"} *Developer-AAD* 
+![Developer-AAD](/assets/media/S4B/Developer-AAD.png){:width="100%"}
+*Developer-AAD* 
 Sounds great, doesn't it :)
 
 There are some restrictions in place, for example it is not possible to share public available files. However, the TEAMS service is running great and we can (ab)use this to compromise our target.
@@ -129,7 +132,8 @@ If the external Communication is allowed, we can gather the Status of the user (
 ![Developer-AAD](/assets/media/S4B/Teams_Userenumeration_Status.png){:width="50%"} 
 *User Enumeration* 
 
-But even if not, we still can verify E-Mails against the company, as Teams will return a different message if the user exists. ![Developer-AAD](/assets/media/S4B/Teams_Userenumeration.png){:width="100%"} *User Enumeration* 
+But even if not, we still can verify E-Mails against the company, as Teams will return a different message if the user exists. ![Developer-AAD](/assets/media/S4B/Teams_Userenumeration.png){:width="100%"}
+*User Enumeration* 
 
 
 ## Skype or Teams phishing (skyshing / tishing)
@@ -156,10 +160,12 @@ Furthermore, as the name of the AAD can be choosen during the setup phase, it is
 
 S4B / Teams does also not offer protection against spoofing things in messages. For example a simple HTML spoofing is possible. Meaning the text and the link are pointing to different sites.
 By looking at the requests causing a new message to send it is quite obvious how to change the tags.
-![Developer-AAD](/assets/media/S4B/Teams_Spoof_2.png){:width="100%"} *Showing the Identity* 
+![Developer-AAD](/assets/media/S4B/Teams_Spoof_2.png){:width="100%"}
+*Spoofing a link* 
 
 By doing this, it is possible to craft messages, which open a malicious URL despite showing a company owned URL.
-![Developer-AAD](/assets/media/S4B/Teams_Spoof_1.png){:width="100%"} *Showing the Identity* 
+![Developer-AAD](/assets/media/S4B/Teams_Spoof_1.png){:width="100%"}
+*Spoofed link in message* 
 
 This is a very well-known attack vector for e-mails and most appliances are detecting this technique for e-mails.
 
@@ -217,7 +223,8 @@ Those companies have been analyzed about their S4B or Teams infrastructure. The 
 
 To gather some emails and the main domain common third party tools can be used. Just to name some: phonebook.cz, ... Just take the TLD with the most hits, in most cases this is good.
 
-![Developer-AAD](/assets/media/S4B/Enum_Emails.png){:width="100%"} *Showing the Identity* 
+![Developer-AAD](/assets/media/S4B/Enum_Emails.png){:width="100%"}
+*Collect some emails for checks* 
 
 ## Check for Lync / S4B
 
@@ -261,7 +268,8 @@ By quering the endpoint
 `https://teams.microsoft.com/api/mt/part/emea-03/beta/users/FIRST.LAST@company.com/externalsearchv3?includeTFLUsers=true` 
 with the adjusted data from the e-mail gathering, or by just using the search field in the webclient, we can detect what setup is in use.
 A typical result will look like this.
-![Developer-AAD](/assets/media/S4B/Teams_Settings_6.png){:width="100%"} *Showing the Identity* 
+![Developer-AAD](/assets/media/S4B/Teams_Settings_6.png){:width="100%"}
+*Result of the external collaboration* 
 
 
 ## Outcome
@@ -285,7 +293,8 @@ To protect against tishing, the easiest solution is to block external communicat
 
 Those settings can be made in the Teams administration. Same goes for S4B.
 
-![Developer-AAD](/assets/media/S4B/Teams_External_Settings.png){:width="100%"} *Teams settings for external communication* 
+![Developer-AAD](/assets/media/S4B/Teams_External_Settings.png){:width="100%"}
+*Teams settings for external communication* 
 
 And as usual, if there is no technical countermeassure, users should be aware of the risk.
 
