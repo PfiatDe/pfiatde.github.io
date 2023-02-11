@@ -32,20 +32,24 @@ When talking about Skype-for-Business (S4B) also the predecessor Lync is meant.
 
 S4B can often detected via a subdomain called lyncdiscover.company.org. If the domain exist, it will typical return a XML file, telling where the S4B Server can be found.
 
-```(curl https://lyncdiscover.##OnPrem##.com).rawcontent
+```
+(curl https://lyncdiscover.##OnPrem##.com).rawcontent
 HTTP/1.1 200 OK
 X-MS-Server-Fqdn: SI0PLY01.de.##OnPrem##.com
 [...]
 
-{"_links":{"self":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnPrem##.com"},"user":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/AutodiscoverService.svc/root/oauth/user?originalDomain=##OnPrem##.com"},"xframe":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/XFrame/XFrame.html"}}}```
+{"_links":{"self":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnPrem##.com"},"user":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/AutodiscoverService.svc/root/oauth/user?originalDomain=##OnPrem##.com"},"xframe":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/XFrame/XFrame.html"}}}
+```
 
 If S4B is hosted by Microsoft, the response would look like this:
 
-```(curl http://lyncdiscover.##OnMS##.com).rawcontent
+```
+(curl http://lyncdiscover.##OnMS##.com).rawcontent
 HTTP/1.1 200 OK
 [...]
 
-{"_links":{"self":{"href":"https://webdirgb1.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"},"xframe":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root/xframe"},"redirect":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"}}}```
+{"_links":{"self":{"href":"https://webdirgb1.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"},"xframe":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root/xframe"},"redirect":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"}}}
+```
 
 If you follow the link to the S4B server you may get a `403 - Forbidden: Access is denied.`. You can still identify the S4B by the favicon, or you could just try the `/scheduler` endpoint. This brings up a wonderful login page with internal AD credentials.
 ![Scheduler endpoint](/assets/media/S4B/Skype_Scheduler2.png){:width="100%"} 
