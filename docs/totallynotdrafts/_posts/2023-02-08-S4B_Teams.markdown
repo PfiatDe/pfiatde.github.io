@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 In this blog post some techniques about the messengers Microsoft Skype-for-Business (S4B) and Microsoft Teams regarding attacking a company network are shown.
 
-Nothing fancy new here, just some well-known techniques, which work too often and companies are not aware off. The success rate for this kind of phishing / social engineering is very high.
+Just some well-known techniques, which work way too often and companies and employees are not aware off. The success rate for this kind of phishing / social engineering is very high.
 
 # tl;dr
 
@@ -18,7 +18,7 @@ Nothing fancy new here, just some well-known techniques, which work too often an
 * S4B, if external communication is enabled, allows attacker to send messages directly to employees
 * Teams, even if external communication is prohibited, allows user-enumeration via E-Mail address, 
 * Teams, if external communication is enabled, allows user-enumeration, status gathering and an attacker to send messages directly to employees
-* If an alias address, in the form `<<ADUSER>>.company.org`, Teams and S4B will happily resolve the AD-User to First and Last Name
+* If an alias address is in use, e.g. `<<ADUSER>>.company.org`, Teams and S4B will happily resolve the AD-User to First and Last Name
 
 
 # Introduction
@@ -78,7 +78,7 @@ Please note, that S4B will typically take either the E-Mail address or the usern
 
 ## Statistically likely
 
-If we don't know the usersyntax, or just want to gather more users, we can use special lists, like the repo [https://github.com/insidetrust/statistically-likely-usernames][statistically-likely-usernames] , or gather our own lists, for example with typical lastnames for that country from wikipedia. To add some variation, we can also try tools like masher to have a bigger variation of accounts. 
+If we don't know the usersyntax, or just want to gather more users, we can use special lists, like the repo [https://github.com/insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) , or gather our own lists, for example with typical lastnames for that country from wikipedia. To add some variation, we can also try tools like masher to have a bigger variation of accounts. 
 
 Tool: masher
 
