@@ -23,7 +23,7 @@ Just some well-known techniques, which work way too often and companies and empl
 
 # Introduction
 
-When talking about Skype-for-Business (S4B) also the predecessor Lync is meant.
+When talking about Skype-for-Business (S4B) also the predecessor Lync is likely affected.
 
 
 # S4B
@@ -51,7 +51,7 @@ HTTP/1.1 200 OK
 {"_links":{"self":{"href":"https://webdirgb1.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"},"xframe":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root/xframe"},"redirect":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"}}}
 ```
 
-If you follow the link to the S4B server you may get a `403 - Forbidden: Access is denied.`. You can still identify the S4B by the favicon, or you could just try the `/scheduler` endpoint. This brings up a wonderful login page with internal AD credentials.
+If you follow the link to the S4B server you may get a `403 - Forbidden: Access is denied.`. You can still identify the S4B by the favicon, or you could just try the `/scheduler` endpoint. This brings up a wonderful login page for internal ActiveDirectory credentials.
 ![Scheduler endpoint](/assets/media/S4B/Skype_Scheduler2.png){:width="100%"} 
 *Scheduler endpoint*
 
@@ -100,7 +100,9 @@ Skype will respond in various ways to us.
 S4B does not support MFA by default, so you can login for example under the `/scheduler` endpoint. Here, you have the possibility do some easy user enumeration by using the `check names` feature of a meeting.
 You can upload a few thousand names here and just see which resolves. The endpoint will happily translate the AD User to an E-Mail if there is an account connected.
 
-![Skype scheduler](/assets/media/S4B/Skype_Schedulerpng){:width="100%"} *Skype scheduler*
+![Skype scheduler](/assets/media/S4B/Skype_Scheduler.png){:width="100%"} *Skype scheduler*
+
+And remember to check [https://aka.ms/mfasetup](https://aka.ms/mfasetup), an attacker controlled added MFA is quite useful.
 
 # Skype / Teams hosted by Microsoft
 
