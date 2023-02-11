@@ -98,7 +98,10 @@ You can upload a few thousand names here and just see which resolves. The endpoi
 
 # Skype / Teams hosted by Microsoft
 
+As Microsoft (announced in 2021 that they are changing the default setting for external communication in Teams)[https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-ignite-fall-2021-innovations-coming-to-microsoft-teams/ba-p/2824127] Threat actors and RedTeams all over the world celebrated. This opened a new door for highly effective phishing attacks. External communication is now allowed by default and must actively turned off.
+
 ## Testtenant
+To attack such a setting, we need an AAD with an Teams account. The free version of Teams, does work for enumeration, but will likely not work for communication or show at least more warnings.
 
 Microsoft offers a possiblities to register a development AAD. [https://developer.microsoft.com/en-us/microsoft-365/dev-program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
