@@ -6,7 +6,7 @@ author: PfiatDe
 excerpt_separator: <!--more-->
 ---
 
-# How your messenger used for internal communication might compromise your company
+# How your messenger used for internal communication (Teams or S4B) might compromise your company 
 
 In this blog post some techniques about the messengers Microsoft Skype-for-Business (S4B) and Microsoft Teams regarding attacking a company network are shown.
 
