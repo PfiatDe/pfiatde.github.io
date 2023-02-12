@@ -41,7 +41,7 @@ HTTP/1.1 200 OK
 X-MS-Server-Fqdn: SI0PLY01.de.##OnPrem##.com
 [...]
 
-`{"_links":{"self":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnPrem##.com"},"user":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/AutodiscoverService.svc/root/oauth/user?originalDomain=##OnPrem##.com"},"xframe":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/XFrame/XFrame.html"}}}`
+{"_links":{"self":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnPrem##.com"},"user":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/AutodiscoverService.svc/root/oauth/user?originalDomain=##OnPrem##.com"},"xframe":{"href":"https://si-pool1-webext.##OnPrem##.com/Autodiscover/XFrame/XFrame.html"}}}
 ```
 
 If S4B is hosted by Microsoft, the response would look like this:
@@ -50,7 +50,7 @@ If S4B is hosted by Microsoft, the response would look like this:
 HTTP/1.1 200 OK
 [...]
 
-`{"_links":{"self":{"href":"https://webdirgb1.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"},"xframe":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root/xframe"},"redirect":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"}}}`
+{"_links":{"self":{"href":"https://webdirgb1.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"},"xframe":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root/xframe"},"redirect":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"}}}
 ```
 
 
