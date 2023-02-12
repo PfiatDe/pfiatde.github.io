@@ -12,7 +12,7 @@ Be carefull, links might contain malware and dangerous and malicious exploits. Y
     {% if post.categories contains "miniblog" %}
       <div style="margin: 10px 5px; border:white outset">
       <li style="list-style-type: none;">
-        Date: {{ post.date | date: "%-d %B %Y" }} -- Author: {{ post.author }} -- Link: <a href="{{ post.url }}">{{ post.url }}</a>
+        <img src = "/assets/svg/calendar-days-solid.svg" style="height: 1em;"/> {{ post.date | date: "%-d %B %Y" }} <img src = "/assets/svg/robot-solid.svg" style="height: 1em;"/> {{ post.author }} <img src = "/assets/svg/link-solid.svg" style="height: 1em;"/> <a href="{{ post.url }}">{{ post.url }}</a>
         {{ post.excerpt }}
       </li>
       </div>
