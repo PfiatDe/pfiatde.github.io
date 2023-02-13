@@ -81,9 +81,8 @@ Please note, that S4B will typically take either the E-Mail address or the usern
 
 ## Statistically likely
 
-If we don't know the usersyntax, or just want to gather more users, we can use special lists, like the repo [https://github.com/insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) , or gather our own lists, for example with typical lastnames for that country from wikipedia. To add some variation, we can also try tools like masher to have a bigger variation of accounts. 
+If we don't know the usersyntax, or just want to gather more users, we can use special lists, like the repo [https://github.com/insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) , or gather our own lists, for example with typical lastnames for that country from wikipedia. To add some variation, we can also try simple tools like [namemash](https://gist.githubusercontent.com/superkojiman/11076951/raw/74f3de7740acb197ecfa8340d07d3926a95e5d46/namemash.py) to have a bigger variation of accounts. 
 
-Tool: masher
 
 Be aware, that if there is a custom prefix (e.g. DE1) or suffix to the username, this technique might fail.
 
@@ -137,6 +136,8 @@ If the external Communication is allowed, we can gather the Status of the user (
 
 But even if not, we still can verify emails against the company, as Teams will return a different message if the user exists. ![Developer-AAD](/assets/media/S4B/Teams_Userenumeration.png){:width="100%"}
 *User Enumeration* 
+
+We can also do this in a automated manner, either via proxy (Burp Suite) or via [GoMapEnum](https://github.com/nodauf/GoMapEnum).
 
 
 ## Skype or Teams phishing (skyshing / tishing)
