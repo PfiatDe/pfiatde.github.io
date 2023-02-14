@@ -2,7 +2,7 @@
 
 ## Why badoption.eu?
 KDC_ERR_BADOPTION (13).
-In reference to one of the famost and not very helpfull Kerberos failure, this site should help a little bit to keep an overview about things going on in IT-Sec.
+In reference to one of the most famous and not very helpful Kerberos failure, this site should help a little bit to keep an overview about things going on in IT-Sec.
 
 ## What to expect here
 a) Blogposts about stuff I found interesting
@@ -11,7 +11,7 @@ a) Blogposts about stuff I found interesting
 b) ITSLOG : IT-Security Miniblogs, to keep track of new stuff
 [https://badoption.eu/itslog](https://badoption.eu/itslog).
 
-c) A search engine specially for IT-Security relevant stuff (Work-in-Progress)
+c) A search engine specifically for IT-Security relevant stuff (Work-in-Progress)
 
 ## Whoami
 RedTeamer from Germany, thats why content is limited to relevant topics.
@@ -19,5 +19,5 @@ RedTeamer from Germany, thats why content is limited to relevant topics.
 ## Disclaimer
 - Opinions are my own
 - If there are missing references to something, please let me know, I am happy to add
-- MALWARE : Links and PoCs might contain MALWARE (and almost certainly will). Linked content is not 100% audited. If you find Malware in PoCs or other stuff, please tell me, I will add a warning then.
+- MALWARE : Links and PoCs might contain MALWARE (and almost certainly will). Linked content is not 100% audited. If you find malware in PoCs or other stuff, please tell me, I will add a warning then.
 
