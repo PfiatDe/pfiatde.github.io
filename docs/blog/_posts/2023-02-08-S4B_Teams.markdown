@@ -318,5 +318,4 @@ Work and inspiration from others:
 * [https://github.com/insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames)
 * [https://www.sprocketsecurity.com/resources/how-to-bypass-mfa-all-day](https://www.sprocketsecurity.com/resources/how-to-bypass-mfa-all-day)
 
-<img src="https://badoption.goatcounter.com/count?p=/S4B_Teams">
-<img src="https://badoption.goatcounter.com/counter/S4B_Teams.png">
+<img src="https://github.com/PfiatDe/pfiatde.github.io/blob/main/docs/assets/media/S4B/futurama-fry.gif" width="1" height="1">
