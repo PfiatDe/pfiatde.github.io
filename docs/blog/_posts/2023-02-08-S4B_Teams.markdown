@@ -8,32 +8,32 @@ excerpt_separator: <!--more-->
 
 # How your messenger used for internal communication (Teams or S4B) might compromise your company 
 
-In this blog post some techniques about the messengers Microsoft Skype-for-Business (S4B) and Microsoft Teams regarding attacking a company network are shown.
+In this blog post, some techniques about the messengers Microsoft Skype-for-Business (S4B) and Microsoft Teams regarding attacking a company network are demonstrated.
 
-Just some well-known techniques, which work way too often and companies and employees are not aware off. The success rate for this kind of phishing / social engineering is very high. 
+The following are just some well-known techniques, which work way too often and companies and employees are not aware off. The success rate for this kind of phishing / social engineering is very high. 
 
-Most of the points come from the [mdsec](https://www.mdsec.co.uk/2017/04/penetration-testing-skype-for-business-exploiting-the-missing-lync/) or the [mr.d0x](https://mrd0x.com/microsoft-teams-abuse/) blog. 
+Most of the named points derive from the [mdsec](https://www.mdsec.co.uk/2017/04/penetration-testing-skype-for-business-exploiting-the-missing-lync/) or the [mr.d0x](https://mrd0x.com/microsoft-teams-abuse/) blog. 
 <!--more-->
 
 # tl;dr
 
-* S4B in a self hosted version allows timebased user-enumeration and password-spraying against the complete Active Directory, not only users with a Skype account
-* S4B, if external communication is enabled, allows attacker to send messages directly to employees
-* Teams, even if external communication is prohibited, allows user-enumeration via E-Mail address, 
-* Teams, if external communication is enabled, allows user-enumeration, status gathering and an attacker to send messages directly to employees
-* If an alias address is in use, e.g. `<<ADUSER>>.company.org`, Teams and S4B will happily resolve the AD-User to First and Last Name
+* S4B in a self hosted version permits timebased user-enumeration and password-spraying against the complete Active Directory and not only against users with a Skype account
+* S4B, if external communication is enabled, allows attackers to send messages directly to employees
+* Teams, even if external communication is prohibited, allows user-enumeration via e-mail addresses, 
+* Teams, if external communication is enabled, allows user-enumeration, status gathering and attackers to send messages directly to employees
+* If an alias address is in use, e.g. `<<ADUSER>>.company.org`, Teams and S4B will happily resolve the AD-User to first and last name
 
 
 # Introduction
 
-When talking about Skype-for-Business (S4B) also the predecessor Lync is likely affected.
+When we talk about Skype-for-Business (S4B), it is important to note that the predecessor Lync is also likely affected by the same vulnerabilites.
 
 
 # S4B
 
 ## Detection of Skype for Business (S4B)
 
-S4B can often detected via a subdomain called lyncdiscover.company.org. If the domain exist, it will typical return a XML file, telling where the S4B Server can be found.
+S4B can often be detected via a subdomain called lyncdiscover.company.org. If the domain exists, it will typically return an XML file, which reveals where the S4B server can be found.
 
 ```
 (curl https://lyncdiscover.##OnPrem##.com).rawcontent
@@ -54,35 +54,34 @@ HTTP/1.1 200 OK
 {"_links":{"self":{"href":"https://webdirgb1.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"},"xframe":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root/xframe"},"redirect":{"href":"https://webdir1E.online.lync.com/Autodiscover/AutodiscoverService.svc/root?originalDomain=##OnMS##.com"}}}
 ```
 
-If you follow the link to the S4B server you may get a `403 - Forbidden: Access is denied.`. You can still identify the S4B by the favicon, or you could just try the `/scheduler` endpoint. This brings up a wonderful login page for internal ActiveDirectory credentials.
+If you follow the link to the S4B server, you may get a `403 - Forbidden: Access is denied.` response. You can still identify the S4B by the favicon, or you could just try to reach the `/scheduler` endpoint. This endpoint displays a wonderful login page for discovering internal ActiveDirectory credentials.
 ![Scheduler endpoint](/assets/media/S4B/Skype_Scheduler2.png){:width="100%"} 
 *Scheduler endpoint*
 
 
 ## NTLM Authentication
-If a S4B instance is onprem, there are several endpoints, which allows NTLM authentication. 
+If a S4B instance is onprem, there are several endpoints, which allow NTLM authentication. 
 
-An endpoint allowing NTLM authentication leaks some useful information for an attacker. With the tool NTLMRecon or also with an good old nmap script we can gather the hostname and more important the internal domain name (FQDN).
+An endpoint allowing NTLM authentication leaks some useful information for an attacker. With the tool NTLMRecon or also with an good old nmap script, we can gather the hostname and more importantly the internal domain name (FQDN).
 
 ![NMAP](/assets/media/S4B/NTLM_Auth_2.png){:width="100%"}
 *Extracting Domaindata with Nmap*
 ![NTLMRecon](/assets/media/S4B/NTLM_Auth.png){:width="100%"} 
 *Extracting Domaindata with NTLMRecon*
 
-Furthermore, NTLM Authentication endpoints are great for password spraying, as the speed is good and also multithreading is not a problem.
+Furthermore, NTLM Authentication endpoints are great for password spraying, as the speed of NTLM authentication is rather fast and also permits multithreading.
 
 ## User enumeration
 
-If we already know the user syntax by OSINT we can just validate accounts here. One big plus of S4B in a selfhosted environment is, that it is querying against the complete ActiveDirectory and also reporting users which have definetly no skype account, like the krbtgt user which can be used to verify if everything is working.
+If we already discovered the user syntax by OSINT, we can just validate accounts here. One big plus of S4B in a selfhosted environment is that it is querying against the complete ActiveDirectory and also reporting users which definetly have no skype account, like the krbtgt user, which can be used to verify if everything is working.
 
-Tools like [lyncsmasher](https://github.com/nyxgeek/lyncsmash) come in helpfully here, or we can also just use burp to measure the response time. A valid user will have a significant shorter response time then an invalid one. Typically the difference should be about 500ms for valid user to 5s for an invalid. If the account is disabled, S4B will mention this in a message.
+Tools like [lyncsmasher](https://github.com/nyxgeek/lyncsmash) come in handy here, or we can also just use burp to measure the response time. A valid user will have a significant shorter response time then an invalid one. Typically the difference should be about 500ms for valid user and 5s for an invalid user. If the account is disabled, S4B will mention this in a message.
 
-Please note, that S4B will typically take either the E-Mail address or the username with the domain prefix, like `AD-Customer\MMustermann`
+Please note, that S4B will typically take either the e-mail address or the username with the domain prefix, like `AD-Customer\MMustermann`
 
 ## Statistically likely
 
-If we don't know the usersyntax, or just want to gather more users, we can use special lists, like the repo [https://github.com/insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) , or gather our own lists, for example with typical lastnames for that country from wikipedia. To add some variation, we can also try simple tools like [namemash](https://gist.githubusercontent.com/superkojiman/11076951/raw/74f3de7740acb197ecfa8340d07d3926a95e5d46/namemash.py) to have a bigger variation of accounts. 
-
+If we don't know the user syntax, or just want to gather more users, we can use special lists, like the repository [https://github.com/insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) , or gather our own lists, for example with typical lastnames for that country from wikipedia. To create accounts with more variation, we can also try simple tools like [namemash](https://gist.githubusercontent.com/superkojiman/11076951/raw/74f3de7740acb197ecfa8340d07d3926a95e5d46/namemash.py).
 
 Be aware, that if there is a custom prefix (e.g. DE1) or suffix to the username, this technique might fail.
 
@@ -91,45 +90,45 @@ Be aware, that if there is a custom prefix (e.g. DE1) or suffix to the username,
 Skype will respond in various ways to us.
 
 * If the user does not exist, the response will be typically around 5s, or at least significant longer then when we have a valid user.
-* If we have a wrong password, skype will tell us
+* If we have entered a wrong password, Skype will tell us
 * If the account is disabled, Skype will tell us
-* If we have valid credentials, but the account does not have a skype account we will get a message
-* If we can login to skype
+* If we have valid credentials, but the account does not have a Skype account, we will get a message
+* If we can login to Skype
 
 ![Pew pew pew](/assets/media/S4B/futurama-fry.gif){:width="100%"}
 *Pew pew pew*
 
 ## Got creds?
-S4B does not support MFA by default, so you can login for example under the `/scheduler` endpoint. Here, you have the possibility do some easy user enumeration by using the `check names` feature of a meeting.
-You can upload a few thousand names here and just see which resolves. The endpoint will happily translate the AD User to an E-Mail if there is an account connected.
+S4B does not support MFA by default, so you can login for example under the `/scheduler` endpoint. Here, you have the possibility to untertake some easy user enumeration by using the `check names` feature of a meeting.
+You can upload a few thousand names here and just see which names resolve. The endpoint will happily translate the AD User to an e-mail if there is an account connected.
 
 ![Skype scheduler](/assets/media/S4B/Skype_Scheduler.png){:width="100%"}
 *Skype scheduler*
 
-And remember to check [https://aka.ms/mfasetup](https://aka.ms/mfasetup), an attacker controlled added MFA is quite useful.
+And remember to check [https://aka.ms/mfasetup](https://aka.ms/mfasetup), because an attacker controlled, added MFA is quite useful.
 
 # Skype / Teams hosted by Microsoft
 
-As Microsoft [announced in 2021 that they are changing the default setting for external communication in Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-ignite-fall-2021-innovations-coming-to-microsoft-teams/ba-p/2824127) Threat actors and RedTeams all over the world celebrated. This opened a new door for highly effective phishing attacks. External communication is now allowed by default and must actively turned off.
+As Microsoft [announced in 2021 that they are changing the default setting for external communication in Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-ignite-fall-2021-innovations-coming-to-microsoft-teams/ba-p/2824127), threat actors and RedTeams all over the world celebrated. This opened a new door for highly effective phishing attacks. External communication is now allowed by default and must actively be turned off.
 
-## Testtenant
-To attack such a setting, we need an AAD with a Teams account. The free version of Teams, does work for enumeration, but will likely not work for communication or show at least more warnings.
+## Test tenant
+To attack such a setting, we need an AAD with a Teams account. The free version of Teams, does work for enumeration, but will likely not work for communication or display at least more warnings.
 
-Microsoft offers a possibilities to register a development AAD. [https://developer.microsoft.com/en-us/microsoft-365/dev-program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
+Microsoft offers the possibility to register a development AAD. [https://developer.microsoft.com/en-us/microsoft-365/dev-program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 ![Developer-AAD](/assets/media/S4B/Developer-AAD.png){:width="100%"}
 *Developer-AAD* 
 Sounds great, doesn't it :)
 
-There are some restrictions in place, for example it is not possible to share public available files. However, the TEAMS service is running great and we can (ab)use this to compromise our target.
+There are some restrictions in place, for example, it is not possible to share public available files. However, the Teams service runs great and we can (ab)use this to compromise our target.
 
-Sidenote: The TestAAD also allows sending emails. However the score of the outgoing SMTP is so bad, that Microsoft itself does not accept those emails for other tenants. But of course, there might be a lot of companies out there, still accepting those emails.
+Sidenote: The TestAAD also allows us to send emails. However, the score of the outgoing SMTP is so bad, that Microsoft itself does not accept those emails for other tenants. But, of course, there might be a lot of companies out there which still accept those kind of emails.
 
 ## Leak of user information
 
-Sometimes Skype does allow communication from external users, meaning from another tenant. By using TEAMS it is also possible to query skype. Therefore we can check from a tenant with access to teams if there is external communication allowed.
+Sometimes Skype does permit communication from external users, meaning from another tenant. By using Teams, it is also possible to query Skype. Therefore, we can check from a tenant with access to Teams if external communication is allowed.
 
-If the external Communication is allowed, we can gather the Status of the user (available, busy, dnd, Out-of-Office). 
+If the external communication is allowed, we can gather the status of the user (available, busy, dnd, out-of-office). 
 
 ![Developer-AAD](/assets/media/S4B/Teams_Userenumeration_Status.png){:width="50%"} 
 *User Enumeration* 
@@ -144,25 +143,25 @@ We can also do this in a automated manner, either via proxy (Burp Suite) or via 
 
 Sometimes Skype does allow communication from external users, meaning from another tenant. As Skype is typically regarded as internal communication tool this is a high efficent phishing vector!
 
-Additional interesting feature is, that the message will be sent as email, if there was no reaction over some time. This allows us to send a email, technically coming from the own Skype server to the user. This mail will typical not be flagged as external and also not land in quarantine.
+An additional interesting feature is that the message will be sent as an email, if there was no reaction over some time. This allows us to send a email, technically coming from the internal Skype server to the user. This mail will typical not be flagged as external and also not land in quarantine.
 
 ### Faking a contact person
 
-With our Developer AAD, we can add users like we want to. For example we can add some user called ithelpdesk@company.com as nickname. Unfortunately we can not simply improve this, by adding a generic company logo as profile picture, as the profile picture is not shared across the tenants.
+With our developer AAD, we can add users as we wish. For example, we can add some user called ithelpdesk@company.com as nickname. Unfortunately, we can not simply improve this, by adding a generic company logo as profile picture, because the profile picture is not shared across the tenants.
 
 ![Developer-AAD](/assets/media/S4B/Teams_Identity_1.png){:width="100%"} 
 *Showing the Identity* 
 
-If we start a group chat instead of a one-to-one chat this is getting even worse for the defender perspective. A quite effective attack is attacking two employees at the same time.
+If we start a group chat instead of a one-to-one chat, different and more dangerous scenarios from the defender perspective arise. A quite effective attack is attacking two employees at the same time.
 
 
 
-If we have a look at the account this is quite confusing and does trick people into believing the identity of the account. Only by hovering the account preview there will be a full address like `it-helpdeskcompany@t0#####.onmicrosoft.com` which is still quite trustworthy, as `onmicrosoft.com` emails are used for every AAD in background. 
-Furthermore, as the name of the AAD can be choosen during the setup phase, it is also possible to take something like `selfservice-company.onmicrosoft.com`.
+If we have a look at the account, this is quite confusing and does trick people into believing the identity of the account. Only by hovering over the account preview, there will be a full address like `it-helpdeskcompany@t0#####.onmicrosoft.com` which is still quite trustworthy, as `onmicrosoft.com` emails are used for every AAD in background. 
+Furthermore, as the name of the AAD can be choosen during the setup phase, it is also possible to choose something like `selfservice-company.onmicrosoft.com`.
 
 ### Spoofing
 
-S4B / Teams does also not offer protection against spoofing things in messages. For example a simple HTML spoofing is possible. Meaning the text and the link are pointing to different sites.
+S4B / Teams does also not offer protection against spoofing things in messages. For example, a simple HTML spoofing is possible. Meaning the text and the link are pointing to different sites.
 By looking at the requests necessary to send a new message, it is quite obvious how to change the tags.
 ![Developer-AAD](/assets/media/S4B/Teams_Spoof_2.png){:width="100%"}
 *Spoofing a link* 
@@ -171,13 +170,13 @@ By doing this, it is possible to craft messages, which open a malicious URL desp
 ![Developer-AAD](/assets/media/S4B/Teams_Spoof_1.png){:width="100%"}
 *Spoofed link in message* 
 
-This is a very well-known attack vector for emails and most appliances are detecting this technique for emails.
+This is a very well-known attack vector for emails and most appliances detect this technique for emails.
 
 
 
 # Analysis of TOP DAX companies
 
-To further provide some data about the possible risk the DAX-Companies have been quickly analyzed.
+To further provide some data about the possible risk, the DAX-Companies have been quickly analyzed.
 The DAX (Deutscher Aktienindex (German stock index) is the most important stock market index consisting of 40 major German companies:
 
 * Adidas
@@ -221,11 +220,11 @@ The DAX (Deutscher Aktienindex (German stock index) is the most important stock 
 * Vonovia
 * Zalando
 
-Those companies have been analyzed about their S4B or Teams infrastructure. The following very simple methodic was used.
+These companies have been analyzed in regard to their S4B or Teams infrastructure. The following very simple methodic was used:
 
-## Find the main Domain and some Mails
+## Find the main domain and some email addresses
 
-To gather some emails and the main domain common third party tools can be used. Just to name some: phonebook.cz, ... Just take the TLD with the most hits, in most cases this is good.
+To gather some email addresses and the main domain, common third party tools can be used. Just to name some: phonebook.cz, ... Just take the TLD with the most hits, in most cases this is good.
 
 ![Developer-AAD](/assets/media/S4B/Enum_Emails.png){:width="100%"}
 *Collect some emails for checks* 
@@ -270,8 +269,8 @@ $dax | ForEach-Object {$u = "https://lync-fe.$($_.domain)"; $u;  iwr -uri $u}
 
 By querying the endpoint
 `https://teams.microsoft.com/api/mt/part/emea-03/beta/users/FIRST.LAST@company.com/externalsearchv3?includeTFLUsers=true` 
-with the adjusted data from the e-mail gathering, or by just using the search field in the webclient, we can detect what setup is in use.
-A typical result will look like this.
+with the adjusted data from the email gathering, or by just using the search field in the webclient, we can detect what setup is in use.
+A typical result will look like this:
 ![Developer-AAD](/assets/media/S4B/Teams_Settings_6.png){:width="100%"}
 *Result of the external collaboration* 
 
@@ -288,25 +287,25 @@ The results of the checks are a little bit suprising:
 ## Detection & Mitigation
 
 It is necessary to differ here.
-The password spraying can get detected by logging the failed attempts. As the lockout policy will likely not trigger, it is important to monitor a bigger timeframe, like five failed attempts for one account in 24h.
+Password spraying can be detected by logging the amount of failed attempts. As the lockout policy will likely not trigger, it is important to monitor a bigger timeframe, like five failed attempts for one account within 24h.
 Tools like Microsofts Defender Identity can support here.
 
-There is no protection against the Teams E-Mail enumeration, beside not to use Teams. However a company E-Mail address should not be considered as secret, as there are several ways to gather and verify them.
+There is no protection against Teams email enumeration, besides to stop using Teams. However, a company email address should not be considered as secret, as there are several ways to gather and verify them.
 
-To protect against tishing (Phishing via Teams), the easiest solution is to block external communication and use the allowlist Feature provided by MS.
+To protect against tishing (phishing via Teams), the easiest solution is to block external communication and to use the allowlist feature provided by Microsoft.
 
-Those settings can be made in the Teams administration, similiar for S4B.
+These settings can be made in the Teams administration, similiarly for S4B.
 
 ![Developer-AAD](/assets/media/S4B/Teams_External_Settings.png){:width="100%"}
 *Teams settings for external communication* 
 
-And as usual, if there is no technical countermeassure, users should be trained to be aware of the risk. However, as we know, there is always this one click, or this one passwort entered.
+And as usual, if there is no technical countermeassure, users should be trained to be aware of the risk. However, as we know, there will always be this one click, or this one password entered.
 
 # Conclusion
 
-Microsofts S4B and Teams delivers an attacker a good attack surface. At a minimum it is possible to enumerate email addresses and therefore validate users collected from OSINT. If there is a selfhosted S4B, it allows password spraying against the ActiveDirectory and will leak the FQDN of the server. If external tenant communication is allowed, an attacker might go for tishing, which is very effective, as most employees see Teams as an internal messenger and therefore trust it. The fact, that for example the username or links can be spoofed increases the chances of an attacker to deliver an successfull attack.
+Microsoft's S4B and Teams deliver an attacker a good attack surface. At a minimum, it is possible to enumerate email addresses and therefore validate users collected from OSINT. If there is a selfhosted S4B, it permits password spraying against the ActiveDirectory and will leak the FQDN of the server. If external tenant communication is allowed, an attacker could perform tishing, which is very effective, as most employees see Teams as an internal messenger and therefore trust it. The fact that, for example, the username or links can be spoofed increases the chances of an attacker to deliver an successfull attack.
 
-It is strange, that the security features, which were implemented for email appliances over decades are just ignorred for messengers and the decision from Microsoft to enable the external communication by default is highly questionable from a security perspective.
+It is strange that the security features, which were implemented for email appliances over decades are just ignorred for messengers. Furthermore, the decision from Microsoft to enable the external communication by default is highly questionable from a security perspective.
 
 # Links
 
